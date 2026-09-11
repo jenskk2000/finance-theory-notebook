@@ -1,0 +1,38 @@
+{
+  "name": "session-08",
+  "session": 8,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses08_300k.mp4",
+  "path": "/media/session-08.mp4",
+  "youtube_id": "cny-1yDbQno",
+  "segments": [
+    {
+      "title": "Equities",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/1a73fa3aa648112abeaf33cbfadc0bff_cny-1yDbQno.pdf",
+      "captions": "static_resources/643bff5eb6d55f84b409f0a17b3a4798_cny-1yDbQno.vtt"
+    }
+  ],
+  "bytes": 175313494,
+  "sha256": "b1efe259d8dada09c44a9fd4f53ba657c386c96474a1f3b05a4d98be159c8897",
+  "duration_seconds": 4531.05,
+  "caption_end_seconds": 4531.01,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2265.53,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4526.05,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

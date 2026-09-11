@@ -1,0 +1,154 @@
+{
+  "source": "static_resources/73c95059e657c8a7acb042ea33a21940_MIT15_401F08_lec02.pdf",
+  "sha256": "4edeee28fb825caa7bfd9398e7007afa8882078632fc7211649999cc95ced8ff",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLectures 2Lectures 2––33: Present Value Relations: Present Value Relations\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Cashflows and Assets\n The Present Value Operator\n The Time Value of Money\n Special Cashflows: The Perpetuity\n Special Cashflows: The Annuity\n Compounding\n Inflation\n Extensions and Qualifications\nReadings:\n Brealey, Myers, and Allen Chapters 2–3"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 3\nCashflows and AssetsCashflows and Assets\nKey Question:  What Is An “Asset”?\n Business entity\n Property, plant, and equipment\n Patents, R&D\n Stocks, bonds, options, …\n Knowledge, reputation, opportunities, etc.\nFrom A Business Perspective, An Asset Is A Sequence of Cashflows\n"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 4\nCashflows and AssetsCashflows and Assets\nExamples of Assets as Cashflows\n Boeing is evaluating whether to proceed with development of a new \nregional jet. You expect development to take 3 years, cost roughly \n$850 million, and you hope to get unit costs down to $33 million. You \nforecast that Boeing can sell 30 planes every year at an average price \nof $41 million.\n Firms in the S&P 500 are expected to earn, collectively, $66 this year \nand to pay dividends of $24 per share, adjusted to index.  Dividends \nand earnings have grown 6.6% annually (or about 3.2% in real terms) \nsince 1926.\n You were just hired by HP.  Your initial pay package includes a grant \nof 50,000 stock options with a strike price of $24.92 and an expiration \ndate of 10 years.  HP’s stock price has varied between $16.08 and \n$26.03 during the past two years."
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 5\nCashflows and AssetsCashflows and Assets\nValuing An Asset Requires Valuing A Sequence of Cashflows\n Sequences of cashflows are the “basic building blocks” of finance\nAlways Draw A Timeline To Visualize The Timing of Cashflows\n"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 6\nThe Present Value OperatorThe Present Value Operator\nWhat is Vt?\n What factors are involved in determining the value of any object?\n– Subjective?\n– Objective?\n How is value determined?\nThere Are Two Distinct Cases\n No Uncertainty\n– We have a complete solution\n Uncertainty\n– We have a partial solution (approximation)\n– The reason: synergies and other interaction effects\n Value is determined the same way, but we want to understand how"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 7\nThe Present Value OperatorThe Present Value Operator\nKey Insight:  Cashflows At Different Dates Are Different “Currencies”\n Consider manipulating foreign currencies\n¥150  +  £300   =   ???"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 8\nThe Present Value OperatorThe Present Value Operator\nKey Insight:  Cashflows At Different Dates Are Different “Currencies”\n Consider manipulating foreign currencies\n¥150  +  £300   =   ??450\n Cannot add currencies without first converting into common currency\n¥150  +  (£300) × (153 ¥ / £)  =   ¥46,050.00\n(¥150) × (0.0065 £ / ¥ ) +  £300 = £ 300.98\n Given exchange rates, either currency can be used as “numeraire”\n Same idea for cashflows of different dates\n?"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 9\nThe Present Value OperatorThe Present Value Operator\nKey Insight:  Cashflows At Different Dates Are Different “Currencies”\n Past and future cannot be combined without first converting them\n Once “exchange rates” are given, combining cashflows is trivial\n A numeraire date should be picked, typically t=0 or “today”\n Cashflows can then be converted to present value\n"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 10\nThe Present Value OperatorThe Present Value Operator\nNet Present Value: “Net” of Initial Cost or Investment\n Can be captured by date-0 cashflow CF0\n If there is an initial investment, then CF0 < 0\n Note that any CFt can be negative (future costs)\n V0 is a completely general expression for net present value\nHow Can We Decompose V0 Into Present Value of Revenues and Costs?\n"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 11\nThe Present Value OperatorThe Present Value Operator\nExample:\n Suppose we have the following “exchange rates”:\n What is the net present value of a project requiring a current \ninvestment of $10MM with cashflows of $5MM in Year 1 and $7MM in \nYear 2?\n Suppose a buyer wishes to purchase this project but pay for it two \nyears from now.  How much should you ask for?\n"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 12\nThe Present Value OperatorThe Present Value Operator\nExample:\n Suppose we have the following “exchange rates”:\n What is the net present value of a project requiring an investment of \n$8MM in Year 2, with a cashflow of $2MM immediately and a cashflow\nof $5 in Year 1?\n Suppose a buyer wishes to purchase this project but pay for it two \nyears from now.  How much should you ask for?\n"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 13\nThe Time Value of MoneyThe Time Value of Money\nImplicit Assumptions/Requirements For NPV Calculations\n Cashflows are known (magnitudes, signs, timing)\n Exchange rates are known\n No frictions in currency conversions\nDo These Assumptions Hold in Practice?\n Which assumptions are most often violated?\n Which assumptions are most plausible?\nUntil Lecture 12, We Will Take These Assumptions As Truth\n Focus now on exchange rates\n Where do they come from, how are they determined?"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 14\nThe Time Value of MoneyThe Time Value of Money\nWhat Determines The Growth of $1 Over T Years?\n $1 today should be worth more than $1 in the future (why?)\n Supply and demand\n Opportunity cost of capital r\n Equivalence of $1 today and any other single choice above\n Other choices are future values of $1 today\n$1i nY ear0 = $1 × (1 + r)i n Year 1\n$1i nY ear0 = $1 × (1 + r)2 in Year 2\n...\n$1i nY ear0 = $1 × (1 + r)T in Year T"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 15\nThe Time Value of MoneyThe Time Value of Money\nWhat Determines The Value Today of $1 In Year-T?\n $1 in Year-T should be worth less than $1 today (why?)\n Supply and demand\n Opportunity cost of capital r\n These are our “exchange rates” ($t/$0) or discount factors\n$1/(1 + r) inY ear0 = $1i nY ear1\n$1/(1 + r)2 in Year 0 = $1 in Year 2\n...\n$1/(1 + r)T in Year 0 = $1 in Year T"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 16\nThe Time Value of MoneyThe Time Value of Money\nWe Now Have An Explicit Expression for V0:\n Using this expression, any cashflow can be valued!\n Take positive-NPV projects, reject negative NPV-projects\n Projects ranked by magnitudes of NPV\n All capital budgeting and corporate finance reduces to this expression\n However, we still require many assumptions (perfect markets)\nV0 =C F0 + 1\n(1 + r) × CF1 + 1\n(1 + r)2 × CF2 + ···\nV0 =C F0 + CF1\n(1 + r) + CF2\n(1 + r)2 + ·· ·"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 17\nThe Time Value of MoneyThe Time Value of Money\nExample:\n Suppose you have $1 today and the interest rate is 5%.  How much\nwill you have in …\n1 year … $1 × 1.05 = $1.05\n2 years … $1 × 1.05 × 1.05 = $1.103\n3 years … $1 × 1.05 × 1.05 × 1.05 = $1.158\n $1 today is equivalent to  $                      in t years\n $1 in t years is equivalent to  $                today\n"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 18\nThe Time Value of MoneyThe Time Value of Money\nPV of $1 Received In Year tPV of $1 Received In Year t\n$0.0\n$0.2\n$0.4\n$0.6\n$0.8\n$1.0\n0 2 4 6 8 101 21 41 61 82 02 2 242 62 83 0\nYear when $1 is received\nr = 0.04 r = 0.08 r = 0.12"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 19\nThe Time Value of MoneyThe Time Value of Money\nExample:\nYour firm spends $800,000 annually for electricity at its Boston\nheadquarters. Johnson Controls offers to install a new computer-\ncontrolled lighting system that will reduce electric bills by $90,000 in \neach of the next three years. If the system costs $230,000 fully\ninstalled, is this a good investment?\nLighting System*\n* Assume the cost savings are known with certainty and the interest rate \nis  4%\nYear 0 1 2 3\nCashflow -230,000 90,000 90,000 90,000"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 20\nThe Time Value of MoneyThe Time Value of Money\nExample:\nLighting System\n Go ahead – project looks good!\nYear 01 23\nCashflow -230,000 90,000 90,000 90,000\n÷ 1.04 (1.04)2 (1.04)3\nPV -230,000 86,538 83,210 80,010\nNPV = -230,000 + 86,538 + 83,210 + 80,010 = $19,758"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 21\nThe Time Value of MoneyThe Time Value of Money\nExample:\nCNOOC recently made an offer of $67 per share for Unocal.  As part of \nthe takeover, CNOOC will receive $7 billion in ‘cheap’ loans from its \nparent company:  a zero-interest, 2-year loan of $2.5 billion and a \n3.5%, 30-year loan of $4.5 billion.  If CNOOC normal borrowing rate is \n8%, how much is the interest subsidy worth?\n Interest Savings, Loan 1:  2.5 × (0.08 – 0.000) = $0.2 billion\n Interest Savings, Loan 2:  4.5 × (0.08 – 0.035) = $0.2 billion\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 22\nSpecial Special CashflowsCashflows: The Perpetuity: The Perpetuity\nPerpetuity Pays Constant Cashflow C Forever\n How much is an infinite cashflow of C each year worth?\n How can we value it?\n"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 23\nSpecial Special CashflowsCashflows: The Perpetuity: The Perpetuity\nGrowing Perpetuity Pays Growing Cashflow C(1+g)t Forever\n How much is an infinite growing cashflow of C each year worth?\n How can we value it?\n"
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 24\nSpecial Special CashflowsCashflows: The Annuity: The Annuity\nAnnuity Pays Constant Cashflow C For T Periods\n Simple application of V0\n"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 25\nSpecial Special CashflowsCashflows: The Annuity: The Annuity\nAnnuity Pays Constant Cashflow C For T Periods\n Sometimes written as a product:\n"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 26\nSpecial Special CashflowsCashflows: The Annuity: The Annuity\nAnnuity Pays Constant Cashflow C For T Periods\n Related to perpetuity formula\nPerpetuity\nMinus\nDate-T Perpetuity\nEquals\nT-Period Annuity\n"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 27\nSpecial Special CashflowsCashflows: The Annuity: The Annuity\nExample:\nYou just won the lottery and it pays $100,000 a year for 20 years. Are you \na millionaire? Suppose that r = 10%.\n What if the payments last for 50 years?\n How about forever (a perpetuity)?\n"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 28\nCompoundingCompounding\nInterest May Be Credited/Charged More Often Than Annually\n Bank accounts: daily\n Mortgages and leases: monthly\n Bonds: semiannually\n Effective annual rate may differ from annual percentage rate\n Why?\nTypical Compounding Conventions:\n Let r denote APR, n periods of compounding\n r/n is per-period rate for each period\n Effective annual rate (EAR) is\n10% Compounded Annually, Semi-\nAnnually, Quarterly, and Monthly\nrEAR ≡ (1 + r/n)n − 1"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 29\nCompoundingCompounding\nExample:\nCar loan—‘Finance charge on the unpaid balance, computed daily, at the \nrate of 6.75% per year.’\nIf you borrow $10,000, how much would you owe in a year?\nDaily interest rate = 6.75 / 365 = 0.0185%\nDay 1: Balance = 10,000.00 × 1.000185 = 10,001.85\nDay 2: Balance = 10,001.85 × 1.000185 = 10,003.70\n… …\nDay 365: Balance = 10,696.26 × 1.000185 = 10,698.24\nEAR = 6.982% > 6.750%"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 30\nInflationInflation\nWhat Is Inflation?\n Change in real purchasing power of $1 over time\n Different from time-value of money (how?)\n For some countries, inflation is extremely problematic\n How to quantify its effects?\nWealth Wt ⇔ Price Index It\nWealth Wt+k ⇔ Price Index It+k\nIncrease in Cost of Living ≡ It+k/It =( 1 + π)k\n“Real Wealth” fWt+k ≡ Wt+k/(1 + π)k"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 31\nInflationInflation\n"
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 32\nInflationInflation\nFor NPV Calculations, Treat Inflation Consistently \n Discount real cashflows using real interest rates\n Discount nominal cashflows using nominal interest rates\n– Nominal cashflows ⇒ expressed in actual-dollar cashflows\n– Real cashflows ⇒ expressed in constant purchasing power\n– Nominal rate ⇒ actual prevailing interest rate\n– Real rate ⇒ interest rate adjusted for inflation"
+    },
+    {
+      "page": 33,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 33\nInflationInflation\nExample:\nThis year you earned $100,000. You expect your earnings to grow 2% \nannually, in real terms, for the remaining 20 years of your career. \nInterest rates are currently 5% and inflation is 2%.  What is the present \nvalue of your income?\nReal Interest Rate = 1.05 / 1.02 – 1 = 2.94%\nReal Cashflows\nPresent Value = $1,818,674\nYear 1 2 … 20\nCashflow 102,000 104,040 … 148,595\n÷ 1.0294 1.029422 … 1.0294220\nPV 99,086 98,180 … 83,219"
+    },
+    {
+      "page": 34,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 34\nExtensions and QualificationsExtensions and Qualifications\n Taxes\n Currencies\n Term structure of interest rates\n Forecasting cashflows\n Choosing the right discount rate (risk adjustments)"
+    },
+    {
+      "page": 35,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 35\nKey PointsKey Points\n Assets are sequences of cashflows\n Date-t cashflows are different from date-(t+k) cashflows\n Use “exchange rates” to convert one type of cashflow into another\n PV and FV related by “exchange rates”\n Exchange rates are determined by supply/demand\n Opportunity cost of capital: expected return on equivalent investments \nin financial markets\n For NPV calculations, visualize cashflows first\n Decision rule: accept positive NPV projects, reject negative ones\n Special cashflows: perpetuities and annuities\n Compounding\n Inflation\n Extensions and Qualifications"
+    },
+    {
+      "page": 36,
+      "text": "© 2007–2008 by Andrew W. LoLecture 2-3: Present Value Relations\n15.401\nSlide 36\nAdditional ReferencesAdditional References\nBodie, Z. and R. Merton, 2000, Finance.  New Jersey: Prentice Hall.\nBrealey, R., Myers, S., and F. Allen, 2006, Principles of Corporate Finance.  New York: McGraw-Hill \nIrwin.\nCopeland, T., Weston, F. and K. Shastri, 2003, Financial Theory and Corporate Policy, (4th Edition).  \nReading, MA: Addison-Wesley."
+    },
+    {
+      "page": 37,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

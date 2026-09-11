@@ -1,0 +1,82 @@
+{
+  "source": "static_resources/d06836b650ba4d4b3e8e1d6e2ed0b43f_MIT15_401F08_midterm.pdf",
+  "sha256": "efd516a1e5f1b375e02b7bfc218bd21a3008dd18ff3df3d1b51bb30cf82b1437",
+  "pages": [
+    {
+      "page": 1,
+      "text": "� � \nName: MIT ID:\n15.407 Sample Mid-Term Examination – Fall 2008\nPlease check to be certain that your copy of this examination contains 18 pages (including \nthis one). Write your name and MIT ID number on every page. You are allowed one 81\n2 \n′′ ×11′′ \nsheet of notes and one non-programmable non-PDA calculator. Unlike the group projects, \nyou are to answer these examination questions without consulting anyone. No scratch paper \nis allowed—do all your work on these examination pages. \nFor simplicity, assume that the coupon payments for all coupon bonds occur annually, i.e., \nonce a year, not semi-annually as is the convention in practice. \nYou have eighty (80) minutes to complete this examination. Credit for each question is \nproportional to the amount of time you ought to spend on it. Therefore, do not agonize over \na 10-point question without having tackled a 40-point question. Good luck! \nSome Useful Formulas \nn � C C 1 NPV = = 1 − (Annuity) (1)(1 + r)k r (1 + r)n \nk=1 \n∞ � C C NPV = = (Perpetuity) (2)(1 + r)k rk=1 \n∞ � D D Price = = (DDM) (3)(1 + r)k rk=1 \n∞ � D(1 + g)k− 1 D Price = = (DDM with growth) (4)(1 + r)k r − gk=1 \nFall 2008 15.407 Sample Mid-Term Page 1 of 18\n"
+    },
+    {
+      "page": 2,
+      "text": "Name: MIT ID: \n15.407 Mid-Term Examination 2008 Grade Sheet \n1.\n / 10 \n2.\n / 10 \n3.\n / 20 \n4.\n / 30 \n5.\n / 20 \n6.\n / 30 \n120Total\n / \nFall 2008 15.407 Sample Mid-Term Page 2 of 18\n"
+    },
+    {
+      "page": 3,
+      "text": "Name: MIT ID: \nQuestion 1 (10 points): \nIf the annual interest rate is 10 percent, how long would you have to wait before a $17,500 \ninvestment at least doubles in value? Give the minimum number of years required. \nFall 2008 15.407 Sample Mid-Term Page 3 of 18\n"
+    },
+    {
+      "page": 4,
+      "text": "Name: MIT ID: \nQuestion 2 (10 points): \nYour car dealer oﬀers you a loan for part of the purchase price of a new car, citing an annual \npercentage rate (APR) of 8.5%. What is the eﬀective annual rate of such a loan (recall that \nan auto loan typically requires monthly payments)? \nFall 2008 15.407 Sample Mid-Term Page 4 of 18\n"
+    },
+    {
+      "page": 5,
+      "text": "Name: MIT ID: \nQuestion 3 (20 points): \nCompany ABC has just paid a dividend of 50 cents per share. Because of its growth po­\ntential, its dividend is forecasted to grow at a rate of 7 percent per year indeﬁnitely. If the \ncompany’s appropriate cost of capital (given its risk) is 11 percent, what was ABC’s share \nprice immediately before it paid its 50 cent dividend, i.e the stock price right before the \nex-dividend date? \nFall 2008 15.407 Sample Mid-Term Page 5 of 18\n"
+    },
+    {
+      "page": 6,
+      "text": "Name: MIT ID:\nExtra Space For Question 3:\nFall 2008 15.407 Sample Mid-Term Page 6 of 18\n"
+    },
+    {
+      "page": 7,
+      "text": "Name:\t MIT ID: \nQuestion 4 (30 points): \nThe current market price of a two-year 25 percent coupon bond with a $1,000 face value is \n$1,219.71 (recall that such a bond pays coupons of $250 at the end of years 1 and 2, and \nthe principal of $1,000 at the end of year 2). The current market price of a one-year pure \ndiscount bond with a $50 face value is $44.64. \n(a) (15 points)\t What must the price of a two-year pure discount bond with a $2,500 face \nvalue be in order to avoid arbitrage? \nFall 2008\t 15.407 Sample Mid-Term Page 7 of 18\n"
+    },
+    {
+      "page": 8,
+      "text": "Name:\t MIT ID: \nQuestion 4 Continued: \n(b) (15 points)\t Suppose the price of the two-year pure discount bond with a $2,500 face \nvalue is only $1,900. Is there an arbitrage opportunity? Is yes, how would you structure \na trade that has zero cash-ﬂow in years 1 and 2 and a positive cash-ﬂow only in year \n0 (i.e. now). \nFall 2008\t 15.407 Sample Mid-Term Page 8 of 18\n"
+    },
+    {
+      "page": 9,
+      "text": "Name: MIT ID:\nExtra Space For Question 4:\nFall 2008 15.407 Sample Mid-Term Page 9 of 18\n"
+    },
+    {
+      "page": 10,
+      "text": "Name: MIT ID: \nQuestion 5 (20 points): \nYour friend is celebrating her 35th birthday today and wants to start saving for her antici­\npated retirement at age 65 (she will retire on her 65th birthday). She would like to be able to \nwithdraw $80,000 from her savings account on each birthday for at least 20 years following \nher retirement (the ﬁrst withdrawal will be on her 66th birthday). Your friend intends to \ninvest her money in the local savings bank which oﬀers 4 percent per year. She wants to \nmake equal annual deposits on each birthday in a new savings account she will establish for \nher retirement fund. \nIf she starts making these deposits on her 36th birthday and continues to make deposits \nuntil she is 65 (the last deposit will be on her 65th birthday), what amount must she deposit \nannually to be able to make the desired withdrawals upon retirement? \nFall 2008 15.407 Sample Mid-Term Page 10 of 18\n"
+    },
+    {
+      "page": 11,
+      "text": "Name: MIT ID:\nExtra Space For Question 5:\nFall 2008 15.407 Sample Mid-Term Page 11 of 18\n"
+    },
+    {
+      "page": 12,
+      "text": "Name: MIT ID: \nQuestion 6 (30 points): \nThe current level of the S&P 500 is 1040. The risk-free interest rate per year is 2%. Assume \nnegligible dividends. The 6 month futures contract is trading at 1060. \n(a)(15 points) Is there an arbitrage opportunity? Brieﬂy explain. \nFall 2008 15.407 Sample Mid-Term Page 12 of 18\n"
+    },
+    {
+      "page": 13,
+      "text": "Name: MIT ID: \nQuestion 7 Continued: \n(b)(15 points) If there is an arbitrage opportunity, what strategy would you use to exploit \nit without using any funds of your own? \nFall 2008 15.407 Sample Mid-Term Page 13 of 18\n"
+    },
+    {
+      "page": 14,
+      "text": "Name: MIT ID:\nExtra Space For Question 6(b):\nFall 2008 15.407 Sample Mid-Term Page 14 of 18\n"
+    },
+    {
+      "page": 15,
+      "text": "Name: MIT ID:\nExtra Space For Answers – Please Specify Question Number:\nFall 2008 15.407 Sample Mid-Term Page 15 of 18\n"
+    },
+    {
+      "page": 16,
+      "text": "Name: MIT ID:\nExtra Space For Answers – Please Specify Question Number:\nFall 2008 15.407 Sample Mid-Term Page 16 of 18\n"
+    },
+    {
+      "page": 17,
+      "text": "Name: MIT ID:\nExtra Space For Answers – Please Specify Question Number:\nFall 2008 15.407 Sample Mid-Term Page 17 of 18\n"
+    },
+    {
+      "page": 18,
+      "text": "Name: MIT ID:\nExtra Space For Answers – Please Specify Question Number:\nFall 2008 15.407 Sample Mid-Term Page 18 of 18\n"
+    },
+    {
+      "page": 19,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I\n \nFall 2008\n \nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

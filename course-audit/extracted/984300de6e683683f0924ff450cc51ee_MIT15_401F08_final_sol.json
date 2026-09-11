@@ -1,0 +1,14 @@
+{
+  "source": "static_resources/984300de6e683683f0924ff450cc51ee_MIT15_401F08_final_sol.pdf",
+  "sha256": "440558f4ffc784d3f1f9169596b9f328c18c31ec1d362f397ad1673270b8b7fd",
+  "pages": [
+    {
+      "page": 1,
+      "text": "1 Fall 2008 \nSample final results \n1a) True \n1b) False \n1c) False \n1d) False \n1e) False \n1f) True \n1g) True \n1h) False \n2) 19 years after subscribing (Assumption: The ﬁrst $750 fee membership fee payment is \nmade after one year (that is in t = 1, not t = 0). Moreover, it is $750 in t = 1 (not 750 × 1.05 \n= $787.5 in t = 1)) \n3a) r1 = 2.59%, r2 = 5.28%, r3 = 6.04% \n3b) f12 = 8.04%, f13 = 7.81%, f23 = 7.58% \n3c) $105.58 \n4a) rQ = 5.375%, rR = 12.875%, rS = 0.5% \n4b) Q = $43.18; R = $66.45; S = $20.90 \n5a) $47.08 \n5b) $10.24 \n6a) r3−month = 7.97%; r9−month = 6.54% \n6b) Sell your December 2007 production at the price of $706.42/oz and your June 2008 \nproduction at $726.70/oz \n6c) 2.68% (annualized), using rf = 7.97% (from part a) \n7a) Year 0 = -50.00; Year 1 = 12.05; Year 2 = 10.82; Year 3 = 9.70; Year 4 = 8.70; Year 5 \n= 7.79 \n7b) Discounting the cash ﬂows above at 10% cost of capital, the NPV is negative. Do not \nengage in the project. \n8a) Assuming S&P 500 is good proxy to market, αT = −0.127%; αU = 0.35% \n8b) rT = 1.027%; rU = 1.05% \n8c) Invest all your money in the S&P500 \n9a) E[rp] = 11.5%; Stdev = 26.08% \n9b) 0.282 (rf = 4%) \n9c) 17.1% \n10a) $2.76 \n10b) $3.80 \n10c) $0 - $97.2 (if not discounting), $0 - $96.96 (if discounting) \n10d) Butterﬂy spread "
+    },
+    {
+      "page": 2,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I\n \nFall 2008\n \nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

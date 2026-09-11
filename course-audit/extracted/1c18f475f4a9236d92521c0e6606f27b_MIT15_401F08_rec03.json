@@ -1,0 +1,66 @@
+{
+  "source": "static_resources/1c18f475f4a9236d92521c0e6606f27b_MIT15_401F08_rec03.pdf",
+  "sha256": "1ce63b294c7cfa2b77b89bc995cd73c18e30e998a2f84540bc5a2c32034adfd5",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n3: Common Stocks "
+    },
+    {
+      "page": 2,
+      "text": "\nLearning Objectives \n Review of Concepts  Review of Concepts \no Discounted cash flow (DCF)\no PVGO\n EExamplles\no Flancrest Enterprises \no ComppuGlobalHypyp erMeggaNet \no Globex Corporation \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "Review: DCF \n\tThe stock price today = sum of all expected future \tThe stock price today sum of all expected future \ndividends discounted at the appropriate risk‐\nadjusted rate. \n\tConstant dividend: \nDP0\t  0 \nr \n\tGrowing dividend (r > g): \nD P0\t  D1 \nr  g \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: DCF \n Components of DCF:  Components of DCF: \no D: dividend forecast based on historical data and future\nprediction \noo r: ththe discountt ratte = rf (i(risk‐free ratte due tto time vallue ofdi k f d ti f \nmoney) + π (risk premium due to risk of dividend stream). \no g: growth rate based on… \n• return on equity (ROE): earnings / book value of equity \n• plowback ratio (b): retained earnings / total earnings \n• gg = ROE x bROE x b.. \n• Note: g must be the long‐run growth rate. \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Review: PVGO \n\tWe can separate the value of a firm into its ongoing\n\tWe can separate the value of a firm into its ongoing \nvalue and value of growth opportunities: \nEPS P0  PVGOPVGO  1  PVGOP  VV0 \t PVGO r \n PVGO can be solved from the above equation, \nh P i di d f DCFwhere P0 is derived from DCF. \n Conversely, we can find the implied rate of return on \na stock given market data:a stock given market data: \nD\t D 1 g  r  1  g  0  gP00 P00 \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "Example 1: Flancrest Enterprises \n Flancrest Enterprises recently paid a dividend of $1  Flancrest Enterprises recently paid a dividend of $1 \nper share. Its dividend is expected to grow at 20% \nfor years 1‐5. Afterwards, the growth rate will slow \ndown to 5%. If the cost of capital for Flancrest \nEnterprises is 15%, what is the price of its stock \ntd ?today? \nD = 1.2 1.22 … … 1.25 1.25x1.05 1.25x1.052 … … \n0 1 2 … … 5 6 7 … … periods0 1 2 … … 5 6 7 … … periods \n What is the ex‐dividend price of the stock at time 1? \nWhat is the rate of return of the stock in Year 1? \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Example 1: Flancrest Enterprises\n Time 0:  Time 0: \n0 1 2 … … 5 6 7 … … periods \nD = 1.2 1.22 … … 1.25 1.25x1.05 1.25x1.052 … … \n1.2 1.2\n2 \n1.2\n5 \n PV of Year 1‐5:  2  5  5.6912 1.15 1 15  1 15 1.15 11.1515 \n1.25 1.05 1 \n PV of Year 6‐∞:  5  12.9899 0.15  0.05 1.15\n0.15 0.05 1 15 \n Price: 5.6912 12.9899  $18.68 \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "0 1 2 … … 5 6 7 … … periods \nExample 1: Flancrest Enterprises \n Time 1: Time 1: \nD = 1.22 … … 1.25 1.25x1.05 1.25x1.052 … … \n PV of Year 2‐5: 11.22\n2 \n 11.22\n3 \n 11.22\n5 \n 5.3449 1.15 1.15\n2 \n1.15\n4 \n PV of Year 6‐∞: 11.225 11.0505  11 \n4  14.9384 0.15  0.05 1.15 \n Pi 55.34493449 14 9384 Price:  $20 2814.9384 $20.28 \n Return: $20.28  $1.2 1  15.00% $18 68$18.68 \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "Example 2: CompuGlobalHyperMegaNet\n\tCompuGlobalHyperMegaNet (CGHMN) has an EPS\n\tCompuGlobalHyperMegaNet (CGHMN) has an EPS \nof $2 last year. It has a payout ratio of 25% and ROE \nof 10%. If investors expect a return of 10% from the \nfirm, \no What is CGHMN’s stock price? \no What is CGHMN’s PVGO? o What is CGHMN s PVGO? \no What is CGHMN’s P/E ratio? \n How would the answers change if \no ROE = 12%? \no ROE = 9% \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "   \nExample 2: CompuGlobalHyperMegaNet \n (ROE = 10%) (ROE 10%) \no g  ROE  b  0.1 1 0.25  0.075\nD11 D00  1 gg  2  0.25 1 0.075\nP 0     $21 50P $21.50 r  g r  g 0.10  0.075 \no 1.075PVGO  P0  EPSEPS1  21.5  22 1 075  $0.00 r 0.10\noo P 21 5\nPE0  P0  21.5  10EPS1 2 1.075 \n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "   \nExample 2: CompuGlobalHyperMegaNet \n (ROE = 12%) (ROE 12%) \no g  ROE  b  0.12 1 0.25  0.09\nD D  1 gg  2  0.25 1 0.09\nP 0  1  00   $54 50P 1 $54.50 r  g r  g 0.10  0.09 \no 1.09PVGO  P0  EPSEPS1  54.5  22 1 09  $32.70 r 0.10\noo PP 5454.5050\nPE0  0   25EPS1 2 1.09 \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": " 7..\nExample 2: CompuGlobalHyperMegaNet \n (ROE = 9%) (ROE 9%) \no g  ROE  b  0.09 1 0.25  0.0675\n2  0.25 1 0.0675\nP 0  $$16 42 P  16.42 0.10  0.0675 \no 1.0675PVGO  P0  EPSEPS1  16.42  22 1 0675  $4.93 r 0.10\noo PP 1616.4242\nPE0  0   7.69EPS1 2 1.0675 \n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 3: Globex Corporation \n The dividend yield for shares of the Union Pacific  The dividend yield for shares of the Union Pacific \nRailroad is 1.9%. Security analysts are forecasting \nrapid growth in Globex’s earnings per share (EPS), \nabout 12.7% per year for the next three years. Does \nthat imply an expected rate of return of 1.9 + 12.7 = \n6%? El i14.6%? Explain. \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "Example 3: Globex Corporation \n\tAnswer:\tAnswer: \nNo. \no EPS is only growing at 12.7% for the next three years, not\nf h d f l b\nforever. The expected rate of return can only increase by \nless than that amount. \no There mayy be a cost to the rappid ggrowth ((ge.g. ppart of the \ncurrent earnings may be retained), so the rate of return is \nlowered further. \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

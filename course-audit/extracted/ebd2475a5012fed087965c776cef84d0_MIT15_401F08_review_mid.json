@@ -1,0 +1,158 @@
+{
+  "source": "static_resources/ebd2475a5012fed087965c776cef84d0_MIT15_401F08_review_mid.pdf",
+  "sha256": "d8bbe9efc9a8ee661eef74fc9165fbb6cd0c0db65b8d8f6a7a91d95f76e8a22e",
+  "pages": [
+    {
+      "page": 1,
+      "text": "   \n15. 15.401 401 R Re ec ci it ta at ti io on n \nExtra Session: Mid­Term Review\n "
+    },
+    {
+      "page": 2,
+      "text": "   \n             \n     \n     \n             \n      \n   \n                   \n \n    \n                       \n \n   \n       \ncorrectl–Exam e:\nGeneralAdviceGeneral Advice \n• Show your work! Answers only give you partial credit \n• Write down the formulas you use \n• Draw timelines for cash flows \n• Make sure you apply the annuity/ perpetuity formulas \ncorrectly – Example:\ny pl \n• State your assumptions \n• Leave plenty of decimal places for interest rates \n(e.g., 1.2345%) \n3 \n. . . \nt = 1 t = 2 t = 3 t = 4 t = Tt = 0t =­1 \nA A A A A Formula \nrefers to \nvalue in t = 0 "
+    },
+    {
+      "page": 3,
+      "text": "       \n \n   \n \n     \n   \n       \n1\n2\n3\n4\n5\n6\nSample Midterm SolutionsSample Midterm Solutions \nD Q – Compounding \nD Q – APR­EAR Conversion \nD Q – Common \nD Q – Fixed Income Securities \nD Q – Present Value \nD Q – Forwards & Futures \n4 \n"
+    },
+    {
+      "page": 4,
+      "text": "                 \n                 \n       \nQ Q1 1 – – C Co om mpo pound undi ing ng \n•\t If the annual interest rate is 10 percent, how \nlong would you have to wait before a $17,500 \ninvestment doubles in value? \n5 \n"
+    },
+    {
+      "page": 5,
+      "text": "                 \n                 \n       \n               \n             \n                   \n     \n       \n   \nQ Q1 1 – – C Co om mpo pound undi ing ng \n•\t If the annual interest rate is 10 percent, how \nlong would you have to wait before a $17,500 \ninvestment doubles in value? \nAdvice:Advice: \n•\t Question whether the rate is expressed as EAR,APR, \nor other; and what is the compounding period \n•\t If some of the above is not clear to you, state your\n \nassumptions\n \n•\t Write down the equation in terms of T \n•\t Compute precise value, then round up \n•\t Show your work! \n6 "
+    },
+    {
+      "page": 6,
+      "text": "               \n   \n           \n21.1 =\nQ1 Q1 – – CompoundingCompounding \n• Let T be the amount of time (in years) \nrequired, then \n( ) 2 500 , 17 % 10 1 500 , 17⋅ = + ⋅ \nT \nT \n• The minimum number of years is 8. \n2725 . 71 . 1 ln\n2 ln \n) 2 ( ) 1 . 1 (\n21.1\n= = \n= ⋅ \n= \nT \nLn Ln T \nT \n7 "
+    },
+    {
+      "page": 7,
+      "text": "   \n               \n               \n                 \n           \n \nQ Q2 2 – – A AP PR R­ ­EA EAR R C Co on nv ve er rs si io on n \n•\t Your car dealer offers you a loan for part of the \npurchase price of a new car, citing an annual percentage \nrate (APR) of 8.5%.What is the effective annual rate of \nsuch a loan (recall that an auto loan typically requires \nmonthly payments)? \n8 \n"
+    },
+    {
+      "page": 8,
+      "text": "   \n               \n               \n                 \n           \n \n            \n           \n     \n     \n       \n     \n \nQ Q2 2 – – A AP PR R­ ­EA EAR R C Co on nv ve er rs si io on n\n \n•\t Your car dealer offers you a loan for part of the \npurchase price of a new car, citing an annual percentage \nrate (APR) of 8.5%.What is the effective annual rate of \nsuch a loan (recall that an auto loan typically requires \nmonthly payments)? \nAdvice: \n• Know how to EAR APR \nAPR: annual percentage rateEffective Rate per = EPR: effective annual rate \nCompounding Interval k: # comp interval per period \nrAPR \nk \n• Leave at least 2 decimal places in the end\n \n9 "
+    },
+    {
+      "page": 9,
+      "text": "   \n       \nk\nQ2 Q2 – – APR APR­ ­EAR ConversionEAR Conversion \n• Given monthly­compounded APR, we \nhave \n11 −⎟\n⎠\n⎞⎜\n⎝\n⎛ + = \nk \nAPR \nEAR \nk \nr r \n% 8391 . 8\n1 12 \n% 5 . 81 \n12 \n= \n−⎟\n⎠\n⎞⎜\n⎝\n⎛ + = \n⎠⎝ \n10 "
+    },
+    {
+      "page": 10,
+      "text": "                 \n             \n                 \n           \n               \n                          \n             \nprice immediatelybeforeit paid its 50 cent dividend,i.e\nQ Q3 3 – – C Co om mm mo on n S St to oc ck ks s\n \n•\t Company ABC has just paid a dividend of 50 cents per \nshare. Because of its growth potential, its dividend is \nforecasted to grow at a rate of 7 percent per year \nindefinitely. If the company's appropriate cost of capital \n(given its risk) is 11 percent, what was ABC's share \nprice immediately before it paid its 50 cent dividend, i.e \nthe stock price right before the ex­dividend date? \n11 "
+    },
+    {
+      "page": 11,
+      "text": "                 \n             \n                 \n           \n               \n                          \n             \n           \n     \n         \n       \n               \nprice immediatelybeforeit paid its 50 cent dividend,i.e\nQ Q3 3 – – C Co om mm mo on n S St to oc ck ks s\n \n•\t Company ABC has just paid a dividend of 50 cents per \nshare. Because of its growth potential, its dividend is \nforecasted to grow at a rate of 7 percent per year \nindefinitely. If the company's appropriate cost of capital \n(given its risk) is 11 percent, what was ABC's share \nprice immediately before it paid its 50 cent dividend, i.e \nthe stock price right before the ex­dividend date? \nAdvice: \n•\t Be careful with the times when dividend payment \noccurs – draw a timeline! \n•\t In this case, remember to include D0 \n•\t Write the growing perpetuity formula \n•\t Use the formula correctly – numerator is D1, not D0 \n12 "
+    },
+    {
+      "page": 12,
+      "text": "    \n   \n                    \nQ3 Q3 – – Common StocksCommon Stocks \n• Parameters: \n11 . 0 ; 07 . 0 ; 07 . 1 50 . 0 ; 50 . 010 ==×== r gD D \n. . . \nD0 \nD1 \nD2 D3 D4 \nD0*(1+g) D0*(1+g)2 \n• Dividend discount model: \n13.88 $\n07 . 0 11 . 0\n07 . 1 50 . 050 . 0\n1 \n0 0 \n= \n− \n× + = \n− + = g r \nD D P \n13 \nt = 1 t = 2 t = 3 t = 4 t =t = 0 \n8 "
+    },
+    {
+      "page": 13,
+      "text": "   \n+=\nQ3 Q3 – – Common StocksCommon Stocks \n• Parameters: \n• Dividend discount model: \n11 . 0 ; 07 . 0 ; 07 . 1 50 . 0 ; 50 . 010 ==×== r gD D \nD \n13.88 $\n07 . 0 11 . 0\n07 . 1 50 . 050 . 0\n1 \n0 0 \n= \n− \n× + = \n− += g r \nD D P \n14 "
+    },
+    {
+      "page": 14,
+      "text": "       \n             \n         \n               \n                 \n                 \n                          \n                 \n               \n       \n             \npure discount bond with a $50 face value is $44.64.\nQ Q4 4 – – F Fi ix xe ed d I Inc nco om me e S Se ec cur uri it ti ie es s\n \n•\t The current market price of a two­year 25 percent \ncoupon bond with a $1,000 face value is $1,219.71 \n(recall that such a bond pays coupons of $250 at the \nend of years 1 and 2, and the principal of $1,000 at the \nend of year 2).The current market price of a one­year \npure discount bond with a $50 face value is $44.64. \na) What must the price of a two­year pure discount \nbond with a $2,500 face value be in order to avoid \narbitrage? \nAdvice: \n•\t Do not confuse r1 with r2 and YTM \n•\t In this case, do not discount the coupon with the YTM\n \n15 "
+    },
+    {
+      "page": 15,
+      "text": "       \n               \n         \n                          \n         \n             \n“ ­\nQ Q4 4 – – F Fi ix xe ed d I Inc nco om me e S Se ec cur uri it ti ie es s \n•\t “The current market price of a one­year pure discount \nbond with a $50 face value is $44.64”: \n50 = 44.64 ⇒ r1 = 12.0072% (1+ r1 ) \n••\t “The current market price of a two­year 25 percentThe current market price of a two year 25 percent \ncoupon bond with a $1,000 face value is $1,219.71”: \n250 1,250 +\t = 1,279.71 (1+ r1 ) (1 + r2 )2\n \n250 1,250\n +\t 2 = 1,279.71⇒ r = 11.9990% (1+ 0.120072) (1 + r2 )\t \n2 \n•\t Now we know the spot rates, r1 and r2 \n16 "
+    },
+    {
+      "page": 16,
+      "text": "       \n               \nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \n• The price of the two­year pure discount bond must be \n( ) ( ) \n1,993.02 $\n119990 . 0 1 \n500 , 2\n1 \n500 , 2\n22 \n2 \n= \n+ \n= \n+ \n= \nr \nP \n17 "
+    },
+    {
+      "page": 17,
+      "text": "       \n               \n             \n               \n             \n               \n             \n             \n               \n \n           \n                 \nbond with a $2,500 face value is only $1,900.Is\nS se the ice of the two­ear e discount\nQ Q4 4 – – F Fi ix xe ed d I Inc nco om me e S Se ec cur uri it ti ie es s\n \n• The price of the two­year pure discount bond must be\n \n2,500 2,500 P = = = $1,993.02 \n(1+ r2 )\n2 \n(1+ 0.119990)\n2 \nb)Suppose the price of the twouppo pr ­year pure discounty purb) \nbond with a $2,500 face value is only $1,900. Is \nthere an arbitrage opportunity? Is yes, how would \nyou structure a trade that has zero cash flow in \nyears 1 and 2 and a positive cash flow only in year 0 \n(i.e. now). \n• There must be an arbitrage opportunity because $1,900 \nis not the fair price of $1,993.02 ! How to capitalize it?\n \n18 "
+    },
+    {
+      "page": 18,
+      "text": "       \n               \n             \n               \n             \n               \n             \n             \n               \n \n           \n                 \nbond with a $2,500 face value is only $1,900.Is\nS se the ice of the two­ear e discount\nQ Q4 4 – – F Fi ix xe ed d I Inc nco om me e S Se ec cur uri it ti ie es s\n \n• The price of the two­year pure discount bond must be \n2,500 2,500 P = 2 = 2 = $1,993.02 \n(1+ r2 ) (1+ 0.119990) \nb)Suppose the price of the twouppo pr ­year pure discounty purb) \nbond with a $2,500 face value is only $1,900. Is \nthere an arbitrage opportunity? Is yes, how would \nyou structure a trade that has zero cash flow in \nyears 1 and 2 and a positive cash flow only in year 0 \n(i.e. now). \n• There must be an arbitrage opportunity because $1,900 \nis not the fair price of $1,993.02 ! How to capitalize it?\n \n19 "
+    },
+    {
+      "page": 19,
+      "text": "       \n                   \n                       \n         \n                         \n                 \n   \n           \n       \n   \n     \n     \n     \n     \n \nBond Position CF at 0 CF at 1 CF at 2 \n1­yr, Zero Coupon, $50 Par, \nsells for $44.64 \n2­year, 25% coupon, $1,000 \nPar, sells for $1,219.71 \n2­yr, Zero Coupon, $2,500 \nPar, sells for $1,900 \nTOTAL: + ? 0 20 0 \nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \nAdvice: \n• Consider all the instruments you may use – 3 in this example \n• Build a table that shows for every year that are expected to \ncome from each bond (see below) \n• In this case, start by writing the cash flows for the bond that \nis not fairly priced, or the one with longer maturity \n• Use your logic!\n "
+    },
+    {
+      "page": 20,
+      "text": "       \n                   \n                       \n         \n                         \n                 \n   \n           \n       \n   \n     \n     \n     \n     \n   \n \nBond Position CF at 0 CF at 1 CF at 2 \n1­yr, Zero Coupon, $50 Par, \nsells for $44.64 \n2­year, 25% coupon, $1,000 \nPar, sells for $1,219.71 \n2­yr, Zero Coupon, $2,500 \nPar, sells for $1,900 \nBuy (Long) \n1 bond ­1,900 2,500 \nTOTAL: + ? 0 0 21 \nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \nAdvice: \n• Consider all the instruments you may use – 3 in this example \n• Build a table that shows for every year that are expected to \ncome from each bond (see below) \n• In this case, start by writing the cash flows for the bond that \nis not fairly priced, or the one with longer maturity \n• Use your logic!\n "
+    },
+    {
+      "page": 21,
+      "text": "       \n                   \n                       \n         \n                         \n                 \n   \n           \n       \n   \n     \n     \n   \n     \n     \n   \n \nBond Position CF at 0 CF at 1 CF at 2 \n1­yr, Zero Coupon, $50 Par, \nsells for $44.64 \n2­year, 25% coupon, $1,000 \nPar, sells for $1,219.71 \nSell (Short) \n2 bonds +2,439.42 ­500 ­2,500 \n2­yr, Zero Coupon, $2,500 \nPar, sells for $1,900 \nBuy (Long) \n1 bond ­1,900 2,500 \nTOTAL: + ? 0 0 22 \nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \nAdvice: \n• Consider all the instruments you may use – 3 in this example \n• Build a table that shows for every year that are expected to \ncome from each bond (see below) \n• In this case, start by writing the cash flows for the bond that \nis not fairly priced, or the one with longer maturity \n• Use your logic!\n "
+    },
+    {
+      "page": 22,
+      "text": "       \n                   \n                       \n         \n                         \n                 \n   \n           \n       \n   \n   \n     \n     \n   \n     \n     \n   \n \nBond Position CF at 0 CF at 1 CF at 2 \n1­yr, Zero Coupon, $50 Par, \nsells for $44.64 \nBuy (Long) \n10 bonds ­446.40 +500 \n2­year, 25% coupon, $1,000 \nPar, sells for $1,219.71 \nSell (Short) \n2 bonds +2,439.42 ­500 ­2,500 \n2­yr, Zero Coupon, $2,500 \nPar, sells for $1,900 \nBuy (Long) \n1 bond ­1,900 2,500 \nTOTAL: + 93.02 0 0 23 \nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \nAdvice: \n• Consider all the instruments you may use – 3 in this example \n• Build a table that shows for every year that are expected to \ncome from each bond (see below) \n• In this case, start by writing the cash flows for the bond that \nis not fairly priced, or the one with longer maturity \n• Use your logic!\n "
+    },
+    {
+      "page": 23,
+      "text": "       \n           \n       \n   \n   \n     \n     \n   \n         \n                 \n                     \n           \n                       \n         \n     \n     \n   \n \n2­yr,Zero Coupon,$2,500 Buy (Long)\nQ Q4 4 – – F Fi ix xe ed d I Inc nco om me e S Se ec cur uri it ti ie es s\n \nBond Position CF at 0 CF at 1 CF at 2 \n1­yr, Zero Coupon, $50 Par, \nsells for $44.64 \nBuy (Long) \n10 bonds ­446.40 +500 \n2­year, 25% coupon, $1,000 \nPar, sells for $1,219.71 \nSell (Short) \n2 bonds +2,439.42 ­500 ­2,500 \n2­yr, Zero Coupon, $2,500 \nPar, sells for $1,900 \nBuy (Long) \n1 bond ­1,900 2,500 \nTOTAL: + 93.02 0 0 \nNote: \n•\t We can make free money today, with no risk – arbitrage! \n•\t In our example the profit is $93.02, the same amount by \nwhich each 2­year, zero coupon, is underpriced \n•\t There is more than solution to this problem, but all of them \nare multiples of this simple case \n24 "
+    },
+    {
+      "page": 24,
+      "text": "       \n           \n \n   \nnx B ­nx 1219.71 nx 250 nx 1250\nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \nCF at 0 CF at 1 CF at 2 \nn1 x B1 ­n1 x 1219.71 n1 x 250 n1 x 1250 \nAlternative method: \n• Solve and equation system: \n1 1 1 1 1 \nn2 x B2 ­n2 x 44.64 n2 x 50 0 \nn3 x B3 ­n3 x 1900 0 n3 x 2500 \n+ 0 0 \n25 "
+    },
+    {
+      "page": 25,
+      "text": "       \n         \n \n    \n321\nQ4 Q4 – – Fixed Income SecuritiesFixed Income Securities \n• This portfolio is an arbitrage portfolio if \n⎪⎩\n⎪⎨\n⎧ \n>×−×−×− \n= × + × \n= × + × \n0190064.4471.1219\n0 50250 \n0 25001250 \n21 \n31 \nwww \nw w \nww \n• Solution of the system: \n⎩ >×−×−×− 0190064.4471.1219 321 www \n0 any for 10 \n2 \n3 \n2 \n1 \n> \n⎪⎩\n⎪⎨\n⎧ \n= \n= \n− = \nk \nk w \nk w \nk w \n26 "
+    },
+    {
+      "page": 26,
+      "text": "   \n                   \n                     \n                         \n                 \n                   \n                   \n                                              \n                     \n                     \n \n                     \n                     \n                     \n                   \n \nQ Q5 5 – – P Pr re es se ent nt V Va al lue ue \n•\t Your friend is celebrating her 35th birthday today and wants \nto start saving for her anticipated retirement at age 65 (she \nwill retire on her 65th birthday). She would like to be able to \nwithdraw $80,000 from her savings account on each birthday \nfor at least 20 years following her retirement (the first \nwithdrawal will be on her 66th birthday).Your friend intends \nto invest her money in the local savings bank which offers 4%to invest her money in the local savings bank which offers 4% \nper year. She wants to make equal annual deposits on each \nbirthday in a new savings account she will establish for her \nretirement fund. \nIf she starts making these deposits on her 36th birthday and \ncontinues to make deposits until she is 65 (the last deposit \nwill be on her 65th birthday), what amount must she deposit \nannually to be able to make the desired withdrawals upon \nretirement? \n27 "
+    },
+    {
+      "page": 27,
+      "text": "   \n   \n                 \n     \n                 \n   \n                 \n   this case 4%\nFind out the correct discount rate for the cash flows,in \nQ5 Q5 – – PresentValuePresent Value \nAdvice: \n• Draw a timeline! \n• Shift the timeline so that now is t = 0 \n• Write down the annuity formula \n• Find out the correct discount rate for the cash flows, in \n28 \nthis case 4% "
+    },
+    {
+      "page": 28,
+      "text": "   \n   \n                 \n     \n                 \n   \n                 \n   \n    \n    \nthis case 4%\nFind out the correct discount rate for the cash flows,in \nQ5 Q5 – – PresentValuePresent Value \nAdvice: \n• Draw a timeline! \n• Shift the timeline so that now is t = 0 \n• Write down the annuity formula \n• Find out the correct discount rate for the cash flows, in \n29 \nthis case 4% \n80k 80k 80k80k \n. . . \n. . . \nA AA A \n66 67 85 8465 6437 36 35 \n31 32 50 4930 292 1 0 \nAge: \nTime: "
+    },
+    {
+      "page": 29,
+      "text": "   \n    \n    \n                 \n \n             \n31 32 50493029210Time:\nQ5 Q5 – – PresentValuePresent Value \n80k 80k 80k80k \n. . . \n. . . \nA AA A \n66 67 85 8465 6437 36 35 \n31 32 50493029210 \nAge: \nTime: \n• Let “A” be the necessary annual deposit, then, using the \nannuity formulas: \n• Note that the $80K annuity has been discounted 30 years \n( ) ( ) \n( ) \n35 . 385 , 19 $\n2920 . 17 11 . 212 , 335\n04 . 1\n1 1 04 . 0 04 . 1\n1 1 04 . 0\n000 , 80\n04 . 1\n1 \n302030 \n= \n⋅ = \n⎟\n⎠\n⎞⎜\n⎝\n⎛ − =⎥⎦\n⎤ \n⎢⎣\n⎡ ⎟\n⎠\n⎞⎜\n⎝\n⎛ −⋅ \n= \nA \nA \nA \nsavings PVwithdrawsPV \n30 "
+    },
+    {
+      "page": 30,
+      "text": "   \n    \n    \n                 \n \n             \n31 32 50493029210Time:\nQ5 Q5 – – PresentValuePresent Value \n80k 80k 80k80k \n. . . \n. . . \nA AA A \n66 67 85 8465 6437 36 35 \n31 32 50493029210 \nAge: \nTime: \n• Let “A” be the necessary annual deposit, then, using the \nannuity formulas: \n• Note that the $80K annuity has been discounted 30 years \n( ) ( ) \n( ) \n35 . 385 , 19 $\n3854 . 19 11 , 212 , 335\n04 . 1\n1 1 04 . 0 04 . 1\n1 1 04 . 0\n000 , 80\n04 . 1\n1 \n302030 \n= \n⋅ = \n⎟\n⎠\n⎞⎜\n⎝\n⎛ − =⎥⎦\n⎤ \n⎢⎣\n⎡ ⎟\n⎠\n⎞⎜\n⎝\n⎛ −⋅ \n= \nA \nA \nA \nsavings PVwithdrawsPV \n31 "
+    },
+    {
+      "page": 31,
+      "text": "       \n                  \n                 \n           \n           \n     \n                     \n \nQ Q6 6 – – F Fo or rw wa ar rd ds s & & F Fut utur ure es s \n•\t The current level of the S&P 500 is $1040. The risk­free \ninterest rate per year is 2%.Assume negligible dividends. \nThe 6 month futures contract is trading at $1060. \na) Is there an arbitrage opportunity? Briefly explain.\n \nAdvice: \n•\t Write down the spot­futures parity \n•\t Make sure that “T”,“rf” and “y” are based on the same\n \nunit of time\n \n32 "
+    },
+    {
+      "page": 32,
+      "text": "       \n   \n                          \n                   \n   \n             \n                 \n \nre s an ar rage oppor y cause ra ng\nQ6 Q6 – – Forwards & FuturesForwards & Futures \n• Spot­futures parity requires \n• The i bit tunit be the t di \n( ) \n( ) 10601050.35% 2 1 1040 \n1 \n5 . 0\n0 \n≠ = + \n− + = \nT \nT y r S F \n• There is an arbitrage opportunity because the trading \nprice is not equal to the “fair price” (calculated with the \nspot­futures parity) \nb) If there is an arbitrage opportunity, what strategy \nwould you use to exploit it without using any funds \nof your own? \n33 "
+    },
+    {
+      "page": 33,
+      "text": "       \n                         \n   \n                       \n       \n                     \n                     \n             \n       \n       \n     \n     \n–\nQ6 Q6 – – Forwards & FuturesForwards & Futures \nAdvice: \n• Draw the CF table – similar to that in question 4, with all the \ninstruments you have \n• Note that you can always borrow or lend money at the risk \nfree rate – eg. 1,040*(1+0.02)0.5 = $1,050.35 \n• Use your logic – And if you arrive to the inverse conclusion• Use your logic And if you arrive to the inverse conclusion \njust inverse all the signs in the table \nSecurity Position CF at 0 CF at 6 \nmonths \nS&P 500 stock trading at $1,040 \nBorrow / Lend Money \n6 month future trading at $1,060 \nTOTAL: \n34 "
+    },
+    {
+      "page": 34,
+      "text": "       \n                         \n   \n                       \n       \n                     \n                     \n             \n       \n       \n     \n       \n–\nQ6 Q6 – – Forwards & FuturesForwards & Futures \nAdvice: \n• Draw the CF table – similar to that in question 4, with all the \ninstruments you have \n• Note that you can always borrow or lend money at the risk \nfree rate – eg. 1,040*(1+0.02)0.5 = $1,050.35 \n• Use your logic – And if you arrive to the inverse conclusion• Use your logic And if you arrive to the inverse conclusion \njust inverse all the signs in the table \nSecurity Position CF at 0 CF at 6 \nmonths \nS&P 500 stock trading at $1,040 \nBorrow / Lend Money \n6 month future trading at $1,060 Short 1 0 1,060 – ST \nTOTAL: $0 1,060 – ST \n35 "
+    },
+    {
+      "page": 35,
+      "text": "       \n                         \n   \n                       \n       \n                     \n                     \n             \n       \n         \n     \n       \n–\nQ6 Q6 – – Forwards & FuturesForwards & Futures \nAdvice: \n• Draw the CF table – similar to that in question 4, with all the \ninstruments you have \n• Note that you can always borrow or lend money at the risk \nfree rate – eg. 1,040*(1+0.02)0.5 = $1,050.35 \n• Use your logic – And if you arrive to the inverse conclusion• Use your logic And if you arrive to the inverse conclusion \njust inverse all the signs in the table \nSecurity Position CF at 0 CF at 6 \nmonths \nS&P 500 stock trading at $1,040 Buy 1 ­1,040 ST \nBorrow / Lend Money \n6 month future trading at $1,060 Short 1 0 1,060 – ST \nTOTAL: ­$1,040 $1,060 \n36 "
+    },
+    {
+      "page": 36,
+      "text": "       \n                         \n   \n                       \n       \n                     \n                     \n             \n       \n         \n       \n       \n–\nQ6 Q6 – – Forwards & FuturesForwards & Futures \nAdvice: \n• Draw the CF table – similar to that in question 4, with all the \ninstruments you have \n• Note that you can always borrow or lend money at the risk \nfree rate – eg. 1,040*(1+0.02)0.5 = $1,050.35 \n• Use your logic – And if you arrive to the inverse conclusion• Use your logic And if you arrive to the inverse conclusion \njust inverse all the signs in the table \nSecurity Position CF at 0 CF at 6 \nmonths \nS&P 500 stock trading at $1,040 Buy 1 ­1,040 ST \nBorrow / Lend Money Borrow $1,040 1,040 ­1,050.35 \n6 month future trading at $1,060 Short 1 0 1,060 – ST \nTOTAL: $0 $9.65 \n37 "
+    },
+    {
+      "page": 37,
+      "text": "       \n           \n       \n       \n       \n         \n       \n       \nSecurity PositionCF at 0\nQ6 Q6 – – Forwards & FuturesForwards & Futures \nNote: \n• Arbitrage! In 6 months, we will have made $9.65 \nwithout any risk or investment \nCF at 6 Security Position CF at 0 CF at 6 \nmonths \nS&P 500 stock trading at $1,040 Buy 1 ­1,040 ST \nBorrow / Lend Money Borrow $1,040 1,040 ­1,050.35 \n6 month future trading at $1,060 Short 1 0 1,060 – ST \nTOTAL: $0 $9.65 \n38 "
+    },
+    {
+      "page": 38,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I\n \nFall 2008\n \nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.DS_Store
+**/node_modules/
+**/dist/
+**/.tools/
+**/__pycache__/
+*.pyc
+*.mp4
+*.mp4.part
+*.log
+.env
+.env.*
+!.env.example

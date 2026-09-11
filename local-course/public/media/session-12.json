@@ -1,0 +1,45 @@
+{
+  "name": "session-12",
+  "session": 12,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses12_300k.mp4",
+  "path": "/media/session-12.mp4",
+  "youtube_id": "Q2qjnLO3I_M",
+  "segments": [
+    {
+      "title": "Part I of Risk and Return",
+      "start": "3198",
+      "end": "4021",
+      "transcript": "static_resources/06195cdf1d59387308c2f44ac2f5e1d6_Q2qjnLO3I_M.pdf",
+      "captions": "static_resources/beeafbf8438f541781b5c709d8a72d0e_Q2qjnLO3I_M.vtt"
+    },
+    {
+      "title": "Part III of Options",
+      "start": "0",
+      "end": "3198",
+      "transcript": "static_resources/d0134e24c244a93027ff136ff0ed8952_Q2qjnLO3I_M.pdf",
+      "captions": "static_resources/650731d00f66513a80723329206f907c_Q2qjnLO3I_M.vtt"
+    }
+  ],
+  "bytes": 155050506,
+  "sha256": "5047fcadfd8749f178f2e3e7aa2b21479c4629d94e84316d5d85846f61b543d9",
+  "duration_seconds": 4021.5,
+  "caption_end_seconds": 4021.18,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2010.75,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4016.5,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

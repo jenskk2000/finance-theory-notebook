@@ -1,0 +1,194 @@
+{
+  "source": "static_resources/dd628e151309a7f23962b1a31b9356e5_MIT15_401F08_lec13.pdf",
+  "sha256": "a128f3e7c8b7304fe680859750f0d94c7a483111dd65b0105f514aa155337f34",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLecture 13Lecture 13––1414: Risk Analytics and Portfolio Theory: Risk Analytics and Portfolio Theory\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Motivation\n Measuring Risk and Reward\n Mean-Variance Analysis\n The Efficient Frontier\n The Tangency Portfolio\nReadings:\n Brealey, Myers, and Allen Chapters 7 and 8.1"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 3\nMotivationMotivation\nWhat Is A Portfolio and Why Is It Useful?\n A portfolio is simply a specific combination of securities, usually \ndefined by portfolio weights that sum to 1:\n Portfolio weights can sum to 0 (dollar-neutral portfolios), and weights \ncan be positive (long positions) or negative (short positions).\n Assumption: Portfolio weights summarize all relevant information.\n"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 4\nMotivationMotivation\nExample:\n Your investment account of $100,000 consists of three stocks: 200 \nshares of stock A, 1,000 shares of stock B, and 750 shares of stock C.  \nYour portfolio is summarized by the following weights:\nAsset Shares Price/Share\nDollar \nInvestment\nPortfolio \nWeight\nA\nB\nC\nTotal $100,000 100%\n200 $50 $10,000 10%\n1,000 $60 $60,000 60%\n750 $40 $30,000 30%"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 5\nMotivationMotivation\nExample (cont):\n Your broker informs you that you only need to keep $50,000 in your \ninvestment account to support the same portfolio of 200 shares of stock \nA, 1,000 shares of stock B, and 750 shares of stock C; in other words, \nyou can buy these stocks on margin.  You withdraw $50,000 to use for \nother purposes, leaving $50,000 in the account.  Your portfolio is \nsummarized by the following weights:\nAsset Shares Price/Share\nDollar \nInvestment\nPortfolio \nWeight\nA\nB\nC\nRiskless Bond −$50,000 $1 −$50,000 −100%\nTotal $50,000 100%\n200 $50 $10,000 20%\n1,000 $60 $60,000 120%\n750 $40 $30,000 60%"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 6\nMotivationMotivation\nExample:\n You decide to purchase a home that costs $500,000 by paying 20% of \nthe purchase price and getting a mortgage for the remaining 80% What \nare your portfolio weights for this investment?\n What happens to your total assets if your home price declines by 15%?\nAsset Shares Price/Share\nDollar \nInvestment\nPortfolio \nWeight\nHome\nMortgage\nTotal $100,000 100%\n1 $500,000 $500,000 500%\n1 −$400,000 −$400,000 −400%"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 7\nMotivationMotivation\nExample:\n You own 100 shares of stock A, and you have shorted 200 shares of \nstock B.  Your portfolio is summarized by the following weights:\n Zero net-investment portfolios do not have portfolio weights in \npercentages (because the denominator is 0)—we simply use dollar \namounts instead of portfolio weights to represent long and short\npositions\nStock Shares Price/Share\nDollar \nInvestment\nPortfolio \nWeight\nA\nB\n100    $50 $5,000 ???\n−200 $25 − $5,000 ???"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 8\nMotivationMotivation\nWhy Not Pick The Best Stock Instead of Forming a Portfolio?\n We don’t know which stock is best!\n Portfolios provide diversification, reducing unnecessary risks.\n Portfolios can enhance performance by focusing bets.\n Portfolios can customize and manage risk/reward trade-offs.\nHow Do We Construct a “Good” Portfolio?\n What does “good” mean?\n What characteristics do we care about for a given portfolio?\n Risk and reward\n Investors like higher expected returns\n Investors dislike risk"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 9\nMeasuring Risk and RewardMeasuring Risk and Reward\n Reward is typically measured by return\n Higher returns are better than lower returns.\n But what if returns are unknown?\n Assume returns are random, and consider the distribution of returns.\nSeveral possible measures:\nMean: central tendency.\n75%: upper quartile.\n5%: losses.\nMean 75%\n5%"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 10\nMeasuring Risk and RewardMeasuring Risk and Reward\n How about risk?\n Likelihood of loss (negative return).\n But loss can come from positive return (e.g., short position).\n A symmetric measure of dispersion is variance or standard deviation.\nVariance Measures Spread:\nBlue distribution is “riskier”.\nExtreme outcomes more likely.\nThis measure is symmetric."
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 11\nMeasuring Risk and RewardMeasuring Risk and Reward\nAssumption\n Investors like high expected returns but dislike high volatility\n Investors care only about the expected return and volatility of their \noverall portfolio\n– Not individual stocks in the portfolio\n– Investors are generally assumed to be well-diversified\nKey questions:  How much does a stock contribute to the risk and\nreturn of a portfolio, and how can we choose portfolio weights to \noptimize the risk/reward characteristics of the overall portfolio?"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 12\nMeanMean--Variance AnalysisVariance Analysis\nObjective\n Assume investors focus only on the expected return and variance (or \nstandard deviation) of their portfolios: higher expected return is good, \nhigher variance is bad\n Develop a method for constructing optimal portfolios\nExpected Return E[Rp]\nStandard Deviation of Return SD[Rp]\nT-Bills\nGM\nMRK\nMCD\nMOT\nHigher Utility"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 13\nMeanMean--Variance AnalysisVariance Analysis\nBasic Properties of Mean and Variance For Individual Returns:\nBasic Properties of Mean And Variance For Portfolio Returns:\n"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 14\nMeanMean--Variance AnalysisVariance Analysis\nVariance Is More Complicated:\n"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 15\nMeanMean--Variance AnalysisVariance Analysis\nPortfolio variance is the weighted sum of all the variances and \ncovariances:\n There are n variances, and n2 − n  covariances\n Covariances dominate portfolio variance\n Positive covariances increase portfolio variance; negative covariances \ndecrease portfolio variance (diversification)\n"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 16\nMeanMean--Variance AnalysisVariance Analysis\nConsider The Special Case of Two Assets:\n As correlation increases, overall portfolio variance increases\n"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 17\nMeanMean--Variance AnalysisVariance Analysis\nExample: From 1946 – 2001, Motorola had an average monthly return of \n1.75% and a std dev of 9.73%.  GM had an average return of 1.08%\nand a std dev of 6.23%.  Their correlation is 0.37.  How would a\nportfolio of the two stocks perform?\nwMot wGM E[RP]v ar(RP)s tdev(RP)\n0 1 1.08 38.8 6.23\n0.25 0. 75 1.25 36.2 6.01\n0.50 0. 50 1.42 44.6 6.68\n0.75 0. 25 1.58 64.1 8.00\n1 0 1.75 94.6 9.73\n1.25 -0. 25 1.92 136.3 11.67\n "
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 18\nMeanMean--Variance AnalysisVariance Analysis\nMean/SD Trade-Off for Portfolios of GM and Motorola\nMotorola\nGM\n0.5%\n0.9%\n1.3%\n1.7%\n2.1%\n2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0%\nStandard Deviat ion of Return\nExpected Return"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 19\nMeanMean--Variance AnalysisVariance Analysis\nExample (cont): Suppose the correlation between GM and Motorola \nchanges.  What if it equals –1.0?  0.0?  1.0?\n   Std dev of portfolio \nwMot wGM E[RP] corr = -1 corr = 0 corr = 1 \n0 1 1.08% 6.23% 6. 23% 6.23% \n0.25 0.75 1.25 2.24 5. 27 7.10 \n0.50 0.50 1.42 1.75 5. 78 7.98 \n0.75 0.25 1.58 5.74 7. 46 8.85 \n1 0 1.75 9.73 9. 73 9.73 \n "
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 20\nMeanMean--Variance AnalysisVariance Analysis\nMean/SD Trade-Off for Portfolios of GM and Motorola\ncorr=1corr=0corr=-.5\ncorr=-1\n0.6%\n1.0%\n1.4%\n1.8%\n2.2%\n0.0% 2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviation of Return\nExpected Return"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 21\nMeanMean--Variance AnalysisVariance Analysis\nExample:  In 1980, you were thinking about investing in GD.  Over the \nsubsequent 10 years, GD had an average monthly return of 0.00% \nand a std dev of 9.96%.  Motorola had an average return of 1.28% and \na std dev of 9.33%.  Their correlation is 0.28.  How would a portfolio of \nthe two stocks perform?\nwMot wGD E[RP] var(RP) stdev(RP)\n0 1 0.00 99.20 9.96\n0.25 0. 75 0.32 71.00 8.43\n0.50 0. 50 0.64 59.57 7.72\n0.75 0. 25 0.96 64.92 8.06\n1 0 1.28 87.05 9.33\n "
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 22\nMeanMean--Variance AnalysisVariance Analysis\nMean/SD Trade-Off for Portfolios of GD and Motorola\nMotorola\nGD\n-1.0%\n-0.5%\n0.0%\n0.5%\n1.0%\n1.5%\n2.0%\n4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviat ion of Return\nExpected Return"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 23\nMeanMean--Variance AnalysisVariance Analysis\nExample: You are trying to decide how to allocate your retirement \nsavings between Treasury bills and the stock market.  The T-Bill rate \nis 0.12% monthly.  You expect the stock market to have a monthly\nreturn of 0.75% with a standard deviation of 4.25%.\nwStk wTbill E[RP]v ar(RP)s tdev(RP)\n0 1 0.12 0.00 0.00\n0.33 0. 67 0.33 1.97 1.40\n0.67 0. 33 0.54 8.11 2.85\n1 0 0.75 18.06 4.25\n "
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 24\nMeanMean--Variance AnalysisVariance Analysis\nMean/SD Trade-Off for Portfolios of T-Bills and The Stock Market\n50/50 po rtfolio\nT-Bills\nStock Market\n0.0%\n0.2%\n0.4%\n0.6%\n0.8%\n1.0%\n0.0% 1.0% 2.0% 3.0% 4.0% 5.0% 6.0%\nStandard Deviation of Return\nExpected Return"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 25\nMeanMean--Variance AnalysisVariance Analysis\nSummary\nObservations\n E[RP] is a weighted average of stocks’ expected returns\n SD(RP) is smaller if stocks’ correlation is lower.  It is less than a \nweighted average of the stocks’ standard deviations (unless perfect \ncorrelation)\n The graph of portfolio mean/SD is nonlinear\n If we combine T-Bills with any risky stock, portfolios plot along a \nstraight line\n"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 26\nMeanMean--Variance AnalysisVariance Analysis\nThe General Case:\n Portfolio variance is the sum of weights times entries in the \ncovariance matrix\n"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 27\nMeanMean--Variance AnalysisVariance Analysis\nThe General Case:\n Covariance matrix contains n2 terms\n– n terms are variances\n– n2 – n terms are covariances\n In a well-diversified portfolio, covariances are more important than \nvariances\n A stock’s covariance with other stocks determines its contribution to \nthe portfolio’s overall variance\n Investors should care more about the risk that is common to many\nstocks; risks that are unique to each stock can be diversified away"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 28\nMeanMean--Variance AnalysisVariance Analysis\nSpecial Case:\n Consider an equally weighted portfolio:\n For portfolios with many stocks, the variance is determined by the \naverage covariance among the stocks\n"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 29\nMeanMean--Variance AnalysisVariance Analysis\nExample: The average stock has a monthly standard deviation of 10% \nand the average correlation between stocks is 0.40.  If you invest the \nsame amount in each stock, what is variance of the portfolio?  What if \nthe correlation is 0.0?  1.0?\n"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 30\nMeanMean--Variance AnalysisVariance Analysis\nExample (cont):\n0%\n2%\n4%\n6%\n8%\n10%\n12%\n1 112 1 314 15 16 17 18 19 1\nNumber of Stocks\nSD of Portfolio\nρ = 1.0\nρ = 0.0\nρ = 0.4"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 31\nMeanMean--Variance AnalysisVariance Analysis\nEventually, Diversification Benefits Reach A Limit:\nRemaining risk known as \nsystematic or market risk\nDue to common factors \nthat cannot be diversified\nExample: S&P 500\nOther sources of \nsystematic risk may exist:\nCredit\nLiquidity\nVolatility\nBusiness Cycle\nValue/Growth\nProvides motivation for \nlinear factor models\nNumber of Stocks in Portfolio\nPortfolio Variance\nTotal risk \nof typical \nstock\nRisk eliminated \nby diversification\nUndiversifiable or \nsystematic risk"
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 32\nThe Efficient FrontierThe Efficient Frontier\nGiven Portfolio Expected Returns and Variances:\nHow Should We Choose The Best Weights?\n All feasible portfolios lie inside a bullet-shaped region, called the \nminimum-variance boundary or frontier\n The efficient frontier is the top half of the minimum-variance \nboundary (why?)\n Rational investors should select portfolios from the efficient frontier\n"
+    },
+    {
+      "page": 33,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 33\nThe Efficient FrontierThe Efficient Frontier\n0.0%\n0.6%\n1.2%\n1.8%\n2.4%\n2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviation of  Return\nExpected Return\nMinimum-Variance Boundary\nEfficient Frontier"
+    },
+    {
+      "page": 34,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 34\nThe Efficient FrontierThe Efficient Frontier\nExample: You can invest in any combination of GM, IBM, and MOT.  \nWhat portfolio would you choose?\n  Variance / covariance \nStock Mean Std dev GM IBM Motorola\nGM 1.08 6.23 38.80 16. 13 22.43\nIBM 1.32 6.34 16.13 40. 21 23.99\nMotorola 1.75 9.73 22.43 23. 99 94.63\n "
+    },
+    {
+      "page": 35,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 35\nThe Efficient FrontierThe Efficient Frontier\nExample: You can invest in any combination of GM, IBM, and MOT.  \nWhat portfolio would you choose?\n  Variance / covariance \nStock Mean Std dev GM IBM Motorola\nGM 1.08 6.23 38.80 16.13 22.43\nIBM 1.32 6.34 16.13 40.21 23.99\nMotorola 1.75 9.73 22.43 23. 99 94.63\n "
+    },
+    {
+      "page": 36,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 36\nThe Efficient FrontierThe Efficient Frontier\nExample:  You can invest in any combination of GM, IBM, and MOT.  \nWhat portfolio would you choose?\n  Variance / covariance \nStock Mean Std dev GM IBM Motorola\nGM 1.08 6.23 38.80 16. 13 22.43\nIBM 1.32 6.34 16.13 40. 21 23.99\nMotorola 1.75 9.73 22.43 23. 99 94.63\n \nE[RP] = (wGM × 1.08) + (wIBM × 1.32) + (wMot × 1.75) "
+    },
+    {
+      "page": 37,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 37\nThe Efficient FrontierThe Efficient Frontier\nExample:  You can invest in any combination of GM, IBM, and MOT.  \nWhat portfolio would you choose?\n  Variance / covariance \nStock Mean Std dev GM IBM Motorola\nGM 1.08 6.23 38.80 16.13 22.43\nIBM 1.32 6.34 16.13 40.21 23.99\nMotorola 1.75 9.73 22.43 23. 99 94.63\n \nE[RP] = (wGM × 1.08) + (wIBM × 1.32) + (wMot × 1.75) \n \nvar(RP) = (wGM\n2\n × 38.80) + (wIBM × 40.21) + (wMot\n2 × 94.23) + \n  (2 × wGM × wIBM × 16.13) + (2 × wGM × wMot × 22.43) + \n  (2 × wIBM × wMot × 23.99) "
+    },
+    {
+      "page": 38,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 38\nThe Efficient FrontierThe Efficient Frontier\nExample: You can invest in any combination of GM, IBM, and MOT.  \nWhat portfolio would you choose?\n  Variance / covariance \nStock Mean Std dev GM IBM Motorola\nGM 1.08 6.23 38.80 16.13 22.43\nIBM 1.32 6.34 16.13 40.21 23.99\nMotorola 1.75 9.73 22.43 23. 99 94.63\n \nE[RP] = (wGM × 1.08) + (wIBM × 1.32) + (wMot × 1.75) \n \nvar(RP) = (wGM\n2\n × 38.80) + (wIBM × 40.21) + (wMot\n2 × 94.63) + \n  (2 × wGM × wIBM × 16.13) + (2 × wGM × wMot × 22.43) + \n  (2 × wIBM × wMot × 23.99) "
+    },
+    {
+      "page": 39,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 39\nThe Efficient FrontierThe Efficient Frontier\nExample (cont):  Feasible Portfolios\nMo torola\nIBM\nGM\n0.6%\n0.9%\n1.2%\n1.5%\n1.8%\n2.1%\n3.0% 5.0% 7.0% 9.0% 11.0%\nStandard Deviat ion of Return\nExpected Return"
+    },
+    {
+      "page": 40,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 40\nThe Tangency PortfolioThe Tangency Portfolio\nThe Tangency Portfolio\n If there is also a riskless asset (T-Bills), all investors should \nhold exactly the same stock portfolio!\n All efficient portfolios are combinations of the riskless asset \nand a unique portfolio of stocks, called the tangency portfolio.*\n– In this case, efficient frontier becomes straight line\n* Harry Markowitz, Nobel Laureate"
+    },
+    {
+      "page": 41,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 41\nThe Tangency PortfolioThe Tangency Portfolio\nGM\nIBM\nMo torola\nP\nTbill\n0.0%\n0.6%\n1.2%\n1.8%\n2.4%\n0.0% 2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviat ion of Return\nExpected Return"
+    },
+    {
+      "page": 42,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 42\nThe Tangency PortfolioThe Tangency Portfolio\nGM\nIBM\nMo torolaTangency\nportfolio\nTbill\n0.0%\n0.6%\n1.2%\n1.8%\n2.4%\n0.0% 2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviation of Return\nExpected Return"
+    },
+    {
+      "page": 43,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 43\nThe Tangency PortfolioThe Tangency Portfolio\nSharpe ratio\nA measure of a portfolio’s risk-return trade-off, equal to the \nportfolio’s risk premium divided by its volatility:\n The tangency portfolio has the highest possible Sharpe \nratio of any portfolio\n Aside: Alpha is a measure of a mutual fund’s risk-adjusted \nperformance.  The tangency portfolio also maximizes the fund’s \nalpha.\nSharpe Ratio ≡ E[Rp] − rf\nσp\n(higher is better!)"
+    },
+    {
+      "page": 44,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 44\nThe Tangency PortfolioThe Tangency Portfolio\nGM\nIBM\nMo torolaTangency\nportfolio\nTbill\n0.0%\n0.6%\n1.2%\n1.8%\n2.4%\n0.0% 2.0% 4.0% 6.0% 8.0% 10.0% 12.0% 14.0% 16.0%\nStandard Deviation of Returns\nExpected Return\nSlope = Sharpe Ratio (why?)"
+    },
+    {
+      "page": 45,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 45\nKey PointsKey Points\n Diversification reduces risk. The standard deviation of a portfolio is \nalways less than the average standard deviation of the individual \nstocks in the portfolio.\n In diversified portfolios, covariances among stocks are more \nimportant than individual variances. Only systematic risk matters.\n Investors should try to hold portfolios on the efficient frontier.\nThese portfolios maximize expected return for a given level of risk.\n With a riskless asset, all investors should hold the tangency \nportfolio. This portfolio maximizes the trade-off between risk and \nexpected return."
+    },
+    {
+      "page": 46,
+      "text": "© 2007–2008 by Andrew W. LoLectures 13–14:  Risk Analytics and \nPortfolio Theory\n15.401\nSlide 46\nAdditional ReferencesAdditional References\n Bernstein, 1992, Capital Ideas.  New York: Free Press.\n Bodie, Z., Kane, A. and A. Marcus, 2005, Investments, 6th edition.  New York: McGraw-Hill.\n Brennan, T., Lo, A. and T. Nguyen, 2007, Portfolio Theory: A Review, to appear in Foundations of \nFinance.\n Campbell, J., Lo, A. and C. MacKinlay, 1997, The Econometrics of Financial Markets.  Princeton, NJ: \nPrinceton University Press.\n Grinold, R. and R. Kahn, 2000, Active Portfolio Management.  New York: McGraw-Hill."
+    },
+    {
+      "page": 47,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

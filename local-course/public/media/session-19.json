@@ -1,0 +1,38 @@
+{
+  "name": "session-19",
+  "session": 19,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses19_300k.mp4",
+  "path": "/media/session-19.mp4",
+  "youtube_id": "a5PF2PcElV0",
+  "segments": [
+    {
+      "title": "Part II of Efficient Markets",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/4f85df89827bfb83ff41b1b4ecaecbc4_a5PF2PcElV0.pdf",
+      "captions": "static_resources/ac435f22101a520aa64c4cd840dfb590_a5PF2PcElV0.vtt"
+    }
+  ],
+  "bytes": 185199376,
+  "sha256": "dc31a3dbf597c0e77cff87696ad3443ade4e108ea87f83de3c6f8da6f0b68d31",
+  "duration_seconds": 4809.69,
+  "caption_end_seconds": 4799.11,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2404.84,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4804.69,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

@@ -1,0 +1,122 @@
+{
+  "source": "static_resources/7437599950b0d45bfa3a4c4a3af00a3f_MIT15_401F08_rec02.pdf",
+  "sha256": "411d1e56db3b74ff190daa38a742996bda8090973b5d1a236c12b8c518b2fb73",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation15.401 Recitation \n2a: Fixed‐Income Securities\n"
+    },
+    {
+      "page": 2,
+      "text": "\nLearning Objectives \n Review of Concepts  Review of Concepts \no Spot/forward interest rates \no YTM and bond pricing \n EExamplles \no Spot/forward \no YTM and pprice \no Rate of return \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "Review: spot/forward interest rates \n Spot rate (rtt) is the interest rate for the period (0, ) is the interest rate for the period (0, t). Spot rate (r t). \n Forward rate (ft,T) is the interest rate for the period \n(t, T) determined at time 0. \n No arbitrage implies (1+rt)t x (1+ft,T)(T‐t) = (1+rT)T. \nrtt ft,T t,T\nt =0 t T\n$1 $(1+ft,T)(T‐t) \n$1 $(1+rt)t \n$1 $(1+rT)T \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: zero‐coupon bond \n The spot rates are implied in the prices of \tThe spot rates are implied in the prices of \nzero‐coupon (pure discount) bonds. \n We can calculate rt given the price of a t‐period \nzero‐coupon bond: \n1 \nFV\n FV\nr\t \n \n \nt\nPP \n 1\nrt\n \n\n \n \n1\n1 \nt \n(FV = face value) \n After we find rt and rT, we can calculate ft,T. \n2010 / Yichuan Liu \n\n\n P\n\nrt\n4 "
+    },
+    {
+      "page": 5,
+      "text": "Review: coupon bond \n The price of a coupon bond can be expressed as:  The price of a coupon bond can be expressed as: \nP   or P   \nT \n11 \nCt\nyy \nt \n11 \nFV\nyy \nT  \nT \n11 \nC\nrr\nt \n \nt \n11 \nFV\nrr \nT \nt 1 t 1t 1 t 1 tt TT \n y is the yield‐to‐maturity (or yield). It is equal to the \nrate of return on the bond if rate of return on the bond if \no it is bought now at price P and held to maturity, and \no all coupons are reinvested at rate y. \n y iis not a spot rate. \n There is a one‐to‐one mapping between y and P. \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "Example 1: spot and forward rates \n Yields on three Treasury notes are given as follows:\n Yields on three Treasury notes are given as follows:\nMaturity (yrs) Coupon rate (%) YTM (%) \n1 0 5.25 \n2 5 5.50 \n3 6 6.00 \nWhWhatt are the priices of thf th e 1‐year, 2‐year andd 3‐yeara.\t th \nnotes with face value = $100? \nb.\t What are the spot interest rates for year 1, 2 and 3?\nc.\t What is the implied forward rate for year 2 to year 3?\n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Example 1: spot and forward rates \n Answer: Answer: \na. 100P1   $95.01 1 5.25% \n5 1051055P    $99.082\n1 5.50% 1 5.50%\n2\nP 3  $100\nP $1003\nb. r1  5.2500%; r2  5.5063%; r3  6.0359% \n3 \n1 r  \n3 \nc. f2,3  1 r2\n3 \n2 1  7.1032% \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Example 2: YTM and price \n\tWhat is the price of a ten‐year 5% treasury bond \tWhat is the price of a ten year 5% treasury bond \n(face value = $100, annual coupon payments) if the \nyield to maturity is… \no 4%? \no 5%? \no 6%?o 6%? \n When is the price above/at/below par? \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "\n9 4\nExample 2: YTM and price \n Answer: \nT FV  r FVPFV , r, y   t  T \nt 1 1 y 1 y \n r  1  1  \n FV  y 1\n1 y\nT   \n1 y\nT . \n     \no 4%: $108.11 \no 5%: $100.00 \no 6%: $ 92.64 \n Price is above/at/below par when YTM is lower\nthan/equal to/higher than the coupon rate.\n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "3 5\nExample 3: Rate of Return \n Suppose that yyou bought a 2‐yyear STRIP ((face value = $100)) a\npp g \nyear ago, and the interest rates at the time were as follows: \nYears Spot rate (%) \n1 2.5 \n2 3 \n3 5 \no You sell your STRIP right now, and the yield curve \nhappens to be the same as a year ago. What is the \nannualdlized return on your investment? \no What is the annualized return if you sell it next year?\n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "Example 3: Rate of Return \n Answer: Answer: \no Purchase price = 100/(1.03)2 =$94.26 \no Current price = 100/1.025=$97.56 \no Sl l li d t %o Sell now: realized return = 3.5024% per year \no Sell next year: return = 3% per year (for sure) \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": "Example 3: Rate of Return (revisited) \n Suppose that five years ago today, you bought a 6% \tSuppose that five years ago today, you bought a 6% \nten‐year treasury bond (face value = $100, annual \ncoupon payments) at a yield of 3.5% per year. \n Since then, you have deposited the coupons in a \nbank at 2% per year. \n\tTd ll th bd t il d f % Today you sell the bond at a yield of 5% per year.\n What is the annualized return on your investment?\n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 3: Rate of Return (revisited)\n Answer: Answer: \no Cumulative value of deposited coupons = 31.22\no Selling price today = 104.33 \no Tt ffo Totall payoff = 135.55 \no Purchase price = 120.79 \no Annualized realized return = 2.3328% \n Follow‐up question: \no Why is the realized return so low? \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "15.401 Recitation15.401 Recitation \n2b: Fixed‐Income Securities\n"
+    },
+    {
+      "page": 15,
+      "text": "Learning Objectives\n Review of Concepts  Review of Concepts \no Bond arbitrage \no Duration/convexity\no I ti o Immuniization \n Examples \no Duration \no Bond arbitrage \no True/false \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 16,
+      "text": "Review: bond arbitrage \n Bond arbitrage is possible when its price is not equal\n Bond arbitrage is possible when its price is not equal \nto the PV of payments discounted at the spot rates \n Caveats: \no the bond must have the same risk characteristics as the \nsecurities from which the spot rates are derived \n(e.g., riskless);(e.g., riskless); \no each coupon payment can be matched exactly by a spot \nrate; \no it is possible to borro /lend at all spot rates o it is possible to borrow/lend at all spot rates. \n General strategy: \no Buyy low,, sell higgh \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 17,
+      "text": "Review: bond arbitrage \n Detailed strategy:  Detailed strategy: \no Scale available payoff streams so that the net cash flow at \nt = 1, 2, … is exactly zero. \no Adj t th i th t th ff t t i itio Adjust the signs so that the payoff at t = 0 is positive.\nMultiplier \nmmA \nmB \nAsset \nAA \nB \nt = 0 \nm P‐mAPA \n‐mBPB \nt = 1 \nm CmACA1 \nmACA1 \nt = 2 \nm CmACA1 \nmBCB2 \n… \n… \n… \nt = T \nm CmACAT \nmBCBT \n… … … … … … … \nmN \n+ \nN ‐mNPN \nπ0 \nmNCN1 \n0 \nmNCN2 \n0 \n… \n… \nmNCNT \n0 \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 18,
+      "text": "Review: bond arbitrage \n Remarks: Remarks: \no Arbitrage strategy is not unique. \no Given an arbitrage strategy (mA, mB, …, mN) with profit \nπ (k k k ) i l bit ttπ0, (k·mA, k·mB, …, k·mN) is also an arbitrage strategy \nwith profit k·π0. \no A strategy where cash flows at t = 0, 1, … T are all zero \nexcept at t = s > 0 (when it is positive) is also an arbitrage. \no For the purpose of this course, we only consider the type \nof arbitrage strategies on the previous page.of arbitrage strategies on the previous page. \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 19,
+      "text": "Review: duration/convexity \n Duration and modified duration measure a bondDuration and modified duration measure a bond’ss \nexposure to interest rate risk: \nD  1 \n \nT tt CCt \nt  TT  FV\nT ; MD  DD1 FVt \nP t 1 1 y 1 y 1 y \n Since MD   11  PP , a small change (Δy) in YTM \nP y \nwill cause bond price to change by approximately\nwill cause bond price to change by approximately\nP  P  MD  y. \n The formula is not accurate for largge changges in yy. \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 20,
+      "text": "Review: duration/convexity \n Convexity is…  Convexity is… \no the second derivative of P(y); \no a measure of curvature of P(y); \no th iti it f th d ti t h i th il d o the sensitivity of the duration to a change in the yield. \n1 2 PCX    2P P y2 \n A better approximation: \nP  y  MD  y\n2 \nCX .P 2 \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 21,
+      "text": "=\nImmunization \n The duration of a portfolio with weight duration of a portfolio with weight ww on asset XThe on asset X \nand (1‐w) on asset Y is [ w ×D (X) + (1–w) ×D (Y) ]. \n Institutions such as banks, pension funds and \ninsurance companies are highly exposed to interest \nrate fluctuations. They would like to insure or \ni i it h fl t ti immunize against such fluctuations. \n Solution: structure the balance sheet so that \nV(Assets) × D(Assets) = V(Liabilities) × D(Liabilities)V(Assets) × D(Assets) V(Liabilities) × D(Liabilities). \n Continuous rebalancing is required for perfect \nimmunization. \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 22,
+      "text": "Example 1: duration \n\tConsider a 10‐year bond with a face value of $100\n\tConsider a 10 year bond with a face value of $100 \nthat pays an annual coupon of 8%. Assume spot \nrates are flat at 5%. \na.\t Find the bond’s price and duration. \nb.\t Suppose that 10yr yields increase by 10bps. Calculate \nthe change in the bond’s price using your bond pricing the change in the bond s price using your bond pricing \nformula and then using the duration approximation. \nc.\t Suppose now that 10yr yields increase by 200bps. \nRepeat or calc lations for part (b) Repeat your calculations for part (b). \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 23,
+      "text": "Example 1: duration \n Answer: Answer: \n8 8\t 108a.\t P    ...   $123.16 1.05 1.052 1.0510 \n1  8811 8 2 108101  8 2 108 10 \nD    2  10   7.54 123.16 1.05 1.05 1.05  \nb.\t Actual new price = $122.28. \nD\t 7.54\nP  P   y  123.16  0.001  $0.88 1 y 1.05\n  $122.28.\n PP  $122 28 new\nc.\t Actual new price = $107.02 \nNew price using duration approximation = $105.47 \n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 24,
+      "text": "= = = =\nExample 2: bond arbitrage \n Find an arbitrage portfolio given the following \tFind an arbitrage portfolio given the following \nriskless bonds: \nAssetAsset tt = 0 0 tt = 1 1 tt = 2 2 tt = 3 3\nA ‐97 100\nB ‐92 100\nC ‐87 100\nD ‐102 5 5 105\n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 25,
+      "text": "=\n5\nExample 2: bond arbitrage\n Answer: Answer: \nMultiplier Asset t = 0 t = 1 t = 2 t = 3 \nx A ‐97x 100x \ny B ‐92y 100y \nz C ‐87z 100z \nww DD ‐102w102w 5w5w 5w5w 105w105w \n0 0 0 \n x = ‐00 5w  x 0.05w\n y = ‐0.05w\n z = ‐1.05w\n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 26,
+      "text": "Example 2: bond arbitrage \n ππ00 = ‐9797 ( ∙(‐0.05w)0.05w) – 92∙(‐0.05w) – 8787 ∙(‐1.05w) – 102w102w\n 92 ( 0.05w) ( 1.05w) \n= ‐1.2w \n Set w = ‐1 \n Arbitrage strategy: \no Long 0.05 A \no Long 00 5 B o Long 0.05 B \no Long 1.05 C \no Short 1 D \n Proffit = 1.2 \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 27,
+      "text": "Example 3: true or false \n True or false:  True or false: \no Investors expect higher returns on long‐term bonds than \nshort‐term bonds because they are riskier. Thus, the term \nsttructture of interestt rattes iis always upwardd sloping.f it l li \no To reduce interest rate risk, an overfunded pension fund, \ni.e., a fund with more assets than liabilities, should invest \nin assets with longer duration than its liabilities. \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 28,
+      "text": "Example 3: true or false \n Answer: Answer: \no False. The term structure depends on the expected path \nof interest rates (among other factors). For example, if \nit t t td t fl l th t t t illinterest rates are expected to fall, the term structure will \nbe downward sloping. \no False. To minimize interest rate risks, we want \nMD(A) x V(A) – MD(L) x V(L) = 0. If V(A) > V(L), we want \nMD(A) < MD(L). That means we should invest in assets \nwith shorter duration.with shorter duration. \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 29,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

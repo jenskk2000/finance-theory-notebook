@@ -1,0 +1,70 @@
+{
+  "source": "static_resources/55322b0a932baa9a97c5603eeab0d766_MIT15_401F08_summary.pdf",
+  "sha256": "232c66700c10dc5770dfd54a3b321dbaae0fd94b94e2bef9ace2d3a9ef3694eb",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nCourse SummaryCourse Summary\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoCourse Summary\n15.401\nSlide 2\nMotivationMotivation\nMathematics + $$$  =  Finance\nWarren Buffett\nBerkshire Hathaway\nJames Simons\nRenaissance Technologies\nJack Welch\nGeneral Electric\nPhotographs removed due to copyright restrictions."
+    },
+    {
+      "page": 3,
+      "text": "15.401\nSlide 3\nDramatis PersonaeDramatis Personae\nHouseholds\nNonfinancial\nCorporations\nFinancial\nIntermediaries Capital MarketsProduct\nMarkets\nLabor\nMarkets\nThe Financial System\nA Flow Model of the Economy\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 4,
+      "text": "15.401\nSlide 4\nSix Fundamental Principles of FinanceSix Fundamental Principles of Finance\nP1:  There Is No Such Thing As A Free Lunch\nP2:  Other Things Equal, Individuals :\nPrefer more money to less (non-satiation)\nPrefer money now to later (impatience)\nPrefer to avoid risk (risk aversion)\nP3:  All Agents Act To Further Their Own Self-Interest\nP4:  Financial Market Prices Shift to Equalize Supply and Demand\nP5:  Financial Markets Are Highly Adaptive and Competitive\nP6:  Risk-Sharing and Frictions Are Central to Financial Innovation\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 5,
+      "text": "15.401\nSlide 5\nCourse OverviewCourse Overview\nFour Sections\nA. Introduction\n Fundamental challenges of finance\n A framework for financial analysis\n Six principles of finance\n Cashflows and the time-value of money\nB. Valuation\n Discounting and the mathematics of net present value\n Pricing stocks, bonds, futures, forwards, and options\nC. Risk\n Measuring risk\n Managing risk (portfolio theory)\n Incorporating risk into valuation methods\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 6,
+      "text": "15.401\nSlide 6\nCourse OverviewCourse Overview\nFour Sections\nD. Corporate Finance\n Capital budgeting and project finance\nFinal Lecture:  Market Efficiency (putting it all together)\n Do financial markets always work well in discovering prices?\n What about behavioral biases and human psychology?\n How should finance theory be used in practice?\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 7,
+      "text": "15.401\nSlide 7\nKey Points: Present ValueKey Points: Present Value\n Use \"exchange rates\" to convert one type of cashflow into another\n PV and FV related by \"exchange rates\"\n Exchange rates are determined by supply/demand\n Opportunity cost of capital: expected return on equivalent investments\n      in financial markets \n For NPV calculations, visualize cashflows first\n Decision rule: accept positive NPV projects, reject negative ones\n Assets are sequences of cash flows\n Date-t cashflows are different from date-(t+k) cashflows\n Special cashflows: perpetuities and annuities\n Compounding\n Inflation\n Extensions and Qualifications\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 8,
+      "text": "Key Points: Fixed-Income Securities \n \n15.401\nSlide 8\n Valuation of riskless pure discount bonds using NPV tools\n Coupon bonds can be priced from discount bonds via arbitrage\n Current bond prices contain information about future interest rates\n Spot rates, forward rates, yield-to-maturity, yield curve\n Interest-rate risk can be measured by duration and convexity\n Corporate bonds contain other sources of risk\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 9,
+      "text": "Key Points: Equity Securities \n \n15.401\nSlide 9\nThe Dividend Discount Model\nThe Gordon Growth Model\nDiscount rate, cost of capital, required rate of return\nEstimating discount rates with D/P and g\nEPS, P/E, and PVGO\nDefinitions of growth stocks and growth opportunities\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 10,
+      "text": "Key Points: Futures and Forwards 15.401\nSlide 10\n Forward and futures contracts are zero-NPV contracts when initiated\n After initiation, both contracts may have positive/negative NPV\n Futures contracts are “marked to market” every day\n Futures and forwards are extremely liquid\n Hedging and speculating are important applications of futures/forwards\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 11,
+      "text": "Key Points: Options and Other Derivatives 15.401\nSlide 11\n Options have nonlinear payoffs, as diagrams show\n Some options can be viewed as insurance contracts\n Option strategies allow investors to take more sophisticated bets\n Valuation is typically derived via arbitrage arguments (e.g., binomial)\n Option-pricing models have a long and illustrious history\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 12,
+      "text": "Key Points: Introduction to Risk and Return \n \n15.401\nSlide 12\nAnomalies:\n Size Effect:  Smaller stocks typically outperform larger stocks, \nespecially in January.\n January Effect:  Returns in January tend to be abnormally high.\n Value Effect:  Low P/B (value) stocks typically outperform high P/B \n(growth) stocks.\n Momentum:  Stocks with high returns over the past 12 months \ntypically continue to outperform stocks with low past returns.\n Accruals and Issuances:  Stocks with high past accruals and/or \nrecent stock offerings typically underperform stocks with low past \naccruals and no stock offerings.\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 13,
+      "text": "Key Points: Portfolio Theory \n \n15.401\nSlide 13\n 'LYHUVLILFDWLRQ\u0003UHGXFHV\u0003ULVN\u0011The standard deviation of a portfolio is \nalways less than the average standard deviation of the individual \nstocks in the portfolio.\n ,Q\u0003GLYHUVLILHG\u0003SRUWIROLRV\u000f\u0003FRYDULDQFHV\u0003DPRQJ\u0003VWRFNV\u0003DUH\u0003PRUH\u0003\nLPSRUWDQW\u0003WKDQ\u0003LQGLYLGXDO\u0003YDULDQFHV\u00112nly systematic risk matters.\n ,QYHVWRUV\u0003VKRXOG\u0003WU\\\u0003WR\u0003KROG\u0003SRUWIROLRV\u0003RQ\u0003WKH\u0003HIILFLHQW\u0003IURQWLHU\u0011\nThese portfolios maximize expected return for a given level of risk.\n :LWK\u0003D\u0003ULVNOHVV\u0003DVVHW\u000f\u0003DOO\u0003LQYHVWRUV\u0003VKRXOG\u0003KROG\u0003WKH\u0003WDQJHQF\\\u0003\nSRUWIROLR\u00117KLV\u0003portfolio maximizes the trade-off between risk and \nexpected return.\n© 2007–2008 by Andrew W. LoCourse Summary"
+    },
+    {
+      "page": 14,
+      "text": "Key Points: The CAPM \n Tangency portfolio is the market portfolio\n This yields the capital market line (efficient portfolios)\n The CAPM generalizes this relationship for any security or portfolio:\n The security market line yields a measure of risk: beta\n This provides a method for estimating a firm’s cost of capital\n The CAPM also provides a method for evaluating portfolio managers\n– Alpha is the correct measure of  performance, not total return\n– Alpha takes into account the differences in risk among managers\n Empirical research is mixed, but the framework is very useful\n© 2007–2008 by Andrew W. LoCourse Summary\n15.401\nSlide 14"
+    },
+    {
+      "page": 15,
+      "text": "Key Points: Capital Budgeting \n Use the NPV rule for capital budgeting decisions: take all projects with \npositive NPV\n, or take highest-NPV project if mutually exclusive \n Consider project interactions separately \n Use after-tax cashflows for NPV calculations, not accounting earnings \n Use the CAPM to estimate cost of capital with project beta \n Be careful about risks that change over time or across different stages \n Be wary of alternative to NPV: \n– Payback rule, discounted payback rule \n– Profitability index \n– Internal rate of return \n \n© 2007–2008 by Andrew W. LoCourse Summary\n15.401\nSlide 15"
+    },
+    {
+      "page": 16,
+      "text": "Key Points: Market Efficiency \n Several types of market microstructure \n Markets have several functions \n Markets work well most of the time \n Price discovery process is not costless nor effortless \n Convergence of market prices to rational expectations equilibri a \n Bubbles, crashes, excess volatility, are part of normal markets \n Emotional state of the market matters \n The Adaptive Markets Hypothesis integrates rational and behavioral \n \n© 2007–2008 by Andrew W. LoCourse Summary\n15.401\nSlide 16"
+    }
+  ]
+}

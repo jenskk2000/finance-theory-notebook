@@ -1,0 +1,38 @@
+{
+  "name": "session-16",
+  "session": 16,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses16_300k.mp4",
+  "path": "/media/session-16.mp4",
+  "youtube_id": "N8gtnbJuMoo",
+  "segments": [
+    {
+      "title": "Part II of The CAPM and APT",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/f97d96e433c1aaf054a31981536a084d_N8gtnbJuMoo.pdf",
+      "captions": "static_resources/a3a64f7b153056ec8a72d61325a5c353_N8gtnbJuMoo.vtt"
+    }
+  ],
+  "bytes": 174258729,
+  "sha256": "dac6b2ca7b88b62b044e382acd831973705b74449ccfbdcb96213b7f73353680",
+  "duration_seconds": 4524.21,
+  "caption_end_seconds": 4524.12,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2262.11,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4519.21,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

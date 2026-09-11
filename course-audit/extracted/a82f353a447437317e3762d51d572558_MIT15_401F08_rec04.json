@@ -1,0 +1,74 @@
+{
+  "source": "static_resources/a82f353a447437317e3762d51d572558_MIT15_401F08_rec04.pdf",
+  "sha256": "774b45b16a858ddb3a702aaad0c7144bd80652a5d81127c5c4be2afe22f5db97",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n4: Forwards & Futures "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives\n Ri f C t Review of Concepts \no Forwards vs. futures\no Sppot‐future pparityy \no Hedging with F&F \n Examples \noo Mark to marketMark to market \no Oil! \no Stock futures \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "• • ‐ ‐\nReview: forwards vs. futures \n Similarity: Similarity: \no One party has the obligation to buy an asset at a fixed \nfuture date and at a price determined today; the \nt t th ti t llcounterparty hhas the oblibligation to sell. \n Difference: \no forwards o futures \n• custom made • standardized \n•o ver the counter (OTC) • traded on exchange \n• no payments until • marked to market no payments until marked‐to‐market \nmaturity daily \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: forwards vs. futures \nforwards \nLong \nposition \nShort \nposition \nfutures\nLong \nposition \nShort \nposition \nClearing \nHouse \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Review: forwards vs. futures\nforwardforward futures\nfutures \nAgree to t=0 t=0 \n CH futures price \nBuyerBuyer Seller of $500/unit Seller of $500/unit \nAgree to forward price \nSeller BuyerBuyer Seller \nSettle$5/unit CH $5/unit of $500/unit t=1 \n at $495 \nSeller\nBe r Buyer Seller $500/oz \n1 unit of Settle$6/unit $6/unit Buyer goods Seller t=Tt=T g \n CH \nat $497 at $497 Buyer $497/unit Seller \nSettle contract at market 1 unit of goods price of $497/unit \nIn both cases, the seller earns $3/unit. \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "Review: spot‐future parity \n The no‐arbitrage principle implies the following \tThe no arbitrage principle implies the following \nrelationship between the spot price and futures \nprice: T \nF 0  P0 1 f\t \nT \nF P 1 r  y  c\n y is the convenience yield per period \ni th tc is the sttorage cost.\n(y – c) is the net convenience yield\nTT is the time to maturity of the futures contractis the time to maturity of the futures contract.\n If the spot‐future parity does not hold, there is an \narbitragge opppportunityy. \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Review: spot‐future parity \n If net convenience yield is positive (storage costs are If net convenience yield is positive (storage costs are \nlow and convenience yields are high), futures price \nwill be lower than the spot price adjusted for the \ntime value of money. This is known as \nbackwardation. \n IfIf nett conveniience yield is negatitive, adjustted fd ft utures\nil d i dj \nprice is higher than the spot price. This is known as \ncontangocontango. \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Review: hedging with F&F \n\tForward contract can be used to hedge future inflow\n\tForward contract can be used to hedge future inflow \nand outflow of commodities against price \nfluctuations: \no Pro: contracts are custom‐made to fit exact needs \no Con: illiquid \n Futures contract can be used in a similar way:Futures contract can be used in a similar way: \no Pro: liquid \no Con: standardized contract \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "ta t ds co e ed d at a eo te\nReview: hedging with F&F \n Suppose that you just discovered gold at a remoteSuppose you just go \nlocation in Yukon, but it will take 6 months to build a \nmine and start production. You can secure your revenue \nd b ki h ii i ld f dtoday by taking a short position in a gold forward\ncontract:\nCFCF at t=0 at t=0 CF at t=6 CF at t=6 \nLong position in gold 0 S6 \nShort position in forward 0 F0 – S6 \nNet Cash Flow 0 F0 \n Your future net cash flow, F0, is a fixed number at t=0. \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "Example 1: mark to market \n Assume the current futures price for silver for \tAssume the current futures price for silver for \ndelivery 5 days from today is $10.10 per ounce. \nSuppose that over the next 5 days, the futures price \nevolves as follows: \nDay 0 1 2 3 4 5\nFutures Price $10.10 10.2 10.25 10.18 10.18 10.21\n If you have a long position of 25 000 ounces at time\n If you have a long position of 25,000 ounces at time\n0, what are your cash flows for the next five days?\n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "Example 1: mark t0 market\n Answer: Answer: \nDay Profit/loss per ounce Daily proceeds \n1 10.20 – 0.10 = 0.10 $2,500\n2 10.25 –1 0.20 = 0.05 1,250\n3 10.18 –1 0.25 = ‐0.07 x 25,000 ‐1,750 \n4 10.18 – 10.18 = 0.00 0\n5 10.21 –1 0.18 = 0.03 750\nSum = $2,750Sum $2,750 \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": "Example 2: oil!\n Oil is currently trading at $50 per barrel. The 1Oil is currently trading at $50 per barrel. The 1‐year\n year \nrisk‐free interest rate is 3.8%, and the 1‐year forward \nprice of oil is $50.40. \na. What is the net convenience yield of oil? \nb. What would you do if the 1‐year forward price is $51 \ninstead?instead? \n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 2: oil! \n Answer: Answer: \na. 50.4  50 1 0.038  yˆ \n1 \n yˆ  3% \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "Example 2: oil! \n Answer: Answer: \nb. there is an arbitrage opportunity: \nCF at t=0 CF at t=0 CF at t=1 CF at t=1 \nSell 1 barrel forward $0.00 $51.00 \nBuy 1 barrel now & hold ‐$50.00 $1.50 \nBorrow $50 today $50.00 ‐$51.90 \nNet Cash Flow $0.00 $0.60 \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "Example 3: stock futures \n Stock price of Acme Inc. is trading at $56, and is Stock price of Acme Inc. is trading at $56, and is \nexpected to pay $10 of dividend in the next two \nyears. The term structure of interest rates is flat at \n3%. What is the 2‐year forward price on company \nA’s stock? \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "Example 3: stock futures \n Answer: the no‐arbitrage principle gives  Answer: the no arbitrage principle gives\nF2  56 1.032 10  $49.41 \n2010 / Yichuan Liu 16 "
+    },
+    {
+      "page": 17,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

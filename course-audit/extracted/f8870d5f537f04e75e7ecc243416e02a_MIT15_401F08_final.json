@@ -1,0 +1,122 @@
+{
+  "source": "static_resources/f8870d5f537f04e75e7ecc243416e02a_MIT15_401F08_final.pdf",
+  "sha256": "7b3be9a44e54c20bfec1132604cff88034de34e61aa4122134dd24c87efa9dd0",
+  "pages": [
+    {
+      "page": 1,
+      "text": "�\t � \n� \n� \n� \n� \n� \n� \nName:\t MIT ID: \n15.401 Sample Final Exam – Fall 2008 \nPlease make sure that your copy of the examination contains 25 pages (including this one). \nWrite your name and MIT ID number on every page. \nYou are allowed two 81 �� × 11�� sheets of notes and one non-programmable non-PDA •\t 2 \ncalculator. \n•\t Answer these examination questions without consulting anyone. No scratch paper is \nallowed; do all your work on these examination pages. \n•\t You have 180 minutes to complete this examination. Credit for each question is pro­\nportional to the amount of time you should spend on it. Therefore, do not agonize \nover a 10-point question without having tackled a 30-point question. \n•\t Use only the space provided. \n•\t Be neat and show your work. You will receive no credit for answers without work. You \nmay receive partial credit for wrong answers with partially correct work. \nGood luck! \nSome Useful Formulas \nn� C C 1 NPV = (1 + r)k = r 1 − (1 + r)n (Annuity) (1) \nk=1 \n∞ C C NPV = = (Perpetuity)\t (2)(1 + r)k rk=1 \n∞ D D Price = = (DDM)\t (3)(1 + r)k rk=1 \n∞\t D(1 + g)k−1 D Price =\t = (DDM with growth) (4) \nk=1 (1 + r)k r − g \nn\nRp = ωiRi (Portfolio Return) (5) \ni=1 \nn\nE[Rp] = ωiE[Ri] (Portfolio Expected Return) (6) \ni=1 \nσp \n2 = ωa\n2σa \n2 + ωb \n2σb \n2 + 2ωaωbσaσbρab (Portfolio Variance) (7) \nn\nβp = ωiβi (Portfolio Beta) (8) \ni=1 \nCov[Ri, Rm]E[Ri] = Rf + βi(E[Rm] − Rf ) , βi ≡ Var[Rm] (CAPM) (9) \nFall 2008\t 15.401 Sample Final Exam Page 1 of 25 "
+    },
+    {
+      "page": 2,
+      "text": "ame: MIT ID: N\n15.401 Final Examination 2008 Grade Sheet \n1. \n2. \n3. \n4. \n5. \n6. \n7. \n8. \n9. \n10. \nTotal \n/ 40\n/ 15\n/ 25\n/ 15\n/ 10\n/ 20\n/ 25\n/ 30\n/ 35\n/ 35\n/ 250\nFall 2008 15.401 Sample Final Exam Page 2 of 25\n"
+    },
+    {
+      "page": 3,
+      "text": "Name:\t MIT ID: \nQuestion 1 (40 points): \nTrue, false or uncertain? Please explain your answers carefully and fully. No points will be \nrewarded for a true/false-only answer. \na.\t (5 points, Ch2Q1a) The duration of a bond maturing at date T is always less than the \nduration of a zero-coupon bond maturing on the same date. \nb. (5 points, Ch3Q2) The market price of a share of stock equals the discounted value of \nthe stream of future earnings per share. \nFall 2008\t 15.401 Sample Final Exam Page 3 of 25\n"
+    },
+    {
+      "page": 4,
+      "text": "Name: MIT ID:\nQuestion 1 (continued): \nc. (5 points) Growth stocks must have a plowback ratio > 1. \nd. (5 points) If a commercial airline wants to hedge its risk against oil prices, it should go \nshort in oil futures. \nFall 2008 15.401 Sample Final Exam Page 4 of 25\n"
+    },
+    {
+      "page": 5,
+      "text": "Name: MIT ID: \nQuestion 1 (continued): \ne. (5 points) The value of an American call option is always equal to the value of a European \ncall option. \nf. (5 points) Holding everything else constant, the price of a European call option is \nincreasing with increasing risk free interest rate. \nFall 2008 15.401 Sample Final Exam Page 5 of 25\n"
+    },
+    {
+      "page": 6,
+      "text": "Name: MIT ID: \nQuestion 1 (continued): \ng. (5 points) Investors do not get rewarded for bearing idiosyncratic risk. \nh. (5 points, CH7Q7) CAPM implies that all risky assets must have a positive risk premium.\nFall 2008 15.401 Sample Final Exam Page 6 of 25\n"
+    },
+    {
+      "page": 7,
+      "text": "Name: MIT ID: \nExtra Space for Question 1 only: \nFall 2008 15.401 Sample Final Exam Page 7 of 25\n"
+    },
+    {
+      "page": 8,
+      "text": "Name: MIT ID: \nQuestion 2 (15 points, Ch1Q17): \nThe annual membership fee at your health club is $750 per year and is expected to increase \nat 5% per year. A life membership is $7,500 and the discount rate is 12%. In order to justify \ntaking the life membership, what would your minimum life expectancy need to be? \nFall 2008 15.401 Sample Final Exam Page 8 of 25\n"
+    },
+    {
+      "page": 9,
+      "text": "Name: MIT ID:\nQuestion 3 (25 points):\nThe current prices of three U.S. treasury bonds are as follows:\nMaturity Coupon Rate Price \n1 0% $97.474 \n2 5% $99.593 \n3 6% $100.148 \nAssume that coupons paid yearly and all bonds have a PAR value of $100. \na. (10 points) What are the 1-, 2- and 3-year spot rates? \nb. (6 points) What are the year 1 to 2 and year 1 to 3 forward rates? \nFall 2008 15.401 Sample Final Exam Page 9 of 25\n"
+    },
+    {
+      "page": 10,
+      "text": "Name: MIT ID: \nQuestion 3 (continued): \nc. (9 points) What is the price of a three-year bond with a 8% annual coupon. \nFall 2008 15.401 Sample Final Exam Page 10 of 25\n"
+    },
+    {
+      "page": 11,
+      "text": "Name: MIT ID: \nExtra Space for Question 3 only: \nFall 2008 15.401 Sample Final Exam Page 11 of 25\n"
+    },
+    {
+      "page": 12,
+      "text": "Name: MIT ID:\nQuestion 4 (10 points, Ch7Q16): \nConsider three stocks: Q, R and S. \nBeta STD (annual) Forecast for Nov 2009 \nDividend Stock Price \nQ 0.45 35% $0.50 $45 \nR 1.45 40% 0 $75 \nS -0.20 40% $1.00 $20 \nUse a risk-free rate of 2.0% and an expected market return of 9.5%. The market’s standard \ndeviation is 18%. Assume that the next dividend will be paid after one year, at t = 1. \na. (5 points) According to the CAPM, what is the expected rate of return of each stock? \nb. (5 points) What should today’s price be for each stock, assuming the CAPM is correct? \nFall 2008 15.401 Sample Final Exam Page 12 of 25\n"
+    },
+    {
+      "page": 13,
+      "text": "Name: MIT ID: \nExtra Space for Question 4 only: \nFall 2008 15.401 Sample Final Exam Page 13 of 25\n"
+    },
+    {
+      "page": 14,
+      "text": "Name: MIT ID: \nQuestion 5 (15 points, Ch3Q20): \nCompany Ts current return on equity (ROE) is 16%. It pays out one-quarter of earnings as \ncash dividends (payout ratio = .25). Current book value per share is $35. The company has \n5 million shares outstanding. \nAssume that ROE and payout ratio stay constant for the next four years. After that, \ncompetition forces ROE down to 10% and the company increases the payout ratio to 60%. \nThe company does not plan to issue or retire shares. The cost of capital is 9.5%. \na. (10 points) What is stock T worth? \nb. (5 points) How much of stock Ts value is attributable to growth opportunities (PVGO)? \nFall 2008 15.401 Sample Final Exam Page 14 of 25\n"
+    },
+    {
+      "page": 15,
+      "text": "Name: MIT ID: \nExtra Space for Question 5 only: \nFall 2008 15.401 Sample Final Exam Page 15 of 25\n"
+    },
+    {
+      "page": 16,
+      "text": "Name:\t MIT ID: \nQuestion 6 (20 points, Ch4Q5 modiﬁed: a) b) identical c) new): \nSpot and futures prices for Gold and the S&P in September 2007 are given below. \n07-September 07-December 08-June \nCOMEX Gold ($/oz) $693 $706.42 $726.7 \nCME S&P 500 $1453.55 $1472.4 $1493.7 \nTable 1: Gold and S&P 500 Prices on September 7, 2007 \na.\t (12 points) Use prices for gold to calculate the eﬀective annualized interest rate for \nDec 2007 and June 2008. Assume that the convenience yield for gold is zero. \nb. (4 points) Suppose you are the owner of a small gold mine and would like to ﬁx the \nrevenue generated by your future production. Explain how the futures market enables \nsuch hedges. \nFall 2008\t 15.401 Sample Final Exam Page 16 of 25\n"
+    },
+    {
+      "page": 17,
+      "text": "Name:\t MIT ID: \nQuestion 6 (continued): \nc.\t (4 points) Calculate the convenience yield on the S&P index between September 07 \nand December 07. \nFall 2008\t 15.401 Sample Final Exam Page 17 of 25\n"
+    },
+    {
+      "page": 18,
+      "text": "Name: MIT ID: \nQuestion 7 (25 points, Ch8Q5): \nYou have developed the technology to use gold to produce high capacity ﬁber optic switches. \nThe technology has cost $ 5 million to develop. You need $50 million of initial capital \ninvestment to start production. Sales of the switch sales will be $20 million per year for \nthe next 5 years and then drop to zero. The main cost of production is gold. Each year, \nyou need 20,000 ounces of gold. Gold is currently selling for $250 per ounce. Your supplier \nthinks that the gold price will appreciated at 5% per year for the next 5 years. The cost of \ncapital is 10% for the ﬁber-optics business. The tax rate is 35%. The capital investment can \nbe depreciated linearly over the next 5 years. \na. Calculate the after-tax cash ﬂows of the project. \nb. Should you take the project? \nFall 2008 15.401 Sample Final Exam Page 18 of 25 "
+    },
+    {
+      "page": 19,
+      "text": "Name: MIT ID: \nExtra Space for Question 7 only: \nFall 2008 15.401 Sample Final Exam Page 19 of 25\n"
+    },
+    {
+      "page": 20,
+      "text": "Name: MIT ID: \nQuestion 8 (30 points, Ch7Q18): \nIt is November, 2007. The following variance-covariance matrix, for the market (S&P 500) \nand stocks T and U, is based on monthly data from November 2002 to October 2007. As­\nsume T and U are included in the S&P 500. The betas for T and U are T = 0.727 and U = \n0.75. \nS&P 500 T U \nS&P 500 0.0256 0.0186 0.0192 \nT 0.0186 0.1225 0.0262 \nU 0.0192 0.0262 0.0900 \nAverage monthly risk premiums from 2002 to 2007 were: \nS&P 500 : 1.0% \nT : 0.6% \nU : 1.1% \nAssume the CAPM is correct, and that the expected future market risk premium is 0.6% \nper month. The risk-free interest rate is 0.3% per month. \na. (10 points) What were the alpha’s for stocks T and U over the last 60 months? \nFall 2008 15.401 Sample Final Exam Page 20 of 25\n"
+    },
+    {
+      "page": 21,
+      "text": "Name: MIT ID: \nQuestion 8 (continued): \nb. (10 points) What are the expected future rates of return for T and U? \nc. (10 points) What are the optimal portfolio weights for the S&P 500, T and U? Explain \nqualitatively. \nFall 2008 15.401 Sample Final Exam Page 21 of 25\n"
+    },
+    {
+      "page": 22,
+      "text": "Name:\t MIT ID: \nQuestion 9 (35 points, Ch6Q17modiﬁed: a) identical, b) c) new): \nExpected returns and standard deviations of three risky assets are as follows: \nExpected Return Standard Deviation Correlations \nA B C \nA \nB \nC \n11% \n14.5% \n9% \n30% \n45% \n30% \n1.0 \n.3 \n.15 \n.3 \n1.0 \n.45 \n.15 \n.45 \n1.0 \na.\t (10 points) Calculate the expected return and standard deviation of a portfolio of \nstocks A, B and C. Assume an equal investment in each stock. \nb. (15 points) Compute the Sharpe ratio of a portfolio that has 30% in A, 30% in B and \n40% C. The risk-free interest rate is 4%. \nFall 2008\t 15.401 Sample Final Exam Page 22 of 25\n"
+    },
+    {
+      "page": 23,
+      "text": "Name: MIT ID: \nQuestion 9 (continued): \nc. (10 points) Assume a portfolio of asset B and C. Determine the weight in asset B, such \nthat the total portfolio risk is minimized. \nFall 2008 15.401 Sample Final Exam Page 23 of 25\n"
+    },
+    {
+      "page": 24,
+      "text": "Name: MIT ID: \nExtra Space for Question 9 only: \nFall 2008 15.401 Sample Final Exam Page 24 of 25\n"
+    },
+    {
+      "page": 25,
+      "text": "Name:\t MIT ID: \nQuestion 10 (35 points, Ch5Q25 modiﬁed : a) b) identical c) d) new): \nYou are asked to price options on KYC stock. KYC’s stock price can go up by 15 percent \nevery year, or down by 10 percent. Both outcomes are equally likely. KYC does not pay \ndividend. The risk free rate is 5% (EAR), and the current stock price of KYC is $100. \na.\t (15 points) Price a European put option on KYC with maturity of 2 years and a strike \nprice of 100. \nFall 2008\t 15.401 Sample Final Exam Page 25 of 25\n"
+    },
+    {
+      "page": 26,
+      "text": "Name:\t MIT ID: \nQuestion 10 (continued): \nb. (5 points) Price an American put option on KYC with the same characteristics. Is the \nprice diﬀerent? Why or why not? \nc.\t (5 points) Given the price of the put option that you calculated in a), specify the ranges \nof KYC share price at the option’s maturity date for which you will be making a net \nproﬁt. \nFall 2008\t 15.401 Sample Final Exam Page 26 of 25\n"
+    },
+    {
+      "page": 27,
+      "text": "Name: MIT ID: \nQuestion 10 (continued): \nd. (10 points) Suppose you expect the price of KYC stock to have little variance in the \nfuture. How would you design a strategy (using options) to take advantage of this? \nFall 2008 15.401 Sample Final Exam Page 27 of 25\n"
+    },
+    {
+      "page": 28,
+      "text": "Name: MIT ID: \nExtra Space for Question 10 only: \nFall 2008 15.401 Sample Final Exam Page 28 of 25\n"
+    },
+    {
+      "page": 29,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

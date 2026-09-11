@@ -1,0 +1,138 @@
+{
+  "source": "static_resources/afd942e9eab1c6e9e2da35d37a978523_MIT15_401F08_rec06.pdf",
+  "sha256": "d2b6874af24dc5c63bb6e9ea61daf92155601cfbe9a6012aa0b4fd172d7c4574",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n6: Portfolio Choice "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives\n Ri f C t Review of Concepts \no Portfolio basics \no Efficient frontier \no Capital market line \n Examples \noo XYZXYZ \no Diversification \no Sharpe ratio \no Efficient frontier \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "Review: portfolio basics\n A portfolio is a collection of A portfolio is a collection of N assets ((AA11,, A2, …, AANN))\n N assets A2, …, \nwith weights (w1, w2, …, wN) that satisfy \nN \no  wi  11 \ni1 \n Each asset Each asset ~ AAii has the following characteristics: following characteristics: has the \no Return: ri (random variable) \no Mean return: ri \n 2 \noo Variance and std Variance and std. dedev. of ret of return rn:  i , i \no Covariance with Aj:  ij \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": " \nReview: portfolio basics \n The return of a portfolio is The return of a portfolio is \nN \n~ ~\nrp   wi ri \ni1 \n The mean/expected return of a portfolio is\nErpp   rpp   \nN \nwii rii \ni1 \n The variance of a portfolio is \nN N \n p \n2   wi wj ij ; \n p \n p \n2 \ni1 j1 \n ii \n ;  ij \n\n  Note:Note: \n ii  ii \n2 ;  ij \nijij  ii jj \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Example 1: XYZ\nE(r) \nVariance CovarianceVariance‐Covariance \nX Y Z \nX 15% 0.090 0.125 0.144 \nY 10% 0.040 ‐0.036 \nZ 20% 0.625 \n Wh t i th td t d i f What is the expected return and variance of a \nportfolio of … \na. (X, Y) with weights (0.4, 0.6)? with weights (0.4, 0.6)? a. (X, Y) \nb. (X, Y, Z) with weights (0.2, 0.5, 0.3)? \nc. (X, Y, Z) with weights (1/3, 1/3, 1/3)? \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": " \nExample 1: XYZ \n Answer: Answer: \na. Erpp   12%;\n pp \n2  0.08880; pp  29.80% \nb. Erp   14%;\n p \n2  0.10133; p  31.83% \n2 \nc. Erp   15%;\n p  0.13567; p  36.83% \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Example 1: XYZ \n What is the minimum possible variance of a portfolio \tWhat is the minimum possible variance of a portfolio \nwith only Y and Z? \nE(r) \nVaria\nX \nnce‐Covar\nY \niance \nZ \nXX 15%15% 00 90 0.090 01 25 0.125 01 44 0.144 \nY 10% 0.040 ‐0.036 \nZ 20% 0.625 \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Example 1: XYZ \n Answer:\tAnswer: \nLet (w, 1–w ) be the weights for (Y, Z), then \n2\t 2 \narg minw  00.0404  2 1 ww 0 036 1 w  0 625arg min w  2ww1  0.036 1 w 0.625 \nw \n\tFirst‐order condition: \n2w  0.04  21 2w 0.036 21 w 0.625  0\nw *  0.8969\n\tThe minimum variance portfolio is \n\t 0.8969,0.10.8969,0.1031031  \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "Example 2: diversification \n Suppppose that yyour pportfolio consists of N eqquallyy \nweighted identical assets in the market, each of \nwhich has the following properties: \noo Mean = 15%Mean = 15% \no Std dev = 20% \no Covariance with any other asset = 0.01 \n What is the expected return and std dev of return ofWhat is the expected return and std dev of return of \nyour portfolio if… \no N = 2? \no N = 5? \no N = 10? \no N = ∞? \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "\n\nExample 2: diversification \n Answer: Answer: \no Expected return \nE rp   \nN 1 0.15Er  0 15  00.1515\ni1 N\no Variance  r \n0.2 \n\n0.01  0.2 \n\n    0.01  \nN 2 \n \nN \n N  \n2 \n N N 1p\ni1 N 2 \ni1 jji N 2 \n N 2 \n N 2 \n 0.04  1 1 0.01  0.01 0.03 \nN  N  N\n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": " \nExample 2: diversification \n Answer: Answer: \no N = 2: \n2Erpp   15%;\n pp  0.0250; pp  15.81% \no N = 5: \n15%;\n 2  \n  12 65%EErrp   15%;\n p  00.01600160;; p  12.65% \no N = 10: \n2 E p  p \n2 0.0130; p 11 40%Er   15%15%;  0 0130 \n  11.40% \no N = ∞: \n22Erp   15%;\n p  0.0100; p  10.00% \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": "Example 2: diversification\nStandard Devviation of RReturn\n20% \n18% \n16% \n14%14% \n12% \n10% \n8% \n6% \n4%4% \n2% \n0% \n0 5 10 15 20 25 30 \nN2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Review: diversification\n20% \n14% \n16% \n18% \nReturn\nIdiosyncratic risk can be diversified away; \ninvestors are not compensated for such risk \n10% \n12% \n14% \nviation of R\n investors are not compensated for such risk. \n4% \n6% \n8%\nandard Dev \nSystematic risk cannot be diversified away; \ninvestors are compensated with higher \n0% \n2% \n4%\nSt\np g \nexpected returns. \n0 5 10 15 20 25 30\nN2010 / Yichuan Liu 13\n"
+    },
+    {
+      "page": 14,
+      "text": "Review: efficient frontier \n Given two assets, we can form portfolios with \tGiven two assets, we can form portfolios with \nweights (w, 1–w). As we vary w, we can plot the path \nof the mean return and standard deviation of \nreturn of the resulting portfolio. \n The shape of the path depends on the correlation \nbt th tbetween the ttwo assets. \n When the correlation is low, a large portion of asset\nreturn variation comes from idiosyncratic risk that\nreturn variation comes from idiosyncratic risk that\ncan be diversified away. \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "14\n13\n12\n11\n10\n9\n8\n7\n6\n5\n0 2 4\n 6 8 10 12 14 16 18 20 \nStandard Deviation (%) \np = -1 \np = 0 \np = .30 \np = 1 \nD \nE \nExpected Return (%)\nReview: efficient frontier \n ρ = 1 \nperfectly correlated \nno risk reduction potential \n ‐1 < ρ < 1 \nimperfectly correlated \nsome risk reduction potential \n ρρ = ‐1 1\nperfectly negatively correlated \nmost risk reduction potential \nImage by MIT OpenCourseWare. \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "Review: efficient frontier \n We can repeat the previous exercise for We can repeat the previous exercise for NN assets:\n assets:\n2010 / Yichuan Liu 16 \nEfficient Frontier\nGlobal Minimum \nVariance Portfolio\nIndividual Assets\nMinimum-Variance Frontier\nE(r)\ns\nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 17,
+      "text": "\n\n  \nReview: efficient frontier \n\tThe efficient frontier can be described by a function\n\tThe efficient frontier can be described by a function \nσ*(rp), which minimizes the portfolio std dev given \nan expected return: \n\n \nN\nw  1N N\t i \n*\n\t r   min  wi wjj  ijj s.t. \n \ni\nN \n1 \npp wi  i1 j1\t  wi ri  rp i1 \n\tAnalytical solution for σ*((rrp) is possible but difficult ) is possible but difficult\tAnalytical solution for σ \nto derive. \n2010 / Yichuan Liu 17 "
+    },
+    {
+      "page": 18,
+      "text": "Review: capital market line \n Efficient frontier + risk‐free asset = CML\n Efficient frontier + risk free asset CML\nEfficient Frontier \nRisk-Free \nAsset\nMarket Portfolio\nRisk\nExpected Return\n2010 / Yichuan Liu 18 \nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 19,
+      "text": "5\n4\nExample 3: Sharpe ratio \n\t The Sharppe ratio measures the reward‐risk tradeoff of an \nasset or a portfolio. It is defined as \nr  rf\nS\tS \n \n\t The higher Sharpe ratio, the more desirable an asset / a \npportfolio is. Suppose rff = 5%. What is the pportfolio of ((,A, B)pp ) \nwith the highest Sharpe ratio? \nE(r)E(r) \nCOV‐VAR \nA B \nA 15% 0.090 0.015 \nB 10% 0.040 \n2010 / Yichuan Liu 19 "
+    },
+    {
+      "page": 20,
+      "text": "Example 3: Sharpe ratio \n Answer: Answer: \nwrA  1 wrB  rf\nmax S  maxpw\t w w2  A \n2  22w1 ww AB  1 w\n2  B \n2 w  w 1 \n 1 w \n Method 1: grid search\nSt id f\n1.\t Set up a grid for w, e.g., w = 0, 0.1, 0.2, …, 1.0\nThe finer the grid, the more accurate the result\n2.\t Calculate the Sharpe ratio for each w \n3.\t Find the maximum Sharpe ratio. \n2010 / Yichuan Liu 20 "
+    },
+    {
+      "page": 21,
+      "text": "Example 3: Sharpe ratio\n Method 1: grid search  Method 1: grid search \nw 1–w rp –r f σp Sp \n0 1 0.0500 0.2000 0.2500 \n0.1 0.9 0.0550 80.1897 80.2899 \n0.2 0.8 0.0600 0.1844 0.3254 \n0.3 0.7 0.0650 0.1844 0.3525 \n0.4 0.6 0.0700 0.1897 0.3689 \n0.5 0.5 0.0750 0.2000 0.3750 \n0.6 0.4 0.0800 0.2145 0.3730 \n0.7 0.3 0.0850 0.2324 0.3658 \n0.8 0.2 0.0900 0.2530 0.3558 \n0.9 0.1 0.0950 0.2757 0.3446 \n1 0 0.1000 0.3000 0.3333 \n2010 / Yichuan Liu 21 "
+    },
+    {
+      "page": 22,
+      "text": "=\nExample 3: Sharpe ratio\n0.40 \n03 4 \n0.36 \n0.38 \nMaximum: \n0.30 \n0.32 \n0.34 \nw* = 0.52 \nE(r) = 12.60% \nσ = 20.26% \nMax S = 03 752 \n0.26 \n0.28 \nMax S 0.3752 \n0.20 \n0.22 \n0.24 \n0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1\n2010 / Yichuan Liu 22\n"
+    },
+    {
+      "page": 23,
+      "text": "To:\nExample 3: Sharpe ratio\n Method 2: Excel Solver  Method 2: Excel Solver \nA B C D E \n1 E(r) Asset A Asset B \n2 \nAsset A \nAsset B Asset B =1 –B3=1 B3 \n0.15 \n010.1 \n=B3 \n0.09 \n00 15 0.015 \n=B4 \n0.015 \n00 4 0.04 \n3 \n44 \n5 \nrp –r f \n=f \nσp \n=g \nS \n=C7/D7 \n6 \n7 \nf: SUMPRODUCT(B3:B4, C3:C4) –0 .05 \ng: SQRT(B3*D2*D3+B3*E2*E3+B4*D2*D4+B4*E2*E4) g: SQRT(B3*D2*D3+B3*E2*E3+B4*D2*D4+B4*E2*E4) \nSolver \nSet Target Cellll: \n$E$7 \nEqual To: Equal \nMax \nBy Changing Cell: \n$B$$B$3 \n2010 / Yichuan Liu 23 "
+    },
+    {
+      "page": 24,
+      "text": "Example 3: Sharpe ratio\n Method 2: Excel Solver  Method 2: Excel Solver \nA B C D E \n1 E(r)() Asset A Asset B \n2 \nAsset A \nA t BAsset B \n0.52 \n80.48 \n0.15 \n0.1 \n0.52 \n0.09 \n0.015 \n0.48 \n0.015 \n0.04 \n3 \n4 \n5 \nrp –r f \n0.076 \nσp \n0.202583 \nS \n0.375154 \n6 \n7 \n2010 / Yichuan Liu 25 "
+    },
+    {
+      "page": 25,
+      "text": "          \nExample 3: Sharpe ratio \n Method 3: analytical solution  Method 3: analytical solution \no Full derivation: \n2 2 2 2 2 2r \n1 1 \n\n 1 \n\n  \nS \n A  rB  p  2  p  2w A  2 1 2w AB  21 w B rp  rf  \n1 \n2 \n1\n2w  p \n2 2 2 2 2 2rA  rB w \n A  2w1 w AB  1 w B  w A  1 2w AB  1 w B wrA  1 wrB  rf \n 2 \np \n 00 \n2 2 2 2 2 20  rA  rB w \n A  2w1 w AB  1 w B  w A  1 2w AB  1 w B wrA  1 wrB  rf  \n2 2 2 2 2 2 rA  rB w \n A  2w1 w AB  1 w B  w A  1 2w AB  1 w B wrA  rB  rB  rf  \n2 2 2 rAA  rBB w ABAB  1 w BB  w AA  1 2w ABAB  1 w BB rBB  rff  \n2 2 2 2 2 rA  rB  B   AB  B rB  rf  rA  rB  B  AB   A  2 AB  B rB  rf w \n2 2 2 rA  rf  B  rB  rf  AB  rA  rf  B  AB  rB  rf  A  AB w \n2 \nww *  rA  \n2 \nrf  B  rB  rf  AB \n22\n2\n A  rf  B  AB  rB  rf  A  AB r  \n    \n 0.52 \n2010 / Yichuan Liu 26 "
+    },
+    {
+      "page": 26,
+      "text": "Example 3: Sharpe ratio \n Method 3: analytical solution  Method 3: analytical solution \no Result only: \nThe general solution for the 2‐asset Sharpe ratio \nii ti bl imaximization problem is \n2r  r   r  r  ww *  rA  rf  \nA  B \n22  \nf  AB\nB \n r\nB\nB  r\nf\nf  \nAB\nA \n22  AB  \n2010 / Yichuan Liu 27 "
+    },
+    {
+      "page": 27,
+      "text": "Example 4: efficient frontier \n Given the risky assets A and B in the previous \tGiven the risky assets A and B in the previous \nquestion, what is the efficient frontier? \nE(r) \nCOV VARCOV‐VAR \nA B \nA 15% 0.090 0.015 \nB 10% 0.040 \n\tGiven 5% risk‐free rate what is the capital market  Given 5% risk free rate, what is the capital market \nline? \n2010 / Yichuan Liu 28 "
+    },
+    {
+      "page": 28,
+      "text": "Example 4: efficient frontier\n Table from the previous question:\n Table from the previous question:\nw 1–w r σp p \n0 1 0.1000 0.2000\n0.1 0.9 0.1050 0.18897\n0.2 0.8 0.1100 0.1844\n0.3 0.7 0.1150 0.1844\n0.4 0.6 0.1200 0.1897\n0.5 0.5 0.1250 0.2000\n0.6 0.4 0.1300 0.2145\n0.7 0.3 0.1350 0.2324\n0.8 0.2 0.1400 0.2530\n0.9 0.1 0.1450 0.2757\n1 0 0.1500 0.3000\n2010 / Yichuan Liu 29 "
+    },
+    {
+      "page": 29,
+      "text": "Example 4: efficient frontier\n Scatter plot of (rp, σp) pairs:  Scatter plot of (rp, σp) pairs: \n0.14 \n0.16 \nEfficient frontier \n0.12 \n0.14 \n0.08 \n0.10 \n Inefficient portion \nof the frontier \n0.06 \n0.04 \n0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.35\n2010 / Yichuan Liu 30 "
+    },
+    {
+      "page": 30,
+      "text": "Example 4: efficient frontier\n Capital market line:  Capital market line: \n0.14 \n0.16 \nTangency portfolio: \nw = 0.52 \n0.12 \n0.14 \nE(r) = 12.60% \nσ = 20.26% \nMax S = 0.3752 \n0.08 \n0.10 \n0.06 \nCML is the line passing through (0, 0.05) and \ntangent to the efficient frontier. \n0.04 \n0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.35\n2010 / Yichuan Liu 31 "
+    },
+    {
+      "page": 31,
+      "text": "Example 4: efficient frontier \n The moral of the story:  The moral of the story: \no The CML is tangent to the efficient frontier at the\ntangency portfolio.\no Th t tf li i th tf li f ik t th to The tangency portfolio is the portfolio of risky assets that \nmaximizes the Sharpe ratio. \no The slope of the CML is the maximum Sharpe ratio. \no Rational investors always hold a combination of the \ntangency portfolio and the risk‐free asset. The \nproportion depends on investors’ risk preferences. proportion depends on investors risk preferences.\n2010 / Yichuan Liu 32 "
+    },
+    {
+      "page": 32,
+      "text": "Sneak Peak: CAPM \n TheThe tangency portfolio is the is the market portfolioportfolio.. tangency portfolio market \n An asset’s systematic risk is measured by beta, which \nis defined as the correlation of its return and the \nmarket return, normalized by the variance of market \nreturn : \n im\ni  im \n2\n m \n Since investors are onlyy comppensated for syystematic\nrisk, asset return is an increasing function of beta:\n~ ~Eri   rf i ri  rf  \n2010 / Yichuan Liu 33 "
+    },
+    {
+      "page": 33,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

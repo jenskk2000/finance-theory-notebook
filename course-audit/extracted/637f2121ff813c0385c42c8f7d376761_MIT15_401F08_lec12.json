@@ -1,0 +1,150 @@
+{
+  "source": "static_resources/637f2121ff813c0385c42c8f7d376761_MIT15_401F08_lec12.pdf",
+  "sha256": "8b28552c599ae2202635a2a59f236455bfb9403804c81c3c339e5327ed5953a2",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLecture 12: Introduction to Risk and ReturnLecture 12: Introduction to Risk and Return\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Motivation\n Statistical Background\n Empirical Properties of Stock Returns\n Anomalies\nReadings\n Brealey, Myers, and Allen Chapters 7, 24.1, 24.4"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 3\nMotivationMotivation\nNPV and Other Valuation Techniques Need Cost of Capital\n Opportunity cost\n Required rate of return\n Risk-adjusted discount rate\n Determined by “the market”\n How???\nIntroduce Risk Into The Valuation Process\n How to measure risk\n How to estimate the required rate of return for a given level of risk\n Related questions:\n– How risky are stocks and what have their returns been historically?\n– Is the stock market “efficient”?\n– How can we gauge the performance of portfolio managers?"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 4\nStatistical BackgroundStatistical Background\nTerminology\n"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 5\nStatistical BackgroundStatistical Background\nTerminology\n Mean, variance, standard deviation:\n Sample estimators:\n"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 6\nStatistical BackgroundStatistical Background\nOther Statistics\n Median\n– 50th percentile (probability of 1/2 that Rt < median)\n Skewness\n– Is the distribution symmetric?\n– Negative: big losses are more likely than big gains\n– Positive: big gains are more likely than big losses\n Correlation\n– How closely do two variables move together?\n"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 7\nStatistical BackgroundStatistical Background\nNegatively Skewed Distribution\n-5 -4 -3 -2 -1 0 1 2 3 4 5"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 8\nStatistical BackgroundStatistical Background\nExamples of Correlation Between Two Random Variables\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n-4 -3 -2 -1 0 1 2 3 4\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n-4 -3 -2 -1 0 1 2 3 4\n \n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n-4 -3 -2 -1 0 1 2 3 4\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n-4 -3 -2 -1 0 1 2 3 4\n \n \nρ = 0 ρ = .5 \nρ = .8 ρ = –.5 "
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 9\nStatistical BackgroundStatistical Background\nNormal Distribution\n Bell-shaped, symmetric\n A model of randomness\n Central Limit Theorem\nConfidence Intervals\nIf R is normally distributed, then …\n 68% of observations fall within +/–1.00 std. deviations from mean\n 90% of observations fall within +/–1.65 std. deviations from mean\n 95% of observations fall within +/–1.96 std. deviations from mean\n 99% of observations fall within +/–2.58 std. deviations from mean\n-5 -4 -3 -2 -1 012345"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 10\nStatistical BackgroundStatistical Background\nGM Monthly Returns\n0.00\n0.07\n0.14\n0.21\n-21% -15% -9% -3% 3% 9% 15% 21%"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 11\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nWhat Characterizes U.S. Stock Returns?\n How volatile are stock returns?\n Are returns predictable?\n How does volatility change over time?\n What types of stocks have the highest returns?\nWhat Properties Should Stock Prices Have In “Efficient” Markets?\n Random, unpredictable\n Prices should react quickly and correctly to news\n Investors cannot earn abnormal, risk-adjusted returns (or at least it \nshouldn’t be easy)"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 12\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nPredictable Price Changes\n$\n20\n30\n40\n50\n60\n70\n80"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 13\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nRandom Walks with Drift\n$\n50\n55\n60\n65\n70\n75\n80\n0 102 0 304 0 506 0 708 0 90 100"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 14\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nFour facts from history of U.S. financial markets:\n1. Real interest rate has been slightly positive on average.\n2. Return on more risky assets has been higher on average than return \non less risky assets.\n3. Returns on risky assets can be highly correlated to each other.\n4. Returns on risky assets are (usually) serially uncorrelated.\nBasic Statistics, U.S., 1946 – 2001 (monthly,in percent)\n Avg Stdev Skew Min Max\nInflation 0.32 0.36 0.82 -0.84 1.85\nTbill (1 yr) 0.38 0.24 0.98 0.03 1.34\nTnote (10 yr) 0.46 2.63 0.61 -7.73 13.31\nVW stock index 1.01 4.23 -0.47 -22.49 16.56\nEW stock index 1.18 5.30 -0.17 -27.09 29.92\nMotorola 1.66 10.02 0.01 -33.49 41.67\n \nNYSE, Amex, NASDAQ:  6,700 firms, $16.4 trillion market cap "
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 15\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nTotal Return of Stocks, Bonds, Bills and Inflation 1946 – 2001 \n0.1\n1\n10\n100\n1000\n10000\nDec-45 Dec-53 Dec-61 Dec-69 Dec-77 Dec-85 Dec-93 Dec-01\ncpi tbill 10 note vw ew"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 16\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\n0%\n3%\n6%\n9%\n12%\n15%\n18%\nJun-53 Jan-63 Jun-72 Jan-82 Jun-91 Jan-01\n1-yr Tbill 10-yr Tbond\nInterest Rates 1953 – 2001 "
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 17\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\n-25%\n-20%\n-15%\n-10%\n-5%\n0%\n5%\n10%\n15%\n20%\n25%\nJan-\n46\nJan-\n51\nJan-\n56\nJan-\n61\nJan-\n66\nJan-\n71\nJan-\n76\nJan-\n81\nJan-\n86\nJan-\n91\nJan-\n96\nJan-\n01\nTotal Returns, 10-Year U.S. T-Bond, 1946 – 2001"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 18\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\n-25%\n-20%\n-15%\n-10%\n-5%\n0%\n5%\n10%\n15%\n20%\n25%\nJan-\n46\nJan-\n51\nJan-\n56\nJan-\n61\nJan-\n66\nJan-\n71\nJan-\n76\nJan-\n81\nJan-\n86\nJan-\n91\nJan-\n96\nJan-\n01\nTotal Returns, U.S. Stock Market 1946 – 2001 "
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 19\n-25%\n-20%\n-15%\n-10%\n-5%\n0%\n5%\n10%\n15%\n20%\n25%\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nTotal Returns, Motorola 1946 – 2001 "
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 20\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\n-2.0%\n-1.0%\n0.0%\n1.0%\n2.0%\n-2.5% -1.5% -0.5% 0.5% 1.5% 2.5%\nScatterplot, VWRETD Today vs. Yesterday ,1980 – 1999"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 21\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nScatterplot, S&P 500 This Month vs. Last Month, 1926 to 1997 \n-20%\n-15%\n-10%\n-5%\n0%\n5%\n10%\n15%\n20%\n-25% -15% -5% 5% 15% 25%"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 22\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\nScatterplot GM vs. S&P 500 Monthly Returns, 1946 – 1997 \n-25%\n-17%\n-8%\n0%\n8%\n17%\n25%\n-35% -25% -15% -5% 5% 15% 25% 35%"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 23\nEmpirical Properties of Stock ReturnsEmpirical Properties of Stock Returns\n0%\n1%\n2%\n3%\n4%\n5%\n6%\nJan 26 Jan 36 Jan 46 Jan 56 Jan 66 Jan 76 Jan 86 Jan 96\nMonthly Estimates of U.S. Stock Market Daily Volatility 1926 – 1997 "
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 24\nAnomalies: The Size Effect, 1964 Anomalies: The Size Effect, 1964 –– 2004 2004 \n8.0\n10.0\n12.0\n14.0\n16.0\nSmall 234 5678 9 Big\nFirms sorted by MARKE T CAP ITALIZATION"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 25\nAnomalies: The January Effect, 1964 Anomalies: The January Effect, 1964 –– 20042004\n0%\n1%\n2%\n3%\n4%\n5%\n6%\n7%\n8%\n9%\nSmall 23456789 Big\nFirms sorted by MARKET CAPITALIZATION\nAll Months Januarys"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 26\nAnomalies: The Value Premium, 1964 Anomalies: The Value Premium, 1964 –– 2004 2004 \n8%\n10%\n12%\n14%\n16%\n18%\nLow 23456 789 High\nFirms sorted by PRICE / BOOK EQUITY"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 27\nAnomalies: Momentum, 1964 Anomalies: Momentum, 1964 –– 2004 2004 \n3%\n6%\n9%\n12%\n15%\n18%\nLow 23456 789 High\nFirms sorted by PAST 12-MONTH RETURN"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 28\nAnomalies:  The Accrual Effect, 1964 Anomalies:  The Accrual Effect, 1964 –– 20042004\n3.0\n5.0\n7.0\n9.0\n11.0\n13.0\n15.0\nLow 2 34567 8 9 High\nFirms sorted by last year's OPERAT ING ACCRUAL S\n*Operating income minus operating cashflows"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 29\nAnomalies:  IPO Returns, 1970 Anomalies:  IPO Returns, 1970 –– 1990 1990 \nAverage Annual Returns, 1 – 5 Years After IPO\n6.1%\n14.1% 13.3%\n11.3%\n14.3%\n1.6%\n3.6%\n5.0%\n4.0%\n11.6%\n0%\n4%\n8%\n12%\n16%\n1st year 2nd year 3rd year 4th year 5th year\nIPOs\nNon-issuers"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 30\nAnomalies:  SEO Returns, 1970 Anomalies:  SEO Returns, 1970 –– 19901990\nAverage Annual Returns, 1 – 5 Years After SEO\n12.9% 12.3%\n16.2%\n17.7% 17.4%\n6.6%\n0.3%\n7.5%\n9.1%\n11.8%\n0%\n5%\n10%\n15%\n20%\n1st year 2nd year 3rd year 4th year 5th year\nSEOs\nNon-issuers"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 31\nAnomalies:  Takeover Announcements Anomalies:  Takeover Announcements \nStock price of TARGET\n40%\n30%\n20%\n10%\n0%\n-10%\n-126 -105 -84 -63 -42 -21 0 21 42 63 84 105 126 147 168 189 210 231 252\nEvent date relative to first bid\nCumulative average abnormal returns\nStock Price of TARGET\nUnsuccessfulSuccessful All\nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 32\nAnomalies:  Performance of Mutual FundsAnomalies:  Performance of Mutual Funds\nEstimates of individual mutual-fund alphas 1972 to 1991. The frequency distribution\nof estimated alphas for all equity mutual funds with 10-year continuous records.\n36\n32\n28\n24\n20\n16\n12\n8\n4\n0\n-3 -2 -1 0 1 2\nMidpoint\n# Frequency\nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 33,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 33\nKey PointsKey Points\nObservations\n The average annual return on U.S. stocks from 1926 – 2004 was 11.2%.\nThe average risk premium was 7.8%.\n Stocks are quite risky.  The standard deviation of returns for the overall \nmarket is 4.5% monthly (16.4% annually).\n Individual stocks are much riskier.  The average monthly standard \ndeviation of an individual stock is around 17% (or 50% annually).\n Stocks tend to move together over time:  when one stock goes up, other \nstocks are likely to go up as well.  The correlation is far from perfect.\n Stock returns are nearly unpredictable.  For example, knowing how a stock \ndoes this month tells you very little about what will happen next month.\n Market volatility changes over time.  Prices are sometimes quite volatile.  \nThe standard deviation of monthly returns varies from roughly 2% to 20%.\n Financial ratios like DY and P/E ratios vary widely over time.  DY hit a \nmaximum of 13.8% in 1932 and a minimum of 1.17% in 1999.  The P/E ratio \nhit a maximum of 33.4 in 1999 and a minimum of 5.3 in 1917."
+    },
+    {
+      "page": 34,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 34\nKey PointsKey Points\nAnomalies:\n Size Effect:  Smaller stocks typically outperform larger stocks, \nespecially in January.\n January Effect:  Returns in January tend to be abnormally high.\n Value Effect:  Low P/B (value) stocks typically outperform high P/B \n(growth) stocks.\n Momentum:  Stocks with high returns over the past 12 months \ntypically continue to outperform stocks with low past returns.\n Accruals and Issuances:  Stocks with high past accruals and/or \nrecent stock offerings typically underperform stocks with low past \naccruals and no stock offerings."
+    },
+    {
+      "page": 35,
+      "text": "© 2007–2008 by Andrew W. LoLecture 12: Intro to Risk and Return\n15.401\nSlide 35\nAdditional ReferencesAdditional References\nLefevre, E., 2006, Reminiscences of a Stock Operator.  New York: John Wiley & Sons.\nMalkiel, B., 1996, A Random Walk Down Wall Street: Including a Life-Cycle Guide to Personal \nInvesting.  New York: W.W. Norton."
+    },
+    {
+      "page": 36,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "source": "static_resources/df418b972d36cd53ae5c375b8af61e53_MIT15_401F08_lec04.pdf",
+  "sha256": "2a6d65689c33c1d67dbea5fe3eaf8925eea97cd6ea9842092fe6aa1077a384ef",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLectures 4Lectures 4––66:  Fixed-Income Securities:  Fixed-Income Securities\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Industry Overview\n Valuation\n Valuation of Discount Bonds\n Valuation of Coupon Bonds\n Measures of Interest-Rate Risk\n Corporate Bonds and Default Risk\n The Sub-Prime Crisis\nReadings\n Brealey, Myers, and Allen Chapters 23–25"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 3\nIndustry OverviewIndustry Overview\nFixed-income securities are financial claims with promised cashflows of \nknown fixed amount paid at fixed dates.\nClassification of Fixed-Income Securities:\n Treasury Securities\n– U.S. Treasury securities (bills, notes, bonds)\n– Bunds, JGBs, U.K. Gilts\n–… .\n Federal Agency Securities\n– Securities issued by federal agencies (FHLB, FNMA $\\ldots$)\n Corporate Securities\n– Commercial paper\n– Medium-term notes (MTNs)\n– Corporate bonds \n–… .\n Municipal Securities\n Mortgage-Backed Securities\n Derivatives (CDO’s, CDS’s, etc.)"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 4\nIndustry OverviewIndustry Overview\nU.S. Bond Market Debt 2006 ($Billions)\nMunicipal, \n2,337.50, 9%\nTreasury, \n4,283.80, 16%\nMortgage-\nRelated, \n6,400.40, 24%\nCorporate, \n5,209.70, 19%\nFederal \nAgency, \n2,665.20, 10%\nMoney \nMarkets, \n3,818.90, 14%\nAsset-Backed, \n2,016.70, 8%"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 5\nIndustry OverviewIndustry Overview\nCourtesy of SIFMA. Used with permission. The Securities Industry and Financial Markets Association (SIFMA) prepared \nthis material for informational purposes only. SIFMA obtained this information from multiple sources believed to be reliable \nas of the date of publication; SIFMA, however, makes no representations as to the accuracy or completeness of such third \nparty information. SIFMA has no obligation to update, modify or amend this information or to otherwise notify a reader \nthereof in the event that any such information becomes outdated, inaccurate, or incomplete.\n"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 6\nIndustry OverviewIndustry Overview\nU.S. Bond Market Issuance 2006 ($Billions)\nMunicipal, \n265.3, 6%\nTreasury, \n599.8, 14%\nMortgage-\nRelated, \n1,475.30, 34%\nCorporate, \n748.7, 17%\nFederal \nAgency, 546.9, \n13%\nAsset-Backed, \n674.6, 16%"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 7\nIndustry OverviewIndustry Overview\nCourtesy of SIFMA.Used with permission. The Securities Industry and Financial Markets Association (SIFMA) prepared \nthis material for informational purposes only. SIFMA obtained this information from multiple sources believed to be reliable \nas of the date of publication; SIFMA, however, makes no representations as to the accuracy or completeness of such third \nparty information. SIFMA has no obligation to update, modify or amend this information or to otherwise notify a reader \nthereof in the event that any such information becomes outdated, inaccurate, or incomplete\n"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 8\nIndustry OverviewIndustry Overview\nCourtesy of SIFMA. Used with permission. The Securities Industry and Financial Markets Association (SIFMA) prepared \nthis material for informational purposes only. SIFMA obtained this information from multiple sources believed to be reliable \nas of the date of publication; SIFMA, however, makes no representations as to the accuracy or completeness of such third \nparty information. SIFMA has no obligation to update, modify or amend this information or to otherwise notify a reader \nthereof in the event that any such information becomes outdated, inaccurate, or incomplete.\n"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 9\nIndustry OverviewIndustry Overview\nFixed-Income Market Participants\nIssuers:\nGovernments\nCorporations\nCommercial Banks\nStates\nMunicipalities\nSPVs\nForeign Institutions\nIntermediaries:\nPrimary Dealers\nOther Dealers\nInvestment Banks\nCredit-rating Agencies\nCredit Enhancers\nLiquidity Enhancers\nInvestors:\nGovernments\nPension Funds\nInsurance Companies\nCommercial Banks\nMutual Funds\nHedge Funds\nForeign Institutions\nIndividuals"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 10\nValuationValuation\nCashflow:\n Maturity\n Coupon\n Principal\nExample. A 3-year bond with principal of $1,000 \nand annual coupon payment of 5% has the \nfollowing cashflow:\n"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 11\nValuationValuation\nComponents of Valuation\n Time value of principal and coupons\n Risks\n–I n f l a t i o n\n–C r e d i t\n– Timing (callability)\n– Liquidity\n– Currency \nFor Now, Consider Riskless Debt Only\n U.S. government debt (is it truly riskless?)\n Consider risky debt later"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 12\nValuation of Discount BondsValuation of Discount Bonds\nPure Discount Bond\n No coupons, single payment of principal at maturity\n Bond trades at a “discount” to face value\n Also known as zero-coupon bonds or STRIPS*\n Valuation is straightforward application of NPV\n Note: (P0, r, F) is “over-determined”; given two, the third is determined\nNow What If r Varies Over Time?\n Different interest rates from one year to the next\n Denote by r\nt the spot rate of interest in year t\n*Separate Trading of Registered Interest and Principal Securities "
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 13\nValuation of Discount BondsValuation of Discount Bonds\nIf r Varies Over Time\n Denote by Rt the one-year spot rate of interest in year t\n But we don’t observe the entire sequence of future spot rates today!\n Today’s T-year spot rate is an “average” of one-year future spot rates\n (P0,F,r0,T) is over-determined\n"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 14\nValuation of Discount BondsValuation of Discount Bonds\nExample:\nOn 20010801, STRIPS are traded at the following prices:\nFor the 5-year STRIPS, we have\n"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 15\nValuation of Discount BondsValuation of Discount Bonds\nSuppose We Observe Several Discount Bond Prices Today\nTerm Structure of Interest Rates\n"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 16\nValuation of Discount BondsValuation of Discount Bonds\nTerm Structure Contain Information About Future Interest Rates\n What are the implications of each of the two term structures?\nMaturity\nr0,t"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 17\nValuation of Discount BondsValuation of Discount Bonds\nTerm Structure Contain Information About Future Interest Rates\n Implicit in current bond prices are forecasts of future spot rates!\n These current forecasts are called one-year forward rates\n To distinguish them from spot rates, we use new notation:\n"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 18\nValuation of Discount BondsValuation of Discount Bonds\nTerm Structure Contain Information About Future Interest Rates\n"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 19\nValuation of Discount BondsValuation of Discount Bonds\nMore Generally:\n Forward interest rates are today’s rates for transactions between two \nfuture dates, for instance, t1 and t2.\n For a forward transaction to borrow money in the future:\n– Terms of transaction is agreed on today, t = 0\n– Loan is received on a future date t 1\n– Repayment of the loan occurs on date t2\n Note: future spot rates can be (and usually are) different from current \ncorresponding forward rates"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 20\nValuation of Discount BondsValuation of Discount Bonds\nExample:\nAs the CFO of a U.S. multinational, you expect to repatriate $10MM from \na foreign subsidiary in one year, which will be used to pay dividends \none year afterwards. Not knowing the interest rates in one year, you \nwould like to lock into a lending rate one year from now for a period of \none year. What should you do?  The current interest rates are:\nStrategy:\n Borrow $9.524MM now for one year at 5%\n Invest the proceeds $9.524MM for two years at 7%\n"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 21\nValuation of Discount BondsValuation of Discount Bonds\nExample (cont):\nOutcome (in millions of dollars):\n The locked-in 1-year lending rate one year from now is 9.04%, which \nis the one-year forward rate for Year 2\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 22\nValuation of Discount BondsValuation of Discount Bonds\nExample:\nSuppose that discount bond prices are as follows:\nA customer would like to have a forward contract to borrow $20MM three \nyears from now for one year. Can you (a bank) quote a rate for this \nforward loan?\nAll you need is the forward rate f4 which should be your quote for the \nforward loan\n"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 23\nValuation of Discount BondsValuation of Discount Bonds\nExample (cont):\nStrategy:\n Buy 20,000,000 of 3 year discount bonds, costing\n Finance this by (short)selling 4 year discount bonds of amount\n This creates a liability in year 4 in the amount $21,701,403\n Aside: A shortsales is a particular financial transaction in which an \nindividual can sell a security that s/he does not own by borrowing the \nsecurity from another party, selling it and receiving the proceeds, and \nthen buying back the security and returning it to the orginal owner at a \nlater date, possibly with a capital gain or loss.\n"
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 24\nValuation of Discount BondsValuation of Discount Bonds\nExample (cont):\n Cashflows from this strategy (in million dollars):\n The yield for this strategy or “synthetic bond return” is given by:\n"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 25\nValuation of Coupon BondsValuation of Coupon Bonds\nCoupon Bonds\n Intermediate payments in addition to final principal payment\n Coupon bonds can trade at discounts or premiums to face value\n Valuation is straightforward application of NPV (how?)\nExample:\n 3-year bond of $1,000 par value with 5% coupon\n"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 26\nValuation of Coupon BondsValuation of Coupon Bonds\nValuation of Coupon Bonds \n Since future spot rates are unobservable, summarize them with y\n y is called the yield-to-maturity of a bond\n It is a complex average of all future spot rates\n There is usually no closed-form solution for y; numerical methods \nmust be used to compute it (Tth-degree polynomial)\n (P0, y, C) is over-determined; any two determines the third\n For pure discount bonds, the YTM’s are the current spot rates\n Graph of coupon-bond y against maturities is called the yield curve\n"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 27\nValuation of Coupon BondsValuation of Coupon Bonds\nU.S. Treasury Yield Curves\nSource: Bloomberg"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 28\nValuation of Coupon BondsValuation of Coupon Bonds\nTime Series of U.S. Treasury Security Yields"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 29\nValuation of Coupon BondsValuation of Coupon Bonds\n"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 30\nValuation of Coupon BondsValuation of Coupon Bonds\nModels of the Term Structure\n Expectations Hypothesis\n Liquidity Preference\n Preferred Habitat\n Market Segmentation\n Continuous-Time Models\n– Vasicek, Cox-Ingersoll-Ross, Heath-Jarrow-Morton\nExpectations Hypothesis\n Expected Future Spot  =  Current Forward\nE0[Rk]= fk"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 31\nValuation of Coupon BondsValuation of Coupon Bonds\nLiquidity Preference Model\n Investors prefer liquidity\n Long-term borrowing requires a premium\n Expected future spot < current forward\nE[Rk] <f k\nE[Rk]= fk − Liquidity Premium"
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 32\nValuation of Coupon BondsValuation of Coupon Bonds\nAnother Valuation Method for Coupon Bonds\n Theorem: All coupon bonds are portfolios of pure discount bonds\n Valuation of discount bonds implies valuation of coupon bonds\n Proof?\nExample:\n 3-Year 5% bond\n Sum of the following\ndiscount bonds:\n– 50 1-Year STRIPS\n– 50 2-Year STRIPS\n– 1050 3-Year STRIPS\n"
+    },
+    {
+      "page": 33,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 33\nValuation of Coupon BondsValuation of Coupon Bonds\nExample (cont):\n Price of 3-Year coupon bond must equal the cost of this portfolio\n What if it does not?\nIn General:\n If this relation is violated, arbitrage opportunities exist\n For example, suppose that\n Short the coupon bond, buy C discount bonds of all maturities up to T\nand F discount bonds of maturity T\n No risk, positive profits  ⇒ arbitrage\nP = CP 0,1 + CP 0,2 + ··· +( C + F )PO,T\nP> C P 0,1 + CP 0,2 + ··· +( C + F )PO,T"
+    },
+    {
+      "page": 34,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 34\nValuation of Coupon BondsValuation of Coupon Bonds\nWhat About Multiple Coupon Bonds?\n Suppose n is much bigger than T (more bonds than maturity dates)\n This system is over-determined: T unknowns, n linear equations\n What happens if a solution does not exist?\n This is the basis for fixed-income arbitrage strategies\n"
+    },
+    {
+      "page": 35,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 35\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nBonds Subject To Interest-Rate Risk\n As interest rates change, bond prices also change\n Sensitivity of price to changes in yield measures risk\n"
+    },
+    {
+      "page": 36,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 36\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nMacaulay Duration\n Weighted average term to maturity\n Sensitivity of bond prices to yield changes\nDm =\nTX\nk=1\nk · ωk\nqX\nk=1\nωk =1\nωk = Ck/(1 + y)k\nP = PV(Ck)\nP\nP =\nTX\nk=1\nCk\n(1 + y)k\n∂P\n∂y = −1\n1+ y\nTX\nk=1\nk · Ck\n(1 + y)k\n1\nP\n∂P\n∂y = − Dm\n1+ y\n= −D∗m Modiﬁed Duration"
+    },
+    {
+      "page": 37,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 37\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nExample:\nConsider a 4-year T-note with face value $100 and 7% coupon, selling at \n$103.50, yielding 6%.\n For T-notes, coupons are paid semi-annually. Using 6-month intervals, \nthe coupon rate is 3.5% and the yield is 3%.\n"
+    },
+    {
+      "page": 38,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 38\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\n Duration (in 1/2 year units) is\n Modified duration (volatility) is\n Price risk at y=0.03 is\n Note:  If the yield moves up by 0.1%, \nthe bond price decreases by 0.6860%\nExample (cont):\n"
+    },
+    {
+      "page": 39,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 39\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nMacaulay Duration\n Duration decreases with coupon rate\n Duration decreases with YTM\n Duration usually increases with maturity\n– For bonds selling at par or at a premium, duration always increases \nwith maturity\n– For deep discount bonds, durati on can decrease with maturity\n– Empirically, duration usually  increases with maturity"
+    },
+    {
+      "page": 40,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 40\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nMacaulay Duration\n For intra-year coupons and annual yield y\nConvexity\n Sensitivity of duration to yield changes\nAnnual Dm =\nTX\nk=1\nk · ωk/q\nAnnual D∗m =A n n u a l Dm/(1 + y\nq )\n∂2P\n∂y2 = 1\n(1 + y)2\nTX\nk=1\nk · (k +1 )· Ck\n(1 + y)k\n1\nP\n∂2P\n∂y2 = Vm"
+    },
+    {
+      "page": 41,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 41\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\n Relation between duration and convexity:\n Second-order approximation to bond-price function\n Portfolio versions:\nP (y0) ≈ P (y)+ ∂P\n∂y (y) · (y0 − y)+ ∂2P\n∂y2 (y) · (y0 − y)2\n2\n= P (y) ·\n·\n1 − D∗m(y0 − y)+ 1\n2Vm(y0 − y)2\n¸\nP =\nX\nj\nPj\nD∗m(P ) ≡− 1\nP\n∂P\n∂y =\nX\nj\nPj\nP D∗\nm,j\nV ∗m(P ) ≡− 1\nP\n∂2P\n∂y2 =\nX\nj\nPj\nP V ∗\nm,j"
+    },
+    {
+      "page": 42,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 42\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\n"
+    },
+    {
+      "page": 43,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 43\nMeasures of InterestMeasures of Interest--Rate RiskRate Risk\nD∗m = 1\n1+ 0.06\n2\n8X\nk=1\nkCk\n2P (1 + 0.06\n2 )k =3 .509846\nVm = 1\n(1 + 0.06\n2 )2\n8X\nk=1\nk(k +1 )Ck\n4P (1 + 0.06\n2 )k =1 4 .805972\nP (y0) ≈ P (0.06)\n³\n1 − 3.509846(y0 − 0.06) +\n14.805972(y0 − 0.06)2\n2\n!\nP (0.08) ≈ P (0.06)(1 − 0.0701969 + 0.0029611)\n≈ 93.276427\nP (0.08) = 93.267255"
+    },
+    {
+      "page": 44,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 44\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\nCredit Risk Moody's S&P Fitch\nInvestment Grade\nHighest Quality Aaa AAA AAA\nHigh Quality (Very Strong) Aa AA AA\nUpper Medium Grade (Strong) A A A\nMedium Grade Baa BBB BBB\nNot Investment Grade\nSomewhat Speculative Ba BB BB\nSpeculative B B B\nHighly Speculative Caa CCC CCC\nMost Speculative Ca CC CC\nImminent Default C C C\nD e f a u l t CDD\nNon-Government Bonds Carry Default Risk\n A default is when a debt issuer fails to make a promised payment \n(interest or principal)\n Credit ratings by rating agencies (e.g., Moody's and S&P) provide \nindications of the likelihood of default by each issuer."
+    },
+    {
+      "page": 45,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 45\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\nMoody’s Baa  10-Year Treasury Yield\nSource: Fung and Hsieh (2007)"
+    },
+    {
+      "page": 46,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 46\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\nWhat’s In The Premium?\n Expected default loss, tax premium, systematic risk premium (Elton, et \nal 2001)\n– 17.8% contribution from defaul t on 10-year A-rated industrials\n Default, recovery, tax, jumps, liquidity, and market factors (Delianedis\nand Geske, 2001)\n– 5-22% contribution from default\n Credit risk, illiquidity, call and conversion features, asymmetric tax \ntreatments of corporates and Treasuries (Huang and Huang 2002)\n– 20-30% contribution from credit risk\n Liquidity premium, carrying costs, taxes, or simply pricing errors \n(Saunders and Allen 2002)"
+    },
+    {
+      "page": 47,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 47\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\nDecomposition of Corporate Bond Yields\n Promised YTM is the yield if default does not occur\n Expected YTM is the probability-weighted average of all possible \nyields\n Default premium is the difference between promised yield and \nexpected yield\n Risk premium (of a bond) is the difference between the expected \nyield on a risky bond and the yield on a risk-free bond of similar \nmaturity and coupon rate\nExample:  Suppose all bonds have par value $1,000 and\n 10-year Treasury STRIPS is selling at $463.19, yielding 8%\n 10-year zero issued by XYZ Inc. is selling at $321.97\n Expected payoff from XYZ's 10-year zero is $762.22"
+    },
+    {
+      "page": 48,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 48\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\n For the 10-year zero issued by XYZ:\n"
+    },
+    {
+      "page": 49,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 49\nCorporate Bonds and Default RiskCorporate Bonds and Default Risk\nDecomposition of Corporate Bond Yields\n"
+    },
+    {
+      "page": 50,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 50\nThe SubThe Sub--Prime CrisisPrime Crisis\nWhy Securitize Loans?\nRepack risks to yield more homogeneity within categories\nMore efficient allocation of risk\nCreates more risk-bearing capacity\nProvides greater transparency\nSupports economic growth\nBenefits of sub-prime market\nBut Successful Securitization Requires:\nDiversification\nAccurate risk measurement\n“Normal” market conditions\nReasonably sophisticated investors"
+    },
+    {
+      "page": 51,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 51\nThe SubThe Sub--Prime CrisisPrime Crisis\n“Confessions of a Risk Manager” in The Economist, August 7, 2008:\nLike most banks we owned a portf olio of different tranches of \ncollateralised-debt obligations (CDOs), which are packages of \nasset-backed securities. Our business and risk strategy was to buy \npools of assets, mainly bonds; warehouse them on our own \nbalance-sheet and structure them into CDOs; and finally distribute \nthem to end investors. We were most eager to sell the non-\ninvestment-grade tranches, an d our risk approvals were \nconditional on reducing these to zero. We would allow positions \nof the top-rated AAA and super-s enior (even better than AAA) \ntranches to be held on our own ba lance-sheet as the default risk \nwas deemed to be well protected by all the lower tranches, which\nwould have to absorb any prior losses.\n© The Economist.  All rights reserved. This content is excluded from our Creative Commons license\nFor more information, see \n. \nhttp://ocw.mit.edu/fairuse ."
+    },
+    {
+      "page": 52,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 52\nThe SubThe Sub--Prime CrisisPrime Crisis\n“Confessions of a Risk Manager” in The Economist, August 7, 2008:\nIn May 2005 we held AAA tranches, expecting them to rise in \nvalue, and sold non-investment-grade tranches, expecting them to \ngo down. From a risk-management poi nt of view, this was perfect: \nhave a long position in the low\n-risk asset, and a short one in the \nhigher-risk one. But the reverse happened of what we had \nexpected: AAA tranches went down in price and non-\ninvestment-grade tranches went up,  resulting in losses as we \nmarked the positions to market. \nThis was entirely counter-intuiti ve. Explanations of why this had \nhappened were confusing and focused on complica ted cross-\ncorrelations between tranches. In \nessence it turned out that there \nhad been a short squeeze in non- investment-grade tranches, \ndriving their prices up, and a gen eral selling of all more senior \nstructured tranches, even the very best AAA ones.\n© The Economist.  All rights reserved. This content is excluded from our Creative Commons license. \nFor more information, see http://ocw.mit.edu/fairuse ."
+    },
+    {
+      "page": 53,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 53\nAn Illustrative ExampleAn Illustrative Example\nConsider Simple Securitization Example:\nTwo identical one-period loans, face value $1,000\nLoans are risky; they can default with prob. 10%\nConsider packing them into a portfolio\nIssue two new claims on this portfolio, S and J\nLet S have different (higher) priority than J\nWhat are the properties of S and J?\nWhat have we accomplished with this “innovation”?\nLet’s Look At The Numbers!"
+    },
+    {
+      "page": 54,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 54\nAn Illustrative ExampleAn Illustrative Example\nI.O.U.\n$1,000\n$0 (Default)\n90%\n10%\nPrice = 90% × $1,000 + 10% × $0\n= $900 \nI.O.U.\n$1,000\n$0 (Default)\n90%\n10%\nPrice = 90% × $1,000 + 10% × $0\n= $900 "
+    },
+    {
+      "page": 55,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 55\nAn Illustrative ExampleAn Illustrative Example\nI.O.U.\n$1,000\nI.O.U.\n$1,000\nPortfolio\nAssuming \nIndependent Defaults\nPortfolio \nValue Prob.\n$2,000 81%\n$1,000 18%\n$0 1%"
+    },
+    {
+      "page": 56,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 56\nAn Illustrative ExampleAn Illustrative Example\nI.O.U.\n$1,000\nI.O.U.\n$1,000\nPortfolio\nC.D.O.\n$1,000\nC.D.O.\n$1,000\nSenior Tranche\nJunior Tranche"
+    },
+    {
+      "page": 57,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 57\nAn Illustrative ExampleAn Illustrative Example\nAssuming Independent Defaults\nPortfolio \nValue Prob. Senior \nTranche\nJunior \nTranche\n$1,000 $1,000\n$0\n$0\n$1,000\n$0\n$2,000 81%\n$1,000 18%\n$0 1%\nBad State\nFor Senior\nTranche (1%)\nBad State\nFor Junior\nTranche (19%)\nC.D.O.\n$1,000\nC.D.O.\n$1,000\nSenior Tranche\nJunior Tranche"
+    },
+    {
+      "page": 58,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 58\nAn Illustrative ExampleAn Illustrative Example\n“Similar” to \nSenior \nTranche?\n“Similar” to \nJunior \nTranche?\nNon-Investment Grade\nSource: Moody’s"
+    },
+    {
+      "page": 59,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 59\nAn Illustrative ExampleAn Illustrative Example\nAssuming Independent Defaults\nPortfolio \nValue Prob. Senior \nTranche\nJunior \nTranche\n$1,000 $1,000\n$0\n$0\n$1,000\n$0\n$2,000 81%\n$1,000 18%\n$0 1%\nC.D.O.\n$1,000\nSenior Tranche\nC.D.O.\n$1,000 Price for Senior Tranche =   99% × $1,000 + 1% × $0\n=   $990\nPrice for Junior Tranche =   81% × $1,000 + 19% × $0\n=   $810\nJunior Tranche"
+    },
+    {
+      "page": 60,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 60\nAn Illustrative ExampleAn Illustrative Example\nAssuming Independent Defaults\nC.D.O.\n$1,000\nSenior Tranche\nC.D.O.\n$1,000\nJunior Tranche\nPortfolio \nValue Prob. Senior \nTranche\nJunior \nTranche\n$1,000 $1,000\n$0\n$0\n$1,000\n$0\n$2,000 81%\n$1,000 18%\n$0 1%\nBut What If Defaults Become Highly Correlated?"
+    },
+    {
+      "page": 61,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 61\nAn Illustrative ExampleAn Illustrative Example\nAssuming Perfectly Correlated Defaults\nPortfolio \nValue Prob. Senior \nTranche\nJunior \nTranche\n$1,000 $1,000\n$0$0\n$2,000 90%\n$0 10%\nBad State\nFor Senior\nTranche (10%) Bad State\nFor Junior\nTranche (10%)\nC.D.O.\n$1,000\nSenior Tranche\nC.D.O.\n$1,000\nJunior Tranche"
+    },
+    {
+      "page": 62,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 62\nAn Illustrative ExampleAn Illustrative Example\nAssuming Perfectly Correlated Defaults\nC.D.O.\n$1,000\nSenior Tranche\nC.D.O.\n$1,000\nJunior Tranche\nPortfolio \nValue Prob. Senior \nTranche\nJunior \nTranche\n$1,000 $1,000\n$0$0\n$2,000 90%\n$0 10%\nPrice for Senior Tranche =   90% × $1,000 + 10% × $0\n=   $900  (was $990)\nPrice for Junior Tranche =   90% × $1,000 + 10% × $0\n=   $900  (was $810)"
+    },
+    {
+      "page": 63,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 63\nImplicationsImplications\nTo This Basic Story, Add:\nVery low default rates (new securities)\nVery low correlation of defaults (initially)\nAaa for senior tranche (almost riskless)\nDemand for senior tranche (pension funds)\nDemand for junior tranche (hedge funds)\nFees for origination, rating, leverage, etc.\nInsurance (monoline, CDS, etc.)\nEquity bear market, FANNIE, FREDDIE\nThen, National Real-Estate Market Declines\nDefault correlation rises\nSenior tranche declines\nJunior tranche increases\nRatings decline\nUnwind  ⇒ Losses  ⇒ Unwind  ⇒ …\nC.D.O.\n$1,000"
+    },
+    {
+      "page": 64,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 64\nKey PointsKey Points\n Valuation of riskless pure discount bonds using NPV tools\n Coupon bonds can be priced from discount bonds via arbitrage\n Current bond prices contain information about future interest rates\n Spot rates, forward rates, yield-to-maturity, yield curve\n Interest-rate risk can be measured by duration and convexity\n Corporate bonds contain other sources of risk"
+    },
+    {
+      "page": 65,
+      "text": "© 2007–2008 by Andrew W. LoLectures 4–6: Fixed-Income Securities\n15.401\nSlide 65\nAdditional ReferencesAdditional References\nBrennan, M. and E. Schwartz, 1977, “Savings Bonds, Retractable Bonds and Callable Bonds”, Journal of Financial \nEconomics 5, 67–88.\nBrown, S. and P. Dybvig, 1986, “The Empirical Implications of the Cox, Ingersoll, Ross Theory of the Term Structure of \nInterest Rates”, Journal of Finance 41,617–632.\nCampbell, J., 1986, “A Defense for the Traditional Hypotheses about the Term Structure of Interest Rates”, Journal of \nFinance 36, 769–800.\nCox, J., Ingersoll, J. and S. Ross, 1981, “A Re-examination of Traditional Hypotheses About the Term Structure of \nInterest Rates”, Journal of Finance 36, 769–799.\nCox, J., Ingersoll, J. and S. Ross, 1985, “A Theory of the Term Structure of Interest Rates”, Econometrica 53, 385-–407.\nHeath, D., Jarrow, R., and A. Morton, 1992, “Bond Pricing and the Term Structure of Interest Rates: A New Methodology \nfor Contingent Claims Valuation”, Econometrica 60, 77-–105.\nHo, T. and S. Lee, 1986, “Term Structure Movements and Pricing Interest Rate Contingent Claims'', Journal of Finance\n41, 1011–1029.\nJegadeesh, N. and B. Tuckman, eds., 2000, Advanced Fixed-Income Valuation Tools.  New York: John Wiley & Sons.\nMcCulloch, H., 1990, “U.S. Government Term Structure Data”, Appendix to R. Shiller, “The Term Structure of Interest \nRates”, in Benjamin M. Friedman and Frank H. Hahn eds. Handbook of Monetary Economics.  Amsterdam: North-\nHolland.\nSundaresan, S., 1997, Fixed Income Markets and Their Derivatives. Cincinnati, OH: South-Western College Publishing.\nTuckman, B., 1995, Fixed Income Securities: Tools for Today's Markets. New York: John Wiley & Sons.\nVasicek, O., 1977, “An Equilibrium Characterization of the Term Structure”, Journal of Financial Economics 5, 177–188."
+    },
+    {
+      "page": 66,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

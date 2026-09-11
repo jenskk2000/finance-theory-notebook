@@ -1,0 +1,74 @@
+{
+  "source": "static_resources/9762eeb6e5ddad7fb5cf78b235ccba35_MIT15_401F08_rec08.pdf",
+  "sha256": "951562e7b81a9c4a5de93c321949f19cf1cd053f2506f46ed92735f769a33748",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n8: Capital Budgeting "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives\n Ri f C t Review of Concepts \no NPV \no Payyback Period \no IRR \no Profitability index \n ExamplesExamples \no Bart’s Super‐Widget*\n2010 / Yichuan Liu * Bart's Super‐Widget by Bart Raeymaekers 2 "
+    },
+    {
+      "page": 3,
+      "text": "\nReview: capital budgeting\n Decision: Decision: \no Accept or reject a project \no Compare two projects \n DiDecisiion rulle: \no NPV, IRR, payback period, etc. \n Information Information \no Cash flow projection \no Risk projection \no Ta reg lation o Tax regulation \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "=\nReview: NPV \n Net present value (NPV) Net present value (NPV) of a project is is of a project \n CFtNPV   t  0 \nt 0 1 rt  \n Decision should be based on after‐tax cash flow \ninstead of accounting earnings. \n O ti fit ti ti Operating profit = operating revenue – operating \nexpenses without depreciation \n CF = (1 – τ) x operating profit – capital expenditure  CF (1 τ) x operating profit capital expenditure \n+ τ x depreciation\n(τ is the tax rate))\n( \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Review: NPV \n Decision rule:  Decision rule: \no Independent projects: take all projects with NPV>0 \no Mutually exclusive projects: take projects with the highest \nNPVNPVs \n The NPV rule dominates all other rules because it \ntakes into account the maximum amount of takes into account the maximum amount of \ninformation, including timing of all cash flows and\nrisks, and makes the correct decision based on value \ncreation. \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "Review: payback period \n The payback period payback period is the minimum is the minimum T such that\nThe T such that\nT \nCFt  CF0  I0 \ntt 11 \n T is the minimum number of period required to \n“recover” the initial investment, I0. \n Di l Decisiion rule: \no Independent projects: take all projects with a payback \nperiod less than a fixed threshold T*.p \no Mutually exclusive projects: take the project with the \nlowest payback period. \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": " \nReview: payback period \n Pro: Pro: \no Easy to calculate \n Con: \nh fl f h bk do Ignores cash flows after the payback period \no Ignores time value of money \n Discounted payback period: minimum T such that  Discounted payback period: minimum T such that \nT CFt\n  CF  I \nt 1 1 rt \nt 0 0 \nt \no Problem: still ignores cash flows after the payback period \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Review: IRR \n TheThe internal rate of return (IRR) rate of return (IRR) is the discount rate is the discount rate internal \nthat satisfies \n\n\n CFt\n0\nt 0 1 \nt\n\n Di l Decisiion rule: \no Independent projects: take the projects with IRR > r*, \n \n\nIRR is the implied rate of return of the project.  \nwhere r* is the re uired rate of return. qq\nMutually exclusive projects: take the project with the o \nhighest IRR (provided it is greater than r*). \n0\n\nIRR\n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "Review: IRR \n IRR gives the same decision as NPV if IRR gives the same decision as NPV if \no Cash outflow occurs only at time 0 \no Only one project is under consideration \no R i d t f it l i th f ll ido Required cost of capital is the same for all periods \no Threshold rate is set to the required cost of capital \n Potential pproblem: \no IRR may not exist \no There may be multiple IRRs for a single cash flow. \no IRR rule gives the wrong decision for mutually exclusive o IRR rule gives the wrong decision for mutually exclusive \nprojects. \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": " \nReview: profitability index \n The profitability index of a project is The profitability index of a project is \n1  CFtPI   tI0 t 1 1 rt  \n Decision rule: \no Independent projects: take all projects with PI > 1.\no Mutually exclusive projects: take the project with the o Mutually exclusive projects: take the project with the \nhighest PI. \n PI gives the same decision as NPV if \no Cash outflow occurs only at time 0 \no There is only one project under consideration. \n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "Example: Bart’s Super‐Widget \n Project overview:  Project overview: \no Bart Co., a profitable widget maker, has developed an \ninnovative new product called the Super‐Widget. The \ncompany hhas iinvestted $ d $300,000 iin R&D t R&D to ddevellop theth \nproduct and expects that it will capture a large share of \nthe market. \n Capital requirement: \no Bart Co. will have to invest $750,000 in new equipment. \nThe machines have a useful life of 5 yearsThe machines have a useful life of 5 years, with anwith an \nexpected salvage value of $0. \n2010 / Yichuan Liu 11 \nCourtesy of Bart Raeymaekers. Used with permission."
+    },
+    {
+      "page": 12,
+      "text": "Example: Bart’s Super‐Widget \n Revenue projection:  Revenue projection: \no Over the next five years, unit sales are expected to be (5, \n8, 12, 10, 6) thousand units. \no Pi i th fi t ill b $8 d th ill %o Prices in the first year will be $480, and then will grow 2% \nannually. \n Opperatingg exppenses: \no Sales and administrative costs will be $150,000/year. \no Production costs will be $500/unit in the first year, but will \ndecline byy 8% every year thereafter. y y \no The tax rate is 35% and the after‐tax cost of capital is 12%. \n2010 / Yichuan Liu 12 \nCourtesy of Bart Raeymaekers. Used with permission."
+    },
+    {
+      "page": 13,
+      "text": "Example: Bart’s Super‐Widget\n Revenue and Cost \nt=1 2 3 4 5 \nRevenue \nUnits 5,000 8,000 12,000 10,000 6,000 \nPrice/Unit 480 490 499 509 520 \nTotal 2,400,000 3,916,800 5,992,704 5,093,798 3,117,405 \nExpenses \nSG&A 150,000 150,000 150,000 150,000 150,000 \nCost/Unit 500 460 423 389 358 \nTotal (2,650,000) (3,830,000) (5,228,400) (4,043,440) (2,299,179) \nOp. Profit (250,000) 86,800 764,304 1,050,358 818,226 \n2010 / Yichuan Liu 13 \nCourtesy of Bart Raeymaekers. Used with permission."
+    },
+    {
+      "page": 14,
+      "text": "Example: Bart’s Super‐Widget\n Deppreciation and Tax \nt=1 2 3 4 5\nOp. Profit (250,000) 86,800 764,304 1,050,358 818,226 \nDepreciation (150,000) (150,000) (150,000) (150,000) (150,000) \nEBIT (400,000) (63,200) 614,304 900,358 668,226 \nTaxes @35% 140,000 22,120 (215,006) (315,125) (233,879) \nNet income (260,000) (41,080) 399,298 585,233 434,347 \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "Example: Bart’s Super‐Widget\n Cash Flow \nt=0 1 2 3 4 5\nNet income 399,298 585,233 434,347(260,000(260,000)) (41,080(41,080)) 399,298 585,233 434,347Net income \nCAPEX (1,000,000) \nCash flow (1,000,000) (110,000) 108,920 549,298 735,233 584,347 \nPV @ 12% (1,000,000) (98,214) 86,830 390,979 467,254 331,574 \nNPV $178,423 \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "Example: Bart’s Super‐Widget \n Reminder: \no CF = after‐tax operating income + depreciation tax shield\n– capital expenditure \n= (1 – τ) x operating income + τ x depreciation \n– capital expenditure \no The accounting net income is taxed even if it is negative. \no Deppreciation is not a cash flow but reduces taxes. \n2010 / Yichuan Liu 16 "
+    },
+    {
+      "page": 17,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

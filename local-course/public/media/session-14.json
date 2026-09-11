@@ -1,0 +1,38 @@
+{
+  "name": "session-14",
+  "session": 14,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses14_300k.mp4",
+  "path": "/media/session-14.mp4",
+  "youtube_id": "J7d3vcaS9-o",
+  "segments": [
+    {
+      "title": "Part II of Portfolio Theory",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/f95019026e63fb4820f7de9f49a35d8f_J7d3vcaS9-o.pdf",
+      "captions": "static_resources/5b8e9152ab8d55ca8bf46f6efba80f44_J7d3vcaS9-o.vtt"
+    }
+  ],
+  "bytes": 183930632,
+  "sha256": "af97fbbe8ef92985b2ae20156d55589b14b6fa130c0f172e62e9fd37a9cb3df9",
+  "duration_seconds": 4839.66,
+  "caption_end_seconds": 4840.28,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2419.83,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4834.66,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

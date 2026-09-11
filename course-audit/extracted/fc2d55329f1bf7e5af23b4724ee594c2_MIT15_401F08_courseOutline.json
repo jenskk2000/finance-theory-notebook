@@ -1,0 +1,18 @@
+{
+  "source": "static_resources/fc2d55329f1bf7e5af23b4724ee594c2_MIT15_401F08_courseOutline.pdf",
+  "sha256": "0ef91ef3e924add96dffaa83144c900100f5dea69cd5ccb860348efc8274db26",
+  "pages": [
+    {
+      "page": 1,
+      "text": "Part A. Introduction \nIntroduction to Finance and Course Overview (Chapters 1-2) \n• Financial decisions of households and corporations \n• Objectives of corporate financial managers \n• Approaches to valuing financial and real assets \n• Opportunity of cost of capital \n• The role of financial markets \n• Unifying principles of finance \nPresent Value (Chapter 3) \n• Present value (PV) and net present value (NPV) \n• Discount rates and the time value of money \n• Mechanics of NPV calculations \n• Compound interest \n• Annuity and perpetuity formulas \n• Real vs. nominal cash flows \nPart B. Valuation \nFixed-Income Securities (Chapters 4, 24-25) \n• Fixed-income markets \n• Term structure of interest rates \n• Market conventions, properties of bond prices \n• Measuring and hedging interest rate risk \n• Inflation risk, credit risk \nCommon Stocks (Chapter 5) \n• Discounted cash flow (DCF) model \n• Earnings per share (EPS), price-to-earnings ratio (P/E), discount rates \nForward and Futures Contracts (Chapter 27) \n• Definitions of forwards and futures \n• Arbitrage pricing relations \n• Using forwards and futures to hedge \nOptions (Chapters 21-22) \n• Basic properties of options \n• Valuation of options \n• Binomial and Black-Scholes pricing models \n1"
+    },
+    {
+      "page": 2,
+      "text": "Part C. Risk and Return \nIntroduction to Risk and Return (Chapters 7, 24.1, 24.4) \n• Historical asset returns \n• Risk/reward trade-off \nRisk Analytics (Chapter 8) \n• Measures of risk \n• Risk and investment horizon \nPortfolio Theory (Chapters 8, 9.1) \n• Diversification, systematic and idiosyncratic risk \n• Portfolio optimization \n• Efficient risk/return trade-offs \nThe Capital Asset Pricing Model (CAPM) (Chapters 9.2-9.3) \n• The CAPM and linear risk/return trade-offs \n• Applications of the CAPM \n• Empirical evidence and extensions of the CAPM \nPart D. Corporate Finance \nCapital Budgeting I (Chapters 6-7, 10, 23) \n• Capital budgeting criteria \n• NPV rule, cash flow calculations, discount rates \nCapital Budgeting II \n• Project interactions \n• Real options \nCapital Budgeting III \n• Case discussion: Acid Rain \nMarket Efficiency (Chapter 14) \n• Origins of the efficient markets hypothesis (EMH) \n• Implications and empirical tests of the EMH \n• Recent developments \n2"
+    },
+    {
+      "page": 3,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu\n15.401 Finance Theory I\nFall 2008\n \n \n \nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ]
+}

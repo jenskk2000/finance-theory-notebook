@@ -1,0 +1,45 @@
+{
+  "name": "session-17",
+  "session": 17,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses17_300k.mp4",
+  "path": "/media/session-17.mp4",
+  "youtube_id": "JE80wLNIhjE",
+  "segments": [
+    {
+      "title": "Part I of Capital Budgeting",
+      "start": "1246",
+      "end": "4827",
+      "transcript": "static_resources/27d78b80970cff3939a71f7db09de86a_JE80wLNIhjE.pdf",
+      "captions": "static_resources/1fe3003c75c85f7c9c63c05b712e242e_JE80wLNIhjE.vtt"
+    },
+    {
+      "title": "Part III of The CAPM and APT",
+      "start": "0",
+      "end": "1246",
+      "transcript": "static_resources/56084c2baf85163ae0be2c49b5ffd85f_JE80wLNIhjE.pdf",
+      "captions": "static_resources/da9e8e44841a5620969a230fb7aadcf1_JE80wLNIhjE.vtt"
+    }
+  ],
+  "bytes": 182659336,
+  "sha256": "d197d6d396a8b6a9a19eccf15b894b39af197dc5a20219ba85a61a69df35f7e8",
+  "duration_seconds": 4827.35,
+  "caption_end_seconds": 4822.33,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2413.68,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4822.35,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

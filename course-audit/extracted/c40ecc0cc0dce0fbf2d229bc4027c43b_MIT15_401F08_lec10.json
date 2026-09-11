@@ -1,0 +1,130 @@
+{
+  "source": "static_resources/c40ecc0cc0dce0fbf2d229bc4027c43b_MIT15_401F08_lec10.pdf",
+  "sha256": "0305d83f1fe3fb006921e0e58fe10992e0392d7df5a0080a9cd6502f3cf60cfb",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLectures 10Lectures 10––1111: Options: Options\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Motivation\n Payoff Diagrams\n Payoff Tables\n Option Strategies\n Other Option-Like Securities\n Valuation of Options\n A Brief History of Option-Pricing Theory\n Extensions and Qualifications\nReadings:\n Brealey, Myers, and Allen Chapters 27"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 3\nMotivationMotivation\nDerivative: Claim Whose Payoff is a Function of Another's\n Warrants, Options\n Calls vs. Puts\n American vs. European\n Terms: Strike Price K, Time to Maturity τ\n At Maturity T, payoff\n"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 4\nMotivationMotivation\nPut Options As Insurance\n Differences\n– Early exercise\n– Marketability\n– Dividends\n"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 5\nPayoff DiagramsPayoff Diagrams\nCall Option:\n-2\n0\n2\n4\n6\n8\n10\n12\n10 15 20 25 30\nStock price\nPayoff / profit, $"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 6\nPayoff DiagramsPayoff Diagrams\nStock Return vs. Call Option Return\n-133%\n-100%\n-67%\n-33%\n0%\n33%\n67%\n100%\n133%\n30 34 38 42 46 50 54 58 62 66 70"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 7\nPayoff DiagramsPayoff Diagrams\nPut Option:\n-4\n-2\n0\n2\n4\n6\n8\n10\n12\n10 15 20 25 30\nStock price\nPayoff / profit, $"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 8\nPayoff DiagramsPayoff Diagrams\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price -5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n-25\n-20\n-15\n-10\n-5\n0\n5\n30 40 50 60 70\nStock price\n-25\n-20\n-15\n-10\n-5\n0\n5\n30 40 50 60 70\nStock price\nLong Call\nShort Put\nLong Put\nShort Call"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 9\nPayoff TablesPayoff Tables\nStock Price = S, Strike Price = X \nCall option (price = C) \n if S < X if S = X if S > X\nPayoff 0 0 S – X\nProfit –C –C S – X – C\n \n Put option (price = P) \n if S < X if S = X if S > X\nPayoff X – S 0 0\nProfit X – S – P –P –P\n "
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 10\nOption StrategiesOption Strategies\nTrading strategies\nOptions can be combined in various ways to create an unlimited \nnumber of payoff profiles.\nExamples\n Buy a stock and a put\n Buy a call with one strike price and sell a call with another\n Buy a call and a put with the same strike price"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 11\nOption StrategiesOption Strategies\nStock + Put\n30\n35\n40\n45\n50\n55\n60\n65\n70\n30 40 50 60 70\nStock price\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n30\n35\n40\n45\n50\n55\n60\n65\n70\n30 40 50 60 70\nStock price\n \n \nBuy stock Buy a put \n Payoff    Payoff \nStock + put \n Payoff "
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 12\nOption StrategiesOption Strategies\nCall1  Call2\n-20\n-15\n-10\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n-20\n-15\n-10\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n0\n4\n8\n12\n16\n20\n30 40 50 60 70\nStock price\n \n \nBuy call with \nX = 50 \nWrite call with \nX = 60\n Payoff    Payoff \nCall1 – Call2 \nPayoff "
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 13\nOption StrategiesOption Strategies\nCall + Put\n-10\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n-10\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n-10\n-5\n0\n5\n10\n15\n20\n25\n30 40 50 60 70\nStock price\n \n \nBuy call with \nX = 50 \nBuy put with \nX = 50\n  Payoff Payoff \nCall + Put \nPayoff "
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 14\nOther OptionOther Option--Like SecuritiesLike Securities\nCorporate Liabilities:\n Equity:  hold call, or protected levered put\n Debt: issue put and (riskless) lending\n Quantifies Compensation Incentive Problems:\n– Biased towards higher risk\n– Can overwhelm NPV considerations\n– Example: leveraged equity\n"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 15\nOther OptionOther Option--Like SecuritiesLike Securities\nOther Examples of Derivative Securities:\n Asian or “Look Back” Options\n Callables, Convertibles\n Futures, Forwards\n Swaps, Caps, Floors\n Real Investment Opportunities\n Patents\n Tenure\n etc."
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 16\nValuation of OptionsValuation of Options\nBinomial Option-Pricing Model of Cox, Ross, and Rubinstein (1979):\n Consider One-Period Call Option On Stock XYZ\n Current Stock Price S0\n Strike Price K\n Option Expires Tomorrow, C1= Max [S1−K , 0]\n What Is Today’s Option Price C0?\nS0 , C0 = ???\n01\nS1 , C1= Max [S1−K , 0]"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 17\nValuation of OptionsValuation of Options\nSuppose S0 → S1 Is A Bernoulli Trial:\nS1\nuS0\ndS0\np\n1− p\nu > d\nC1\nMax [ uS0 − K , 0 ] == Cu\nMax [ dS0 − K , 0 ] == Cd\np\n1− p"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 18\nValuation of OptionsValuation of Options\nNow What Should C0 = f (⋅) Depend On?\n Parameters: S0 , K , u , d , p , r\nConsider Portfolio of Stocks and Bonds Today:\n ∆ Shares of Stock, $B of Bonds\n Total Cost Today: V0 == S0∆ + B\n Payoff V1 Tomorrow:\n \nV1\nuS0∆ + rB\ndS0 ∆ + rB\np\n1− p"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 19\nValuation of OptionsValuation of Options\nNow Choose ∆ and B So That:\nV1\nuS0∆ + rB=  Cu\ndS0 ∆ + rB=  Cd\np\n1− p\n⇒\n∆*  =  (Cu− Cd)/(u− d)S0\nB*  =  (uCd− dCu)/(u− d)r\nThen It Must Follow That:\nC0 = V0 = S0 ∆* + B* = \n1\nr\nr − d\nu − d Cu\nu − r\nu − d Cd+"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 20\nValuation of OptionsValuation of Options\nSuppose C0 > V0\n Today: Sell C0 , Buy V0  , Receive C0 − V0 > 0\n Tomorrow: Owe C1, But V1 Is Equal To C1!\nSuppose C0 < V0\n Today: Buy C0 , Sell V0  , Receive V0 − C0 > 0\n Tomorrow: Owe V1, But C1 Is Equal To V1!\nC0 = V0  , Otherwise Arbitrage Exists\nC0 = V0 = S0 ∆* + B* = \n1\nr\nr − d\nu − d Cu\nu − r\nu − d Cd+"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 21\nValuation of OptionsValuation of Options\nNote That p Does Not Appear Anywhere!\n Can disagree on p, but must agree on option price\n If price violates this relation, arbitrage!\n A multi-period generalization exists:\n Continuous-time/continuous-state version (Black-Scholes/Merton):\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 22\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nEarliest Model of Asset Prices:\nNotion of “fair” game\nThe martingale\nCardano’s (c.1565) Liber De Ludo Aleae:\nThe most fundamental principle of all in gambling is simply equal \nconditions, e.g. of opponents, of bystanders, of money, of situation, of \nthe dice box, and of the die itself.  To the extent to which you depart \nfrom that equality, if it is in your opponent's favor, you are a fool, and if \nin your own, you are unjust.\n Precursor of the Random Walk Hypothesis"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 23\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nLouis Bachelier (1870–1946):\n Théorie de la Spéculation (1900)\n First mathematical model of Brownian motion\n Modelled warrant prices on Paris Bourse\n Poincaré’s evaluation of Bachelier:\nThe manner in which the candidate obtains the law of Gauss is most original, and all the \nmore interesting as the same reasoning might, with a few changes,be extended to the \ntheory of errors.  He develops this in a chapter which might at first seem strange, for he \ntitles it ``Radiation of Probability''.  In effect, the author resorts to a comparison with the \nanalytical theory of the propagation of heat.  A little reflection shows that the analogy is \nreal and the comparison legitimate.  Fourier's reasoning is applicable almost without \nchange to this problem, which is so different from that for which it had been created.  It \nis regrettable that [the author] did not develop this part of his thesis further.\n"
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 24\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nKruizenga (1956):\n MIT Ph.D. Student (Samuelson)\n “Put and Call Options: A Theoretical and Market Analysis”\nSprenkle (1961):\n Yale Ph.D. student (Okun, Tobin)\n “Warrant Prices As Indicators of Expectations and Preferences”\nWhat Is The “Value” of Max [ ST  − K , 0 ]?\n Assume probability law for ST\n Calculate Et [ Max [ ST  − K , 0 ] ]\n But what is its price?\n Do risk preferences matter?"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 25\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nSamuelson (1965):\n “Rational Theory of Warrant Pricing”\n “Appendix: A Free Boundary Problem for the Heat Equation Arising \nfrom a Problem in Mathematical Economics”,  H.P. McKean\nSamuelson and Merton (1969):\n “A Complete Model of Warrant Pricing that Maximizes Utility”\n Uses preferences to value expected payoff\nBlack and Scholes (1973):\n Construct portfolio of options and stock\n Eliminate market risk (appeal to CAPM)\n Remaining risk is inconsequential (idiosyncratic)\n Expected return given by CAPM (PDE)"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 26\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nMerton (1973):\n Use continuous-time framework\n– Construct portfolio of options and stock\n– Eliminate market risk (dynamically)\n– Eliminate idiosyncratic risk (dynamically)\n– Zero payoff at maturity\n– No risk, zero payoff ⇒ zero cost (otherwise arbitrage)\n– Same PDE\n More importantly, a “production process” for derivatives!\n Formed the basis of financial engineering and three distinct industries:\n– Listed options\n– OTC structured products\n– Credit derivatives"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 27\nA Brief History of OptionA Brief History of Option--Pricing TheoryPricing Theory\nThe Rest Is Financial History:\nPhotographs removed due to copyright restrictions."
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 28\nExtensions and QualificationsExtensions and Qualifications\n The derivatives pricing literature is HUGE\n The mathematical tools involved can be quite challenging\n Recent areas of innovation include:\n– Empirical methods in estimating option pricings\n– Non-parametric option-pricing models\n– Models of credit derivatives\n– Structured products with hedge funds as the underlying\n– New methods for managing the risks of derivatives\n– Quasi-Monte-Carlo methods for simulation estimators\n Computational demands can be quite significant\n This is considered “rocket science”"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 29\nKey PointsKey Points\n Options have nonlinear payoffs, as diagrams show\n Some options can be viewed as insurance contracts\n Option strategies allow investors to take more sophisticated bets\n Valuation is typically derived via arbitrage arguments (e.g., binomial)\n Option-pricing models have a long and illustrious history"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLecture 10–11:  Options\n15.401\nSlide 30\nAdditional ReferencesAdditional References\nBachelier, L, 1900, “Théorie de la Spéculation”, Annales de l'Ecole Normale Supérieure 3 (Paris, \nGauthier-Villars).\nBlack, F., 1989, “How We Came Up with the Option Formula”, Journal of Portfolio Management 15, 4–8.\nBernstein, P., 1993, Capital Ideas.  New York: Free Press.\nBlack, F. and M. Scholes, 1973, “The Pricing of Options and Corporate Liabilities”, Journal of Political \nEconomy 81, 637–659.\nKruizenga, R., 1956, Put and Call Options: A Theoretical and Market Analysis, unpublished Ph.D. \ndissertation, MIT.\nMerton, R., 1973, “Rational Theory of Option Pricing”, Bell Journal of Economics and Management \nScience 4, 141–183.\nSamuelson, P., 1965, “Rational Theory of Warrant Pricing”, Industrial Management Review 6, 13–31.\nSamuelson, P. and R. Merton, 1969, “A Complete Model of Warrant Pricing That Maximizes Utility”, \nIndustrial Management Review 10, 17–46.\nSprenkle, C., 1961, “Warrant Prices As Indicators of Expectations and Preferences”, Yale Economic \nEssays 1, 178–231."
+    },
+    {
+      "page": 31,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

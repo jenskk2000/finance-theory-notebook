@@ -1,0 +1,78 @@
+{
+  "source": "static_resources/7fd4ce059d9bd0086fc9b50e3cd99540_MIT15_401F08_rec01.pdf",
+  "sha256": "c9de63bdeade3237a16ed4e7964b7c1fdcad21f2d6e7c6118dcf438b594a9e45",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n1: Present Value "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives \n Review of Concepts  Review of Concepts \no Compounding/discounting \no PV/FV \no Rl il to Real vs. nominal rate \no Annuities and perpetuities \n Exampples \no CD \no Auto loan \no Scholarship fund o Scholarship fund \no Project planning \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "Review: Compounding / Discounting \n We can…  We can… \no move money forward in time by compounding. \no move money backward in time by discounting. \nx (1+r)m‐n x (1+r)s‐n \n(1+r)m‐n∙Y Y (1+r)s‐n∙Y \nt = m n s \n Note: Note: \no Only relative time matters \no Multiplying by (1+r)m‐n = dividing by (1+r)n‐m. \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: APR vs. EAR \n Annual percentage rate (APR) vs. equivalent\tAnnual percentage rate (APR) vs. equivalent \nannual return (EAR): \n APR \nN \nEAR  1 APR  1 (N = comp. freq.)\n N \n\tNt\tNote: \no always use the EAR when compounding and discounting \no Due to interest comppounding,g, the EAR is higgher than the \nAPR whenever the compounding frequency is higher than \nonce a year. \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Continuous Compounding (optional) \n Given a fixed APR, higher compounding frequency \tGiven a fixed APR, higher compounding frequency \nleads to higher EAR. Suppose we take compounding \nfrequency to infinity, then \nEAR  lim1 APR  \nN \n1  eAPR 1. \nn N \ne  2.71828183...\n\tThe continuously compounded EAR is the highest \tThe continuously compounded EAR is the highest \npossible EAR for a given APR. \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "Review: PV / FV\n Cash flow:  Cash flow: \n0 1 2 … … T‐1 T T+1 … … periods \nC0 C1 C 2 … … CT‐1 CT CT … … \nPV0 FVT \n Present value (PV): \nCPV0  C0  C1 \n1  CC2 \n2  \n1 r 1 r \n Future value (FV) :  Future value (FV) : \nFVT  C0 1 r\nT \n C1 1 r\nT 1 \n  \n0 1\n CT 1 r \n0 \n CT 1 1 r\n1 \n  \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Review: Nominal vs. Real Interest Rate \n Nominal‐real interest rate conversion:  Nominal real interest rate conversion: \n1 rreal  1 rnominal \n1 i \n Nominal‐real cash flow conversion: \nCnominalC Creal \n1 i \n When you discount or compound, \no Either use the nominal cash flow and the nominal interesto Either use the nominal cash flow and the nominal interest \nrate \no Or use the real cash flow and the real interest rate \no Do not mix and match o Do not mix and match \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "\nReview: Annuity/Perpetuity\n Annuity: Annuity: \nC C … … C C \n0 1 2 … … T‐1 T periods \nC  1 PV0  r \n \n1\n1 r\nT \n \n Perpetuity: \nC C C … … \n0 1 2 3 … … periods \nCPV0  0 \nr \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "\nReview: Growing Annuity/Perpetuity\n Growing Annuity:  Growing Annuity: \nC C(1+g) … … C(1+g)T‐2 C(1+g)T‐1 \n0 1 2 … … T‐1 T periods \nC  1 g \nT PV0  r  g 1\n1 r\nT .\n \n Growing Perpetuity (r > g): \nC C(1+g) C(1+g)2 … … \n0 1 2 3 … … periods \nCPV0  . 0 \nr  g \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "Example 1: CD \n\tYou can invest $10,000 in a CD offered by your bank.\n\tYou can invest $10,000 in a CD offered by your bank. \nThe CD matures in 5 years and the bank quotes you \na rate of 4.5%. How much will you have in 5 years, if \nthe 4.5% is \na) EAR\nb)b) Quarterly APR\nQuarterly APR\nc) Monthly APR\n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "Example 1: CD \n Answer: Answer: \na) 10,000 1.045\n5 \n $12,461.82 \nb)b) rEAR  1 00.045045  \n4 \n 1.04576 \n 4  \n10 000 11.0457604576 \n5 \n $12 507 5110,000 $12,507.51 \nc)c) rEAR  11 00..045045 \n12 \n 11.0459404594 \n 12  \n10,000 11..0459404594 \n5 \n $$1212,,517517..969610,000  \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": "Example 2: Auto Loan \n You would like to buy a new car for $22,000. The \tYou would like to buy a new car for $22,000. The \ndealer requires a down payment of $10,000 and \noffers you 6% APR financing (compounded monthly) \nfor 5 years for the remaining balance. What is your \nmonthly payment? \n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 2: Auto Loan \n Answer: let C be the monthly payment, then  Answer: let C be the monthly payment, then\nC  1 22000  1 125  10000. 0.06 /12  1 0.06 /12 \n0 06 /12  1 0 06 /12 \nC  $231.99. \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "Example 3: Scholarship Fund \n\tYou would like to establish a scholarship fund that \tYou would like to establish a scholarship fund that \nwill help outstanding students with financial \ndifficulties pay their college tuition. \no Starting today, you hope to give 50 students $20,000 each\nin today’s money (i.e., adjusted for inflation) every year.\no The effective nominal interest rate is 5%/yr. o The effective nominal interest rate is 5%/yr. \no Inflation is 2%/yr. \n How much money do you need now if you want the \nf ffund to last forever? \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "Example 3: Scholarship Fund \n Answer: Answer: \no Method 1: nominal amount + nominal interest rate \n1m 1.021m   35mm.1m   35 1.05 1.02 \no Method 2: real amount + real interest rate \n1.05 1m rreal  1  2.9412%  1m   35m. 1.02 0.029412\no Note: same answer! \n You need $35 million today. \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "Example 4: Project Planning \n GeneriCorpGeneriCorp is considering whether or not to expand is considering whether or not to expand \ninto a new market. The company faces the following \ncash flow (in $million) if it decides to expand: \n‐200 ‐400 ‐300 +100 +500 +600 \nt = 0 1 2 3 4 5 years \n A committee appointed by the CEO determined that \nthe appropriate discount rate is 9% Should thethe appropriate discount rate is 9%. Should the\ncompany take on the expansion project?\n2010 / Yichuan Liu 16 "
+    },
+    {
+      "page": 17,
+      "text": "Example 4: Project Planning \n Answer: Answer: \n400 300 100 500 600NPV  200      10 9 1.092 10 9 3 4 5 1.09 10 9 1.09 10 9 1.09 10 9 1.09 \n $1.91m. \n Pi ti NPV tk th jt th h NPV i\n Positive NPV = take the project; though NPV is \ndangerously close to zero. \n2010 / Yichuan Liu 17 "
+    },
+    {
+      "page": 18,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "source": "static_resources/06b2ce70ad26ae3d3be8d94145495be6_MIT15_401F08_lec18.pdf",
+  "sha256": "1e858c7da640c3c10fa3221fd501f5cc79066b4348dd6f9c67e2600473bb4494",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLectures 18Lectures 18––2020: Capital Budgeting: Capital Budgeting\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n NPV Rule\n Cash Flow Computations\n Discount Rates\n Discount Rates Over Time\n Project Interactions\n Alternatives to the NPV Rule\n The Practice of Capital Budgeting\n Key Points\nReadings\n Brealey, Myers, and Allen Chapter 5–6, 9, 22\n Graham and Harvey (2001)"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 3\nNPV RuleNPV Rule\nObjective: Increase Firm’s Current Market Value\n Implication: take projects with positive NPV\n Project has cashflows of:\n Its current market value is\n This is the addition to the firm's market value by the project (recall \nvalue additivity).\n"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 4\nNPV RuleNPV Rule\nInvestment Criteria:\n For a single project, take it if and only if its NPV is positive\n For many independent projects, take all those with positive NPV\n For mutually exclusive projects, take the one with positive and highest \nNPV\nTo Compute the NPV of a Project, We Need To Consider:\n Cash flows\n Discount rates\n Strategic options"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 5\nCash Flow CalculationsCash Flow Calculations\nMain Points:\n1. Use cash flows, not accounting earnings\n2. Use after-tax cashflows\n3. Use cash flows attributable to the project (compare firm value with \nand without the project):\n– Use incremental cash flows\n– Forget sunk costs: bygones are bygones\n– Include investment in working capital as capital expenditure\n– Include opportunity costs of using existing equipment, facilities, \netc.\n– Correct for biases from fighting for resources inside firm"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 6\nCash Flow CalculationsCash Flow Calculations\nConsider Project Cashflows:\n Defining operating profit by\n"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 7\nCash Flow CalculationsCash Flow Calculations\n The income taxes are\n Note that accounting depreciation does affect cash flows because it \nreduces the company's tax bill.\n Let      denote the ``effective'' tax rate. Then\n"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 8\nCash Flow CalculationsCash Flow Calculations\nExample: Capital Expenditure and Accounting Earnings vs. Cash \nFlows\nA machine purchased for $1,000,000 with a life of 10 years generates \nannual revenues of $300,000 and operating expenses of $100,000. \nAssume that machine will be depreciated over 10 years using straight-\nline depreciation. The corporate tax rate is 40%.  What is its NPV?\n"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 9\nCash Flow CalculationsCash Flow Calculations\n The accounting earnings do not accurately reflect the actual timing of \ncash flows\n"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 10\nDiscount RatesDiscount Rates\nSo Far, We Have Shown That:\n A project's discount rate (i.e., required rate of return) is the expected \nrate of return demanded by investors for the project\n The discount rate(s) in general depend on the timing and risk of the \ncashflow(s)\n The discount rate is usually different for different projects\n Therefore, it is in general incorrect to use a company-wide “cost of \ncapital” to discount cash flows of all projects\nWhat Is The Required Rate of Return on a Project?\n Simple case: single discount rate can be used for all cashflows of a \nproject (the term structure of discount rates is flat)\n General case (the term structure of discount rates is not flat)"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 11\nDiscount RatesDiscount Rates\nUse CAPM to Estimate Cost of Capital\n Project's required rate of return is determined by the project beta:\n What matters is the project beta, not the company beta!\n What if project beta is unknown?\n– Find comparable “pure-play” company and use its beta\n– Find comparable historical project and use its cashflows to estimate \nbeta\n– Use intuition and empirical judgment to guesstimate beta\n"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 12\nDiscount RatesDiscount Rates\nExample:\nBloomberg, a provider of financial data and analytics, is considering \nentering the publishing business (Bloomberg Press), and must evaluate \nthe NPV of the estimated cashflows from this business.  What cost of \ncapital should it use for these NPV calculations?\n Bloomberg should not use its own beta to discount Bloomberg Press \ncashflows\n Bloomberg should use the beta of a publishing company (e.g., John \nWiley & Sons)\n What about using McGraw-Hill’s beta?"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 13\nDiscount RatesDiscount Rates\n45\n35\n25\n15\n5\n97 98 99 00 01 02 03 04 05 06 07\n160\n140\n120\n100\n80\n02 03 04 05 06 07\n58% United States\n20% Europe\n9% Asia\n5% Other\n4% Canada\n4% Australia & New Zealand\n39% Professional/Trade\n17% Higher Education\n44% Scientific, Technical\n      and Medical\nBy Core Business By Location of Customer \nStock Price (NYSE: JWA; 4/30 closing price) Cumulative Total Return (Indexed)\n17% CAGR\n$37.45\n$148\n$141\n$115\nJohn Wiley & Sons, Inc., Class A\nDow Jones World Publishing Index\nRussell 1000\nJohn Wiley & Sons\nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 14\nDiscount RatesDiscount Rates\nExample (cont):\n Beta of JW/A (from http://finance.yahoo.com): 1.29\n Riskfree rate:  5%\n Market risk premium:  6%\n Use judgment in interpreting and adjusting this estimate\n Estimates are always wrong!\n How good is the approximation?\n"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 15\nDiscount Rates Over TimeDiscount Rates Over Time\nDiscount Rates Over Different Horizons Are, In General, Different\n The term structure of discount rates arises from two sources:\n1. Term structure of interest rates: The discount rates in absence of risk \ncan be different for sure cashflows at different dates\n2. Term structure of risk premia:\na) The risk of cashflows at different dates is different\nb) The price of risk is different for different dates\n Use the discount rate that corresponds to the risk at the time the \ncashflow is generated"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 16\nDiscount Rates Over TimeDiscount Rates Over Time\nExample:  \nA firm is investing in an oil exploration project:\n Drilling takes place over the coming year\n At the end of the first year:\n– with probability 1/3, it finds 3 million barrels of oil\n– with probability 2/3, it finds nothing\n Conditional on successful exploration, 3 million barrels of oil will be \nproduced by the end of the second year (There is no more oil after \nthat)\n Expected after-tax profit per barrel is $20\n The riskfree rate is 5%\n Industry discount rate of oil production is 20%\n The exploration risk is non-systematic (beta of 0.0)\n What is the NPV of the project?"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 17\nDiscount Rates Over TimeDiscount Rates Over Time\nExample (cont):\n Potential value of the cash flows after drilling (at t=1):\n The value of the project at date 0:\n"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 18\nProject InteractionsProject Interactions\nDeciding Among A Set of Projects\n If projects are independent, apply NPV rule to each project\n If projects are dependent (e.g., mutually exclusive—accepting one \nrules out the others), we have to compare their NPVs\nOptimal Timing of Projects\n Reject project\n Accept project now\n Accept project later\n Sometimes waiting can increase NPV!"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 19\nProject InteractionsProject Interactions\nExample:\nPotential demand for your product is projected to increase over time. If \nyou start the project early, your competitors will catch up with you \nfaster, by copying your idea. Your opportunity cost of capital is 10%. \nDenoting by FPV the project's NPV at the time of introduction, we \nhave:\nBefore year 4, the return to waiting is larger that the opportunity cost of \ncapital, 10%. As long as the growth rate of FPV remains below 10% \nafter year 4, it is best to wait and introduce at the end of year 3.\n"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 20\nAlternatives to NPVAlternatives to NPV\nIn Practice, Other Investment Rules Are Also Used\n1. Payback Period\n2. Internal Rate of Return (IRR)\n3. Profitability Index (PI)\n Firms use these rules because they were used historically and they \nmay have worked (in combination with common sense) in the \nparticular cases encountered by these firms.\n These rules sometimes give the same answer as NPV, but in general \nthey do not. We should be aware of their shortcomings and use NPV \nwhenever possible.\n The bottom line is: The NPV rule dominates these alternatives"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 21\nPayback PeriodPayback Period\nPayback Period is the minimum k such that\n In words, k is the minimum length of time such that the sum of cash \nflows from a project is positive\nDecision Criterion Using Payback Period\n For independent projects: Accept if k is less than or equal to some \nfixed threshold t*\n For mutually exclusive projects: Among all the projects having k ≤ t*, \naccept the one that has the minimum payback period\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 22\nPayback PeriodPayback Period\nShortcomings\n Ignores time-value of money\n Ignores cashflows after k\nDiscounted Payback:\n Still ignores cashflows after k\n⇒ Use NPV!\n"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 23\nProfitability IndexProfitability Index\nProfitability Index (PI) is the ratio of the present value of future cash \nflows and the initial cost of a project: \nDecision Criterion Using PI\n For independent projects: Accept all projects with PI greater than one \n(this is identical to the NPV rule)\n For mutually exclusive projects: Among the projects with PI greater \nthan one, accept the one with the highest PI.\n"
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 24\nProfitability IndexProfitability Index\nPI Gives The Same Answer As NPV When\n1. There is only one cash outflow, which is at time 0\n2. Only one project is under consideration\nShortcomings:\n PI scales projects by their initial investments. The scaling can lead to \nwrong answers in comparing mutually exclusive projects\n⇒ Use NPV!\n"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 25\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nIRR Defined By Solution To:\nDecision Criterion Using IRR\n For independent projects: Accept a project if its IRR is greater than \nsome fixed IRR*, the threshold rate\n For mutually exclusive projects: Among the projects having IRR's\ngreater than IRR*, accept one with the highest IRR\n"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 26\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nIRR Rule Leads To The Same Decisions As NPV If\n1. There is only one cash outflow, which occurs at time 0\n2. Only one project is under consideration\n3. The opportunity cost of capital is the same for all periods\n4. The threshold rate is set equal to opportunity cost of capital\nShortcomings:\n Non-existent or multiple IRRs in certain cases\n Incorrect rankings for loans and other projects with negative \ncashflows in future periods\n Ignore scale\n⇒ Use NPV!"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 27\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nExample: \nIncorrect ranking for loan-type cashflow sequences\n The IRR of both projects is 20%\n If actual opportunity cost is 10%, IRR says to accept both projects\n However,\n– Project 1 has a positive NPV only if R < 20%\n– Project 2 has a positive NPV only if R > 20%\n Should take project 1 and reject project 2\n"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 28\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nExample:\nNon-existence of IRR\n No IRR exists for these two projects\n"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 29\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nExample:\nMultiple IRR’s\n40\n20\n0 0.02 0.04 0.06 0.08 0.1\n0\n-20\n-40\n-60\n-80\nNPV of Project 2\nNPV of Project 1\nNPV\nDiscount Rate\nImage by MIT OpenCourseWare."
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 30\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nExample:\nIncorrect project ranking using IRR for mutually exclusive projects:\na) Projects of different scales:\n One workaround to this problem is to use incremental cashflows:\n– See if lower investment (project 1) is a good idea\n– See if incremental investment (project 2) is a good idea\n"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 31\nInternal Rate of Return (IRR)Internal Rate of Return (IRR)\nExample (cont):\nb)  Projects with different time patterns of cash flows:\n⇒ Use NPV!\n"
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 32\nThe Practice of Capital BudgetingThe Practice of Capital Budgeting\nComparison of Methods Used by Large U.S. and Multinational Firms\n"
+    },
+    {
+      "page": 33,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 33\nThe Practice of Capital BudgetingThe Practice of Capital Budgeting\nHistorical Comparison of Primary Use of Various Techniques\nSource: S. Ross, R. Westerfield, and B. Jordon, Essentials of Corporate \nFinance, Irwin,1996.\n"
+    },
+    {
+      "page": 34,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 34\nOther Issues in Capital BudgetingOther Issues in Capital Budgeting\n Competitive response\n– CF forecasts should take into account responses of competitors.\n Capital rationing\n Sources of positive-NPV projects\n– Short-run competitive advantage (right place at right time)\n– Long-run competitive advantage (patent, technology, economies of \nscale, etc.)\n–N oise"
+    },
+    {
+      "page": 35,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 35\nKey PointsKey Points\n Use the NPV rule for capital budgeting decisions: take all projects with \npositive NPV, or take highest-NPV project if mutually exclusive \n Consider project interactions separately \n Use after-tax cashflows for NPV calculations, not accounting earnings \n Use the CAPM to estimate cost of capital with project beta \n Be careful about risks that change over time or across different stages \n Be wary of alternative to NPV: \n– Payback rule, discounted payback rule \n– Profitability index \n– Internal rate of return "
+    },
+    {
+      "page": 36,
+      "text": "© 2007–2008 by Andrew W. LoLecture 18-20: Capital Budgeting\n15.401\nSlide 36\nAdditional ReferencesAdditional References\n Bernstein, 1992, Capital Ideas.  New York: Free Press.\n Bodie, Z., Kane, A. and A. Marcus, 2005, Investments, 6th edition.  New York: McGraw-Hill.\n Brennan, T., Lo, A. and T. Nguyen, 2007, Portfolio Theory: A Review, to appear in Foundations of \nFinance.\n Campbell, J., Lo, A. and C. MacKinlay, 1997, The Econometrics of Financial Markets.  Princeton, NJ: \nPrinceton University Press.\n Grinold, R. and R. Kahn, 2000, Active Portfolio Management.  New York: McGraw-Hill.\n Ross, S., Westerfield, R. and B. Jordon, 1996, Essentials of Corporate Finance. New York: Irwin."
+    },
+    {
+      "page": 37,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

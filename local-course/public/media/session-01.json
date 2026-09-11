@@ -1,0 +1,38 @@
+{
+  "name": "session-01",
+  "session": 1,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses01_300k.mp4",
+  "path": "/media/session-01.mp4",
+  "youtube_id": "HdHlfiOAJyE",
+  "segments": [
+    {
+      "title": "Introduction and Course Overview",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/1f3e2eda73b05e41fafc9e601a4eded2_HdHlfiOAJyE.pdf",
+      "captions": "static_resources/8ea62884eb155c119c7058d0e3544e4a_HdHlfiOAJyE.vtt"
+    }
+  ],
+  "bytes": 153291775,
+  "sha256": "9ec1f4cd4196944f00224143fa10784fdc0c4a5d6fecf7abc819cab65363e59c",
+  "duration_seconds": 4032.36,
+  "caption_end_seconds": 4027.58,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2016.18,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4027.36,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

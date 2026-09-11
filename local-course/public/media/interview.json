@@ -1,0 +1,38 @@
+{
+  "name": "interview",
+  "session": null,
+  "url": "https://archive.org/download/chalk-radio/S07E01_Andrew_Lo_360p.mp4",
+  "path": "/media/interview.mp4",
+  "youtube_id": "8kFFg5jAoQc",
+  "segments": [
+    {
+      "title": "MIT Economist Andrew W. Lo on Finance, AI, and Human Behavior",
+      "start": null,
+      "end": null,
+      "transcript": "static_resources/8kFFg5jAoQc_transcript.pdf",
+      "captions": "static_resources/8kFFg5jAoQc_captions.webvtt"
+    }
+  ],
+  "bytes": 91036263,
+  "sha256": "8b870e7a44c9190e18d951f9085362433b6d9d670b7cb3a31ecd15fc62d0d065",
+  "duration_seconds": 2329.15,
+  "caption_end_seconds": 2329.0,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 1164.58,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2324.15,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

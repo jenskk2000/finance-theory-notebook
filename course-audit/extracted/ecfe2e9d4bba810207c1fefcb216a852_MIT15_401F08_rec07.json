@@ -1,0 +1,78 @@
+{
+  "source": "static_resources/ecfe2e9d4bba810207c1fefcb216a852_MIT15_401F08_rec07.pdf",
+  "sha256": "e399fae60f34ad613a1bb331510f13587ed4cda00aef671e5ebe695da9b339f2",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n7: CAPM "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives\n Ri f C t Review of Concepts \no CAPM \no Beta and SML \no Alpha\n Examples\noo The frontierThe frontier \no CML and SML \n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "‐\nReview: efficient frontier \nFrom Portfolio Choice… From Portfolio Choice… \n The CML is tangent to the efficient frontier at the \ntangency portfolio. \n The tangency portfolio is the portfolio of risky assets \nthat maximizes the Sharpe ratio. \n Th l f th th Sh ti The slope of the CML i CML is the maxiimum Sharpe ratio.\n Rational investors always hold a combination of the \ntangency portfolio and the risk‐free asset Thetangency portfolio and the risk free asset. The \nproportion depends on investors’ risk preferences. \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: CAPM \n Since each investor holds the tangency portfolio as\t Since each investor holds the tangency portfolio as \npart of his/her overall portfolio, the market portfolio \nmust coincide with the tangency portfolio. \n Idea of CAPM: the contribution of a single risky asset \nto the risk of the market portfolio must be \nproportional to its risk premiumproportional to its risk premium. \n In other words, investors are compensated for \nexpposure to syystematic risk. \n Idiosyncratic risk is not compensated because they \ncan be diversified away. \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": " \n\nReview: CAPM\n A measure of an assetA measure of an asset’s systematic risk is its beta:\ns systematic risk is its beta: \n~ cov~ ri , rm \nim\n i m \n i\ni\t   2 \nim \nvar ~ r \n\t\n\nvar r \n\t\n\nm m\t m \n\tCore result of CAPM: \nri  rf i rm  rf  \n\tNote:\tNote: \nMarket portfolio: \n  1  r  r  r  rf m m f m\nRisk‐free pportfolio: \n f  0  rff  rff  0  rmm  rff \nf \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": " \n\n,\nReview: SML \n Graph of of rii  rff ii rmm  rff  in (beta, return) space is (beta, return) space is Graph in \na straight line called the Security Market Line: \nSML \nrm \nrf \n0 1 β \n If CAPM holds, everyy asset must be on the SML. \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": " f\nReview: testing CAPM \n CAPM does not hold exactly  CAPM does not hold exactly \n The regression \nri i i rm  rf i \noften give nonzero alpha. \n CAPM requires alpha to be zero for all assets \n CAPM fi l if ft th bt t t CAPM may fail if factors other ththan beta affffect asset \nreturns, such as \no Fama‐French factors: market (beta), size, and book‐to‐\no Fama French factors: market (beta), size, and book to \nmarket \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Review: portfolio beta and alpha\n The beta of a portfolio is The beta of a portfolio is \nN \n p   wii\nii11 \n The alpha of a portfolio is \nN \n p   wii\ni1\n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "Example 1: the frontier \n The risk‐free rate is 6%, the expected return on the \tThe risk free rate is 6%, the expected return on the \nmarket portfolio is 14%, and the standard deviation \nof the return on the market portfolio is 25%. \nConsider a portfolio with expected return of 16% \nand assume that it is on the efficient frontier. \na. What is the beta of this portfolio? \nb. What is the standard deviation of its return? \nc. What is its correlation with the market return? \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "Example 1: the frontier \n Answer: Answer: \na. rp  rf  p rm  rf  \n0.16\t 0.06  0.14  0.06pp \n  1.25p \nb.\t Since the portfolio is on the efficient frontier, it is a \ncombination of the risk‐free asset (w) and the market \nportfolio (1‐w): \n0 16\t 00.0606w  00.141411 w0.16 \nw  0.25\n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": "Example 1: the frontier \n Answer: Answer: \nb. The standard deviation of the portfolio is \n  1.25  1.25 25%  31.25%\np m \nc. The beta of the portfolio is \n i \n im \n ii\n\n \n m \n0.31251.25 \n i 1.25 \n im \n0.25 \nim  1 \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": "Example 2: CML and SML\n Using the properties of the capital market line (CML)\n\tUsing the properties of the capital market line (CML) \nand the security market line (SML), determine which \nof the following scenarios are consistent or \ninconsistent with the CAPM. Explain your answers. \n Let A and B denote arbitrary securities while F and M \nt th ik l t d th kt lirepresent the riskless asset and the market portftfolio \nrespectively. \n2010 / Yichuan Liu 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 2: CML and SML \n Scenario I: Scenario I: \nSecurity E[R] β \nA 25% 0.8\nB 15% 1.2\n A i i t t Answer: inconsistent \nHigher beta requires higher expected return \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "Example 2: CML and SML \n Scenario II:  Scenario II: \nSecurity E[R] σ[R] \nA 25% 30%\nM 15% 30%\n A i i t t Answer: inconsistent \nA lies above the CML, which means that the market \nportfolio is inefficientportfolio is inefficient. \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "Example 2: CML and SML \n Scenario III:  Scenario III: \nSecurity E[R] σ[R] \nA 25% 55%\nF 5% 0%\nM 15% 30%\n Answer: inconsistent \nA lies above the CML which means that the marketA lies above the CML, which means that the market \nportfolio is inefficient. \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "Example 2: CML and SML \n Scenario IV:  Scenario IV: \nSecurity E[R] β \nA 20% 1.5\nF 5% 0\nM 15% 1.0\n Answer: consistent \nPortfolio A lies on the SMLPortfolio A lies on the SML \n2010 / Yichuan Liu 16 "
+    },
+    {
+      "page": 17,
+      "text": "Example 2: CML and SML \n Scenario V:  Scenario V: \nSecurity E[R] β \nA 35% 2.0\nM 15% 1.0\n A i i t t Answer: inconsistent \nThe implied risk‐free rate would be negative if A lies \non the SMLon the SML. \n2010 / Yichuan Liu 17 "
+    },
+    {
+      "page": 18,
+      "text": "MIT OpenCourseWare \nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

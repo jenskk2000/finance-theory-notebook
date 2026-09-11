@@ -1,0 +1,45 @@
+{
+  "name": "session-13",
+  "session": 13,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses13_300k.mp4",
+  "path": "/media/session-13.mp4",
+  "youtube_id": "tL7Lcl90Sc0",
+  "segments": [
+    {
+      "title": "Part II of Risk and Return",
+      "start": "0",
+      "end": "2758",
+      "transcript": "static_resources/6252f95389f4b0483e848073d77ca9a5_tL7Lcl90Sc0.pdf",
+      "captions": "static_resources/51285cc58d945ae1afb01b23393c1f97_tL7Lcl90Sc0.vtt"
+    },
+    {
+      "title": "Part I of Portfolio Theory",
+      "start": "2758",
+      "end": "4716",
+      "transcript": "static_resources/6a63011abb25c5edcff763e65ef83f82_tL7Lcl90Sc0.pdf",
+      "captions": "static_resources/61f51306b0c65bc59bf31c12c55912e0_tL7Lcl90Sc0.vtt"
+    }
+  ],
+  "bytes": 182469570,
+  "sha256": "3a0df46d32801de93ba872e871d78538a02f7935238de1eb586caaaec93fc6fe",
+  "duration_seconds": 4716.82,
+  "caption_end_seconds": 4712.23,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2358.41,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4711.82,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

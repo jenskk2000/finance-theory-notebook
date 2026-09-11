@@ -1,0 +1,45 @@
+{
+  "name": "session-04",
+  "session": 4,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses04_300k.mp4",
+  "path": "/media/session-04.mp4",
+  "youtube_id": "hyc8h5T76BE",
+  "segments": [
+    {
+      "title": "Part III of Present Value Relations",
+      "start": "0",
+      "end": "2552",
+      "transcript": "static_resources/662ee1eea050b0198db10282f6935656_hyc8h5T76BE.pdf",
+      "captions": "static_resources/86cab1d4f1fa5cfa9a582a9157501d27_hyc8h5T76BE.vtt"
+    },
+    {
+      "title": "Part I of Fixed-Income Securities",
+      "start": "2552",
+      "end": "4316",
+      "transcript": "static_resources/35d8ec3b356147262ea791018250d376_hyc8h5T76BE.pdf",
+      "captions": "static_resources/b06f1e2104db56128add5114ff0dfecb_hyc8h5T76BE.vtt"
+    }
+  ],
+  "bytes": 166990711,
+  "sha256": "8271b1f3da508e5dc4e3e69e5297f932869265e9f17e52efdfba99595005ab4c",
+  "duration_seconds": 4316.71,
+  "caption_end_seconds": 4311.29,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2158.36,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4311.71,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

@@ -1,0 +1,70 @@
+{
+  "source": "static_resources/d0734e7fec7b333f1255a6dc3dff389c_MIT15_401F08_rec05.pdf",
+  "sha256": "68154616f13de8197b943b3ecc2abdfcbf1114e163a4d9a9e461c500ca3f3c2e",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401 Recitation\n15.401 Recitation\n5: Options "
+    },
+    {
+      "page": 2,
+      "text": "Learning Objectives\n Ri f C t Review of Concepts \no Payoff profile \no Put‐call pparityy \no Valuation of options\no Binomial tree \n ExamplesExamples \no Payoff replication \no Arboreal Corporation\n2010 / Yichuan Liu 2 "
+    },
+    {
+      "page": 3,
+      "text": "\nReview: elements of a call/put option \n Type: Type: \no Call: holder has the right but not the obligation to buy\no Put: holder has the right but not the obligation to sell \nQ tit f th dl i t Quantity of the underlying asset: \no Usually one share of stock with current price S \n Strike/exercise price (K) Strike/exercise price (K) \n Expiration date (T) \n Style: \no European: can only be exercised at T \no American: can be exercised at any time between 0 and T. \n2010 / Yichuan Liu 3 "
+    },
+    {
+      "page": 4,
+      "text": "Review: payoff profile\nCallCall PutPut \nPayoff Payoff \nLong \n45° 45° \nK Asset Price K Asset Price \nShort \nPayoffPayoff \nK 45° Asset Price 45° \nPayoffPayoff \nK Asset Price \n2010 / Yichuan Liu 4 "
+    },
+    {
+      "page": 5,
+      "text": "Review: payoff profile \n The payoff of a portfolio of options is the sum of \tThe payoff of a portfolio of options is the sum of \npayoffs of the individual components: \n1 put 1 call\t Straddle \n+ = \nK1 K1 K1 \n1 call @ K1 ‐2 call @ K1 1 call @ K3 Butterfly spread \n+\t + = \nK11\t K22 K33 K11 K22 K33 \n2010 / Yichuan Liu 5 "
+    },
+    {
+      "page": 6,
+      "text": "lio 1 Portfo + = K \nolio 2 Portfo + = \n Two portfolios with identical payoffs \nReview: put‐call parity \n Two portfolios with identical payoffs \n1 call @ K Bond w/ FV=K \nK \n1 put @ K 1 stock \nK \nK K \n2010 / Yichuan Liu 6 "
+    },
+    {
+      "page": 7,
+      "text": "Review: put‐call parity \n No arbitrage implies that the two portfolios must \tNo arbitrage implies that the two portfolios must \nhave the same cost: \nC\t PV K   PPC  PV K   SS \nKC\t  P  S\n11 rr \nT \n This is the put‐call parity.\n Note: the call and put must have the same exercise\n\tNote: the call and put must have the same exercise \nprice (K). \n2010 / Yichuan Liu 7 "
+    },
+    {
+      "page": 8,
+      "text": "Review: value of an option\nValue of put \nStrike price (K) Decrease Increase\np () \nPrice of underlying \nasset (S) \nIncrease Decrease \nce of options \nMaturity (T) Increase Increase \nPrice of underlying asset \nPric \nValue of call \nVolatility of the Increase Increase \nunderlying asset (σ) \nInterest rate (r) Increase Decrease \n2010 / Yichuan Liu 8 "
+    },
+    {
+      "page": 9,
+      "text": "S CB\nReview: binomial tree \n Idea: if there are only two states of the world next \tIdea: if there are only two states of the world next \nperiod, we can price options given the underlying \nasset and a risk‐free asset (“bond”) by replication: \nUnderlying Asset Bond Call\nS\n B p u Cuu p u \nC\n1‐p Sd\nS B/(1+r) \nB Cd \n2010 / Yichuan Liu 9 "
+    },
+    {
+      "page": 10,
+      "text": "Review: binomial tree\n Replication: Replication: \nCF at t = 0 CF at t=1 CF at t=1\n(“up” state) (“down” state) \nA shares of underlying asset ‐A x S A x Su A x Sd \nBond (FV=B) ‐ B/(1+r) B B\nTotal ‐A x S ‐ B/(1+r) A x S + B A x Sd + B \nTotal A x S B/(1+r) A x Su + B A x Sd + B \nReplication = ‐C = Cu = Cd \no AA = ( C Cu – CCd ) / ( S Su Sd )o ( d ) / ( – Sd ) \no B = Cu –A x Su \no C = A x S + B/(1+r) \n2010 / Yichuan Liu 10 "
+    },
+    {
+      "page": 11,
+      "text": " \n,\nReview: binomial tree \n Equivalently, we can solve for the risk‐neutral\tEquivalently, we can solve for the risk neutral \nprobability, q: \nqSuu  1 qqSddS q S\t 1\tr \n\tThen, \nC  qCu  1 qCd \n1 r \n Note: q is not related to the state probability p. In \nfact, pp is not used in the ppricingg of C. \n2010 / Yichuan Liu 11 "
+    },
+    {
+      "page": 12,
+      "text": " How would you replicate the following payoff profile \nExample 1: payoff replication \n How would you replicate the following payoff profile \nusing only call and put options? \na) \nb) \n2010 / Yichuan Liu 12 \n16 20 \n10 15 25 30 \n88 \n8 12 "
+    },
+    {
+      "page": 13,
+      "text": "Example 1: payoff replication \n Answer: Answer: \na)\t Long 1 call (K=10)\nShort 1 call (K=15)\nSh t ll (K )\nShort 1 call (K=25)\nLong 1 call (K=30)\nb)\t Long 1 put (K=8)\nShort 1 call (K=8)\nLong 2 calls (K=12)\nShort 1 call (K=20)\nShort 1 call (K 20) \n2010 / Yichuan Liu 13 "
+    },
+    {
+      "page": 14,
+      "text": "Example 2: Arboreal Corporation \n Arboreal Corporations stock price is currently $102.\tArboreal Corporations stock price is currently $102. \nAt the end of 3 months it will be either $120 or $90. \nThe 3‐month spot rate is 2%. What is the value of a \n3‐month European call option with a strike price of \n$110? \nStock Call \n$120 $10 \n$$102$$102 CC \n$90 $0 \n2010 / Yichuan Liu 14 "
+    },
+    {
+      "page": 15,
+      "text": "\n   \nExample 2: Arboreal Corporation \n The call can be replicated with:  The call can be replicated with: \no Long 1/3 stock: costs $34 \no Short bond with FV=30: costs ‐$30/(1+2%) = ‐$29.41\nTh i f th ll t b\n The price of the call must be \nC  34  29.41  $4.59 \n Alternatively we can solve for the risk‐neutral Alternatively, we can solve for the risk neutral \nprobability: 120q  901 q  102  q  0.468 1 2% \n The price of the call is then \n100.468 01 0.468C  $4 59C  $4.59 1 2% \n2010 / Yichuan Liu 15 "
+    },
+    {
+      "page": 16,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu\n15.401 Finance Theory I\nFall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms."
+    }
+  ]
+}

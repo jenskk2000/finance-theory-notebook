@@ -1,0 +1,38 @@
+{
+  "name": "session-07",
+  "session": 7,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses07_300k.mp4",
+  "path": "/media/session-07.mp4",
+  "youtube_id": "ZWKnK9LIETA",
+  "segments": [
+    {
+      "title": "Part IV of Fixed-Income Securities",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/d0b94fa66ab404e96edf2eca03b9d94e_ZWKnK9LIETA.pdf",
+      "captions": "static_resources/3cddd35be8df51029ce460c518079b5b_ZWKnK9LIETA.vtt"
+    }
+  ],
+  "bytes": 176206434,
+  "sha256": "aaf0b274c02c12909bab20216153a187beacd49ee750b3d5ec9a0d7dde048044",
+  "duration_seconds": 4556.48,
+  "caption_end_seconds": 4550.17,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2278.24,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4551.48,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "session-02",
+  "session": 2,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses02_300k.mp4",
+  "path": "/media/session-02.mp4",
+  "youtube_id": "U03Md5enU-0",
+  "segments": [
+    {
+      "title": "Part I of Present Value Relations",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/87d93050e530729b2547e49ba0b447ec_U03Md5enU-0.pdf",
+      "captions": "static_resources/1141c37737c7504cbc71227770ba60b9_U03Md5enU-0.vtt"
+    }
+  ],
+  "bytes": 176268681,
+  "sha256": "3a2b033b9ffb2454f353d299fec5ec3077635d2dd8516a4b9d8133acb21ab39d",
+  "duration_seconds": 4555.29,
+  "caption_end_seconds": 4553.92,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2277.64,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4550.29,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

@@ -1,0 +1,250 @@
+{
+  "source": "static_resources/d28223e0ac8822df9538f33b1542881e_MIT15_401F08_review_fin.pdf",
+  "sha256": "66f6c73a4b5ce85a44edac7bc8b0f13d8e999dc9a2c494f2a430f066847543ba",
+  "pages": [
+    {
+      "page": 1,
+      "text": "Extra Session: Final Exam Review\n15.401 Recitation15.401 Recitation"
+    },
+    {
+      "page": 2,
+      "text": "General AdviceGeneral Advice\ny Read carefully\ny Show your work! Answers only give you partial credit\ny Write down the formulas you use\ny Draw timelines for cash flows\ny Make sure you apply the annuity/ perpetuity formulas \ncorrectly – Example: \ny State your assumptions\ny Leave plenty of decimal places for interest rates       \n(e.g., 1.2345%)\n3\n.  .  .\nt = 1 t = 2 t = 3 t = 4 t = Tt = 0 t =-1\nA A A A AFormula \nrefers to \nvalue in t = 0"
+    },
+    {
+      "page": 3,
+      "text": "Sample Final SolutionsSample Final Solutions\n Q1 – True or False\n Q2 – Present Value\n Q3 – Fixed Income\n Q4 – CAPM\n Q5 – Common Stock\n Q6 – Forwards & Futures\n Q7 – Capital Budgeting\n Q8 – Portfolio Theory / CAPM\n Q9 – Portfolio Theory\n Q10 – Options\n4"
+    },
+    {
+      "page": 4,
+      "text": "Q1 Q1 – –\n True or False True or False\na) The duration of a bond maturing at date T is \nalways less than the duration of a zero-coupon \nbond maturing on the same date.\n5\nAdvice:\nyLook for the formulas of how duration is \ncalculated\nyRemember that the duration of  zero-coupon \nbond is directly determined by its maturity"
+    },
+    {
+      "page": 5,
+      "text": "Q1 Q1 – –\n True or False True or False\na) The duration of a bond maturing at date T is \nalways less than the duration of a zero-coupon \nbond maturing on the same date.\n6\nTRUE. Bonds with coupons always have a maturity that \nis lower than its maturity date. They accelerate cash \nflows received from the investment reducing the \nduration. On the other hand, zero-coupon bonds that, \nfor example, mature in 3 years will necessarily have a \nmaturity of 3 years. This is determined by the formula:\n-\n \nZero-Coupons have a duration of “T”\n \nsince there is only one CF: \n-\n \nCoupon Bonds maturing in “T”\n \nhave a \nduration of less than “T”\n \nsince there \nare cash flows occurring at T-1, T-2, \netc.\nT\nT\ny\nCFB ) 1 (+="
+    },
+    {
+      "page": 6,
+      "text": "Q1 Q1 – –\n True or False True or False\nb) The market price of a share of stock equals the \ndiscounted value of the stream of future \nearnings per share\n7\nAdvice:\nyLook for relevant formulas Æ DCF\nyRead carefully. For example:\n‒\n \nEarnings ≠\n \nDividends\n‒\n \nRevenues ≠\n \nProfits\n‒\n \nFace Value ≠\n \nPresent Value"
+    },
+    {
+      "page": 7,
+      "text": "Q1 Q1 – –\n True or False True or False\nb) The market price of a share of stock equals the \ndiscounted value of the stream of future \nearnings per share\n8\nAnswer:\nFALSE. The market value of a share of stock equals the \ndiscounted value of the stream of future dividends \nper share. It “works”\n \nwith earnings if and only if the \nplowback (b) ratio = 0, making the payout (p) ratio = \n1 and thus EPS = Dividends. Mathematically:\nWhere D1\n \n= Dividends, not EPS"
+    },
+    {
+      "page": 8,
+      "text": "Q1 Q1 – –\n True or False True or False\nc) Growth stocks must have a plowback ratio > 1\n9\nAdvice:\nyClearly lay out the definition of a growth stock"
+    },
+    {
+      "page": 9,
+      "text": "Q1 Q1 – –\n True or False True or False\nc) Growth stocks must have a plowback ratio > 1\n10\nAnswer:\nFALSE. Recall that Stocks of companies that have access to \ngrowth opportunities are considered growth stocks, \nGrowth opportunities are investment opportunities that \nearn expected returns higher than the required rate of \nreturn on capital. By this definition, a growth stock has:\nROE > r\nThe plowback ratio does not need to be greater than 1"
+    },
+    {
+      "page": 10,
+      "text": "Q1 Q1 – –\n True or False True or False\nd) If a commercial airline wants to hedge its risk \nagainst oil prices, it should go short in oil \nfutures\n11\nAdvice:\nyThink of examples and counterexamples\nyRemember class and definitions!"
+    },
+    {
+      "page": 11,
+      "text": "Q1 Q1 – –\n True or False True or False\nd) If a commercial airline wants to hedge its risk \nagainst oil prices, it should go short in oil \nfutures\n12\nAnswer:\nFALSE.  One can argue that airlines are short fuel cost. So to hedge that they \nhave to go long\n \noil future.  On the other hand, they can pass down the \ncost of higher fuel prices to their clients so it is equally likely that they \ndon’t need to hedge 100% of their exposure (recall they will be in a\n disadvantage if they hedge and their competition did not hedge and prices \nfall as they have done recently). \nIn general, entering into a futures contract does not provide a hedge in itself. \nThis is why not all airlines hedge all their gas purchases. Actually, the range \nvary widely from 0% of gas bought on futures to 100% of gas bought on \nfutures, with notorious examples such as Southwest Airlines."
+    },
+    {
+      "page": 12,
+      "text": "Q1 Q1 – –\n True or False True or False\ne) The value of an American call option is always \nequal to the value of a European call option\n13\nAdvice:\ny Read carefully, and seek to understand the difference \nbetween American and European options:\n‒\n \nEuropean Æ Can only be exercised at expiration\n‒\n \nAmerican Æ Can be exercised on or before \nexpiration\ny Use your logic:  Would you pay the same? Is there an \neffect due to time value of money?"
+    },
+    {
+      "page": 13,
+      "text": "Q1 Q1 – –\n True or False True or False\ne) The value of an American call option is always \nequal to the value of a European call option\n14\nAnswer:\nFALSE.  American Call options can be worth more than \nEuropean options as they can be exercised before \nexpiration. Therefore, the person who exercises the \noption could benefit from having the money early as \nwell from not taking the risk of a reduction in the price \nof the underlying asset. Ultimately, this is related to the \nissue of dividend payment but we will not get into that \nhere"
+    },
+    {
+      "page": 14,
+      "text": "Q1 Q1 – –\n True or False True or False\nf) Holding everything else constant, the price of a \nEuropean call option is increasing with \nincreasing risk free interest rate.\n15\nAdvice:\nyLook for formulas or other content in your \n“cheat sheet” that may help you to answer the \nquestion.  For example:\n()\nS P\nr\nKC T + =\n+\n+\n1\nPut-Call Parity:\nIncrease in… Value of call Value of put\nStrike price (K) Decrease Increase\nPrice of underlying asset (S)\nIncrease\nDecrease\nVolatility of the underlying \nasset (σ)\nIncrease Increase\nMaturity (T)\nIncrease\nIncrease\nInterest rate (r) Increase Decrease"
+    },
+    {
+      "page": 15,
+      "text": "Q1 Q1 – –\n True or False True or False\nf) Holding everything else constant, the price of a \nEuropean call option is increasing with \nincreasing risk free interest rate.\n16\nAnswer:\nyTRUE. According to the call-put parity, if \neverything else stays constant, when the risk-\nfree rate increases the value of a call will \nnecessarily have to increase: \n()\nS P\nr\nKC T + ↓ =\n↑ +\n+ ↑\n1"
+    },
+    {
+      "page": 16,
+      "text": "Q1 Q1 – –\n True or False True or False\ng) Investors do not get rewarded for bearing \nidiosyncratic risk.\n17\nAdvice:\nyCarefully read the language – there is an \nimportant difference between “idiosyncratic”\nrisk (also called non-systematic risk) and \n“systematic” risk\nyIf you do not know the answer for this one, \nstudy a lot from here until tomorrow!!!"
+    },
+    {
+      "page": 17,
+      "text": "Q1 Q1 – –\n True or False True or False\ng) Investors do not get rewarded for bearing \nidiosyncratic risk.\n18\ny TRUE. Investors only get rewarded for bearing the \nsystemic risk, which is directly tied to the β of a stock.  \nNotice that:\nAccording to portfolio theory/CAPM, the idiosyncratic \nrisk can be easily diversified and therefore it is not \nexpected that you will get compensated for this:\n(CAPM)\n"
+    },
+    {
+      "page": 18,
+      "text": "Q1 Q1 – –\n True or False True or False\nh) CAPM implies that all risky assets must have a \npositive risk premium.\n19\nAdvice:\nyUse the direct cue that the question is giving: \nThis can be explained though CAPM!"
+    },
+    {
+      "page": 19,
+      "text": "Q1 Q1 – –\n True or False True or False\nh) CAPM implies that all risky assets must have a \npositive risk premium.\n20\nAnswer:\nyFALSE. A risky asset whose return is negatively \ncorrelated with the market has a negative beta  \nand negative risk premium. Follow the line:\nβ0 1 \nrM\nrf\nri\nRisk Premium = ri\n \n–r f"
+    },
+    {
+      "page": 20,
+      "text": "Q2 Q2 – –\n Present  Value Present  Value\nyThe annual membership fee at your health club is \n$750 per year and is expected to increase at 5% \nper year. A life membership is $7,500 and the \ndiscount rate is 12%. In order to justify taking the \nlife membership, what would your minimum life \nexpectancy need to be?\n21\nAdvice:\nyState your assumptions\nyDraw a timeline"
+    },
+    {
+      "page": 21,
+      "text": "Q2 Q2 – –\n Present  Value Present  Value\nyThe annual membership fee at your health club is \n$750 per year and is expected to increase at 5% \nper year. A life membership is $7,500 and the \ndiscount rate is 12%. In order to justify taking the \nlife membership, what would your minimum life \nexpectancy need to be?\n22\nAnswer:\nyAssumption: For the finance option, the first $750 \nfee membership fee payment is made after one \nyear (that is in t=1, not t=0). Moreover, it is $750 \nin t=1 (not 750*1.05 =$787.5 in t=1)\nyThis is: \nt = 1 t = 2 t = 3 t = 4 t =t = 0\n.  .  .\n8\n750 750*(1.05) …\n750*(1.05)3"
+    },
+    {
+      "page": 22,
+      "text": "Q2 Q2 – –\n Present  Value Present  Value\nyThe annual membership fee at your health club is \n$750 per year and is expected to increase at 5% \nper year. A life membership is $7,500 and the \ndiscount rate is 12%. In order to justify taking the \nlife membership, what would your minimum life \nexpectancy need to be?\n23\nAnswer:\nUsing the Growing Annuity formula we must solve:\nWhere A=$750; g=0.05; r=0.12\nSolving for “T”:\nThis results in T=18.65 ≈\n \n19 years\n"
+    },
+    {
+      "page": 23,
+      "text": "Q3 Q3 – –\n Fixed Income Fixed Income\nyThe current prices of three US Treasury \nBonds are as follows:\nyAssume that coupons paid yearly and all \nbonds have a PAR value of $100.\nyAdvice: Leave at least 4 decimals for \ninterest rates\n24\n"
+    },
+    {
+      "page": 24,
+      "text": "Q3 Q3 – –\n Fixed Income Fixed Income\na) What are the 1-, 2-\n \nand 3-year spot rates?\nThis question is always answered using:\nSpecifically,\nThe spot-rates are: r1\n \n=2.59%; r2\n \n=5.29%; r3\n \n=6.04%\n25\nB\n% 0447 . 6) 1 (\n106 $\n) 052872 . 0 1 (\n6 $\n) 025915 . 0 1 (\n6 $148 . 100 $\n% 2872 . 5) 1 (\n105 $\n) 025915 . 0 1 (\n5 $593 . 99 $\n% 5915 . 2) 1 (\n100 $474 . 97 $\n33\n3\n213\n22\n2\n12\n11\n1\n1\n= ⇒+++++==\n= ⇒+++= =\n= ⇒+= =\nrrB\nrrB\nrrB"
+    },
+    {
+      "page": 25,
+      "text": "Q3 Q3 – –\n Fixed Income Fixed Income\nb) What are the year 1 to 2 and year 1 to 3 \nforward rates?\nAdvice: Solve using                                               \ngeneric formulas:\n26\n% 8147 . 7\n1025915 . 1\n) 060447 . 1 (1) 1 (\n) 1 () 1 ( ) 1 ( ) 1 (\n% 0537 . 8\n1025915 . 1\n) 052872 . 1 (1) 1 (\n) 1 () 1 ( ) 1 ( ) 1 (\n3 1\n2 / 132 / 1\n1\n3\n3\n3 1\n3\n3\n2\n3 11\n2 1\n2\n1\n2\n2\n2 1\n2\n22 11\n=\n−⎥⎦\n⎤\n⎢⎣\n⎡= −⎥⎦\n⎤\n⎢⎣\n⎡\n+\n+= ⇒ + = + × +\n=\n−= −+\n+= ⇒ + = + × +\n−\n−−\n−\n−−\nf\nr\nrf r f r\nf\nr\nrf r f r\n"
+    },
+    {
+      "page": 26,
+      "text": "Q3 Q3 – –\n Fixed Income Fixed Income\nb) What are the year 1 to 2 and year 1 to 3 \nforward rates?\nIn the same way, we can also calculate the \nforward rate from year 2 to 3:\n27\n% 5763 . 7\n1) 052872 . 1 (\n) 060447 . 1 (1) 1 (\n) 1 () 1 ( ) 1 ( ) 1 (\n3 2\n2\n3\n2\n2\n3\n3\n3 2\n3\n33 2\n2\n2\n=\n−⎥⎦\n⎤\n⎢⎣\n⎡= −⎥⎦\n⎤\n⎢⎣\n⎡\n+\n+= ⇒ + = + × +\n−\n−−\nf\nr\nrf r f r"
+    },
+    {
+      "page": 27,
+      "text": "Q3 Q3 – –\n Fixed Income Fixed Income\nc) What is the price of a three-year bond with a \n8% annual coupon?\nAdvice: Keep in mind the most basic Fixed \nIncome formulas\nIn this case, we use the first option because we \nknow the spot rates:\n28\n• With spot rates:\n•\nWith YTM:\nB\n5788 . 105 $) 060447 . 1 (\n108\n) 052872 . 1 (\n8\n) 025915 . 1 (\n8\n321 =++=B"
+    },
+    {
+      "page": 28,
+      "text": "Q4 Q4 – –\n CAPM CAPM\nyConsider three stocks: Q, R and S:\nyUse a risk-free rate of 2.0% and an expected \nmarket return of 9.5%. The market‘s \nstandard deviation is 18%. Assume that the \nnext dividend will be paid after one year, at  \nt = 1. 29\n"
+    },
+    {
+      "page": 29,
+      "text": "Q4 Q4 – –\n CAPM CAPM\na) According to CAPM, what is the expected rte \nof return of each stock:\nUse basic CAPM formula:\nAnswer:\n \nrQ\n \n=5.375%;  rR\n \n=12.875%;  rS\n \n=0.5%\nBe aware of the difference between expected \nreturn and expected risk premium\n30\n% 5 . 0 %) 2 % 5 . 9 ( ) 20 . 0 ( % 2\n% 875 . 12%) 2 % 5 . 9 ( 45 . 1 % 2\n% 375 . 5 %) 2 % 5 . 9 ( 45 . 0 % 2\n) (\n__\n__\n__\n__\n= ⇒ − × − + =\n= ⇒ − × + =\n= ⇒ − × + =\n− × + =\nSS\nRR\nQQ\nfMf i\nrr\nrr\nrr\nr r r r\nβ"
+    },
+    {
+      "page": 30,
+      "text": "Q4 Q4 – –\n CAPM CAPM\nb) What should today’s price be for each stock, assuming \nCAPM is correct:\nNote that:\n-\n \nThe expected return rate is the appropriate discount \nrate for each stock\n-\n \nYou should clarify your assumption of whether the price \nif quoted Nov 2009 price is before or after the dividend \npayment –\n \nSeems logical to assume that quoted price if \nimmediately after the dividend payment\n31\n90 . 20 $ 8955 . 20005 . 1\n20\n005 . 1\n1\n45 . 66 $ 4452 . 6612875 . 1\n75\n18 . 43 $ 1791 . 4305375 . 1\n45\n05375 . 1\n5 . 0\n≈ = ⇒ + =\n≈ = ⇒=\n≈ = ⇒+ =\nSS\nRR\nQQ"
+    },
+    {
+      "page": 31,
+      "text": "Q5 Q5 – –\n Common Stock Common Stock\nyCompany Ts current return on equity \n(ROE) is 16%. It pays out one-quarter of \nearnings as cash dividends (payout ratio = \n.25). Current book value per share is $35. \nThe company has 5 million shares \noutstanding. \ny\nAssume that ROE and payout ratio stay \nconstant for the next four years. After that, \ncompetition forces ROE down to 10% and \nthe company increases the payout ratio to \n60%. The company does not plan to issue or \nretire shares  The cost of capital is 9 5%  \n32"
+    },
+    {
+      "page": 32,
+      "text": "Q5 Q5 – –\n Common Stock Common Stock\na) What is stock T worth? \ny Advice:\n‒\n \nDo a year by year table until steady state is reached\ny Answer:\n33\nData Given\nVery useful:\ng = ROE*b\np = 1 –\n \nb\nEPS = BVPS*ROE\nDPS = EPS*p"
+    },
+    {
+      "page": 33,
+      "text": "Q5 Q5 – –\n Common Stock Common Stock\nb) How much of stock T’s value is attributable to growth \nopportunities (PVGO)?\nAdvice:\ny Check that your answer makes sense!\nAnswer:\n34\nIf we calculate \nPVGO as         \nPrice −\n \nEPS/r,     \nwe obtain a \nnegative PVGO!\nHow come if    \nROE > cost of \ncapital at any time?\nr\nEPSicePVGO − =Pr"
+    },
+    {
+      "page": 34,
+      "text": "Q5 Q5 – –\n Common Stock Common Stock\ny ROE on current assets decreases over time (16% → 10%), \nwhich means that, by taking current ROE, we overestimate the \nvalue of assets in place.\ny Recall that Stock Price Can Be Decomposed Into Two \nComponents\n‒\n \nPresent value of earnings under steady state (usually no \ngrowth)\n‒\n \nPresent value of growth opportunities\ny The first component is equal to $35*10%/9.5% = $36.84 \ny “Real” PVGO = $47.08 - $36.84 = $10.24\nFinal Answers:\na)\n \nPrice = $47.08\nb)\n \nPVGO = $10.24\n35"
+    },
+    {
+      "page": 35,
+      "text": "Q6 Q6 – –\n Forwards & Futures Forwards & Futures\ny Spot and futures prices for Gold and the S&P in \nSeptember 2007 are given below.\na) Use prices for gold to calculate the effective annualized \ninterest rate for Dec 2007 and June 2008. Assume that \nthe convenience yield for gold is zero.\nAdvice:\ny Read carefully: Note the dates!\ny Remember how to “annualize” monthly effective rates\n36\n"
+    },
+    {
+      "page": 36,
+      "text": "Q6 Q6 – –\n Forwards & Futures Forwards & Futures\na) Use prices for gold to calculate the effective annualized \ninterest rate for Dec 2007 and June 2008. Assume that \nthe convenience yield for gold is zero.\nAnswer:\nThe price of futures contract is related to the spot price \nby the following equation (spot-future parity):\n37\n"
+    },
+    {
+      "page": 37,
+      "text": "Q6 Q6 – –\n Forwards & Futures Forwards & Futures\nb) Suppose you are the owner of a gold mine and would \nlike to fix the revenue generated by your future \nproduction. Explain how the future market enables such \nhedges.\nAnswer:\nYou are naturaly “long gold”. So, enter into a contract \nto sell your Dec 2007 production at the price of \n$706.42/oz and your June 2008 production at \n$726.70/oz. You can lock-in now the price at which you \nsell your future production!\n38"
+    },
+    {
+      "page": 38,
+      "text": "Q6 Q6 – –\n Forwards & Futures Forwards & Futures\nc) Calculate the convenience yield on the S&P index \nbetween September 07 and December 07:\nAssumption:\ny rf = 7.97% (annual risk-free interest rate calculated in \npart “a”, which related to the same period) \nAnswer:\nThe convenience yield is 2.68%\n39\n% 68 . 2\n02681 . 055 . 453 , 1\n40 . 472 , 10797 . 0 1\n) 0797 . 0 1 ( 55 . 453 , 1 40 . 472 , 1\n) 1 (\n4\n4 / 1\n4 / 1\n0\n=\n=⎟\n⎠\n⎞⎜\n⎝\n⎛− + =\n− + × =\n− + × =\nd\nd\nd\nd r S Ff"
+    },
+    {
+      "page": 39,
+      "text": "Q7 Q7 – –\n Capital Budgeting Capital Budgeting\ny You have developed the technology to use gold to produce \nhigh capacity fiber optic switches. The technology has cost    \n$ 5 million to develop. You need $50 million of initial capital \ninvestment to start production. Sales of the switch sales will \nbe $20 million per year for the next 5 years and then drop \nto zero. The main cost of production is gold. Each year, you \nneed 20,000 ounces of gold. Gold is currently selling for \n$250 per ounce. Your supplier thinks that the gold price will \nappreciated at 5% per year for the next 5 years. The cost of \ncapital is 10% for the fiber-optics business. The tax rate is \n35%. The capital investment can be depreciated linearly over \nthe next 5 years.\na)\n \nCalculate the after-tax cash flows of the project\nAdvice:\ny Use a year-by-year table\n40"
+    },
+    {
+      "page": 40,
+      "text": "Q7 Q7 – –\n Capital Budgeting Capital Budgeting\nAnswer: Figures expressed in $MM:\n41\nYr 0 Yr 1 Yr 2 Yr 3 Yr 4 Yr 5\nCAPEX: A -50\nRevenues: B 20 20 20 20 20\nCOGS: C -5 -5.25 -5.51 -5.79 -6.08\nDepreciation: D -10 -10 -10 -10 -10\nNet Income: E=B+C+D 5 4.75 4.49 4.21 3.92\nTax: F=-0.35*E -1.75 -1.66 -1.57 -1.47 -1.38\nTOTAL CF: A+B+C+F -50 13.25 13.09 12.92 12.74 12.55\nNote:\n• Sunk cost of $5 MM doesn’t matter!\n•\nFor Finance, we only care about After-Tax Cash Flow"
+    },
+    {
+      "page": 41,
+      "text": "Q7 Q7 – –\n Capital Budgeting Capital Budgeting\nb) Should you take the project?\nAnswer: Discount the factors at the appropriate discount \nrate:\n42\nYr 0 Yr 1 Yr 2 Yr 3 Yr 4 Yr 5\nNon-Discounted CF: -50 13.25 13.09 12.92 12.74 12.55\nDiscount Factor 1.100 1.101 1.102 1.103 1.104 1.105\nDiscounted CF -50 12.05 10.82 9.70 8.70 7.79\nNPV = Sum of Discounted CFs = $-0.94 MM\nAnswer:\n \nNPV < 0 Æ Do not take the project!"
+    },
+    {
+      "page": 42,
+      "text": "Q8 Q8 – –\n Portfolio Theory/CAPM Portfolio Theory/CAPM\ny It is November, 2007. The following variance-covariance \nmatrix, for the market (S&P 500) and stocks T and U, is \nbased on monthly data from November 2002 to October \n2007.  Assume T and U are included in the S&P 500.  The \nbetas for T and U are T = 0.727 and U = 0.75.\ny Average monthly risk premiums from 2002 to 2007 were:\n‒\n \n S&P500 : 1.0%\n‒\n \nT : 0.6%\n‒\n \nU : 1.1%\ny Assume the CAPM is correct, and that the S&P is a good \nproxy for the market.  Assume that that the expected future \nmarket risk premium is 0.6% and the risk-free interest rate is \n0.3% per month.\n43\n"
+    },
+    {
+      "page": 43,
+      "text": "Q8 Q8 – –\n Portfolio Theory/CAPM Portfolio Theory/CAPM\nAdvice:\ny Ask yourself whether the variance-covariance matrix \nincludes the weights (“w”) or not. In this case, it \ndoesn’t\ny Also note that Risk Premiums are given here \na)\n \nWhat were the alphas for stocks T and U over the last \n60 months?\nAnswer:\nUsing the CAPM regression formula:\n44\n"
+    },
+    {
+      "page": 44,
+      "text": "Q8 Q8 – –\n Portfolio Theory/CAPM Portfolio Theory/CAPM\nb)  What are the expected future rates of return for T \nand U?\nAnswer:\nUsing the CAPM regression formula:\n45\n% 050 . 1 %) 1 ( 750 . 0 % 3 . 0\n% 027 . 1 %) 1 ( 727 . 0 % 3 . 0\n) (\n__\n__\n__\n= ⇒ × + =\n= ⇒ × + =\n− × + =\nUU\nTT\nfMf i\nrr\nrr\nr r r r\nβ\nNote:\n•\n \nWe used the Market risk premium 1%  based on the return \nfrom2002 to 2007.You could have also use the projected return of\n 0.6% given above, depending on which one you have more \nconfidence in. Be clear on the exam and you will get full credit"
+    },
+    {
+      "page": 45,
+      "text": "Q8 Q8 – –\n Portfolio Theory/CAPM Portfolio Theory/CAPM\nc)  What are the optimal portfolio weights for the    \nS&P 500, T and U? Explain qualitatively\nAnswer:\nAccording to the Theory in Finance I, all rationale \ninvestors should always invest in a point along the \nCapital Market Line (CML.) That is, in a \ncombination of the risk-free assets and the market \nportfolio.\nIn this case, the S&P 500 is the proxy we have for \nthe market portfolio, and the question does not \ngive the option of investing in the risk-free asset.\nTherefore, invest all the money in the S&P 500. The \npoint is that S&P 500 already includes some weight \nof  T&U, just in the correct proportion that a \nrational investor would want to have !\n46"
+    },
+    {
+      "page": 46,
+      "text": "Q9 Q9 – –\n Portfolio Theory Portfolio Theory\ny Expected returns and standard deviations of three risky \nassets are as follows:\nAdvice:\ny Ask yourself what exactly is expressed in the matrix. In \nthis case it is just the correlations! – not the variances-\ncovariances\n47\n"
+    },
+    {
+      "page": 47,
+      "text": "Q9 Q9 – –\n Portfolio Theory Portfolio Theory\na) Calculate the expected return and standard deviation \nof a portfolio of stocks A, B and C. Assume an equal \ninvestment in each stock. \nAnswer:  Using the two basic portfolio theory formulas:\n48\n() () ()\n() () () ()\n() ()\n() () () ()\n() () C B BC C BC A AC C A\nB A AB B AC C B B A A P\ny x xy xy\nBC C BAC C A\nAB B AC C B B A A P\nC CB BA A P\nw ww w\nw wwww\nw ww w\nw wwww\nr w r w r w r\nσ σ ρ\nσ σ ρ\nσ σ ρ\nσ\nσ\nσ σ\nσ σ ρ σ\nσ\nσ\nσ\nσ\nσ\nσ σ\n× × × × × + × × × × × +\n+ × × × × × + × + × + × =\n× × =\n× × × + × × × +\n+ × × × + × + × + × =\n× + × + × =\n22\n2\n22\n2\n2 2 2 2 2 2 2\n2 2 2 2 2 2 2\n_\nWe will also use…\n…T o  g e t\n:"
+    },
+    {
+      "page": 48,
+      "text": "Q9 Q9 – –\n Portfolio Theory Portfolio Theory\nSubstituting in these equations we obtain:\n49\n% 08 . 26 2608 . 0068017 . 0\n068017 . 0\n30 . 0 45 . 0 45 . 03\n1\n3\n12\n30 . 0 30 . 0 15 . 03\n1\n3\n12 45 . 0 30 . 0 30 . 03\n1\n3\n12\n30 . 03\n145 . 03\n130 . 03\n1\n% 5 . 11% 93\n1% 5 . 143\n1% 113\n1\n2\n2\n2\n2\n2\n2\n2\n2\n__\n= = ⇒=\n= ⇒\n⎟\n⎠\n⎞⎜\n⎝\n⎛ × × × × × +\n+⎟\n⎠\n⎞⎜\n⎝\n⎛ × × × × × +⎟\n⎠\n⎞⎜\n⎝\n⎛ × × × × × +\n+⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛ × +⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛ × +⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛ × =\n= ⇒⎟\n⎠\n⎞⎜\n⎝\n⎛ × +⎟\n⎠\n⎞⎜\n⎝\n⎛ × +⎟\n⎠\n⎞⎜\n⎝\n⎛ × =\npp\nP\nP\nPP rr\nσ\nσ\nσ\nσ\nAnswer:  E[rp\n \n]=11.5% ;  σp\n \n=26.08%"
+    },
+    {
+      "page": 49,
+      "text": "Q9 Q9 – –\n Portfolio Theory Portfolio Theory\nb) Compute the Sharpe ratio of a portfolio that has     \n30% in A, 30% in B and 40% in C:\nAssumption: rf\n \n= 4%\nAnswer: Using the same procedure as in part “a”\n \nwe \nobtain:\n50\n% 66 . 25\n% 25 . 11\n_\n=\n=\np\nPr σ\nTherefore the Sharpe Ratio\n \nis:  \n282 . 0\n% 66 . 25\n% 4 % 25 . 11\n_\n=\n−=−=\nSR\nr rSR\np\nf P\nσ"
+    },
+    {
+      "page": 50,
+      "text": "Q9 Q9 – –\n Portfolio Theory Portfolio Theory\nc) Assume a portfolio of asset B and C. Determine the \nweight in asset B, such that the total portfolio risk is \nminimized:\n51\nAnswer:\n Let (w,\n \n1–w ) be the weights for (B, C), then\nFirst-order condition: \nThe minimum variance portfolio is:\nwB\n \n=17.1%  ;   wC\n \n=82.9% \n( ) ( )( )( )( )[ ]30 . 0 45 . 0 45 . 0 1 2 30 . 0 1 45 . 0 min arg2222 w www\nw\n− + ⋅ − + ⋅\n0.171\n0 06075 . 0 4 06075 . 0 2 30 . 0 2 30 . 0 2 45 . 0 2\n*\n222\n=\n= ⋅ − ⋅ + ⋅ + ⋅ − ⋅\nw\nwww"
+    },
+    {
+      "page": 51,
+      "text": "Q10 Q10 – –\n Options Options\ny You are asked to price options on KYC stock. KYC's\nstock price can go up by 15 percent every year, or \ndown by 10 percent. Both outcomes are equally likely. \nKYC does not pay dividend. The risk free rate is 5% \n(EAR), and the current stock price of KYC is $100.\na)   Price a European put option on KYC with maturity of \n2 years and a strike price of 100\nAdvice:\ny Be aware the given probabilities of going up or down(in\nthis case equal probabilities) are irrelevant\ny Solve by whatever method is easier for you – e.g. risk-\nneutral probability or the direct replication approach.\ny If you solve with the binomial model (like we will), draw \nthe tree! 52"
+    },
+    {
+      "page": 52,
+      "text": "Q10 Q10 – –\n Options Options\na)   Price a European put option on KYC with maturity of \n2 years and a strike price of 100\n53\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nK=$100"
+    },
+    {
+      "page": 53,
+      "text": "Q10 Q10 – –\n Options Options\na)   Price a European put option on KYC with maturity of \n2 years and a strike price of 100\n54\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nI\nII\nI 132.25a + 1.05b = 0\n103.50a + 1.05b = 0 II 103.50a + 1.05b = 0\n81.00a + 1.05b = 19\na = 0\nb = 0\nPu\n \n=115a + b = 0 a = -0.84\nb = 83.2\nPd\n \n=90a + b = 7.2 \nK=$100"
+    },
+    {
+      "page": 54,
+      "text": "Q10 Q10 – –\n Options Options\na)   Price a European put option on KYC with maturity of \n2 years and a strike price of 100\n55\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nIII\nIII 115a + 1.05b = 0\n90a + 1.05b = 7.2\na = -0.29\nb = 31.76 Pd\n \n=100a + b = $2.76\nPu\n \n=$0\nPd\n \n=$7.2\nAnswer: The \noption is worth \n$2.76\nK=$100"
+    },
+    {
+      "page": 55,
+      "text": "Q10 Q10 – –\n Options Options\nb)  Price an American\n \nput option on KYC with the same \ncharacteristics. Is the price different?\n56\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nNote:  For every nodes before t=2 we will question \nwhether it is better to keep the option or to exercise it\nt=1\nt=2\nt=0\nK=$100"
+    },
+    {
+      "page": 56,
+      "text": "Q10 Q10 – –\n Options Options\nb)  Price an American\n \nput option on KYC with the same \ncharacteristics. Is the price different?\n57\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nI\nII\nI 132.25a + 1.05b = 0\n103.50a + 1.05b = 0 II 103.50a + 1.05b = 0\n81.00a + 1.05b = 19\na = 0\nb = 0\nPu\n \n=115a + b = 0\nIf we exercise, also 0 \na = -0.84\nb = 83.2\nPd\n \n=90a + b = 7.2, but now if we \nexercise =10 > 7.2 → Pd\n \n=$10\nK=$100"
+    },
+    {
+      "page": 57,
+      "text": "Q10 Q10 – –\n Options Options\nb)\n \nPrice an American\n \nput option on KYC with the same \ncharacteristics. Is the price different?\n58\nS0\n \n=$100\nSu\n \n=$115\nSd\n \n=$90\nSuu\n \n=$132.25\nSud\n \n=$103.50\nSdu\n \n=$103.50\nSdd\n \n=$81.00\nPayoff\nPuu\n \n=$0\nPud\n \n=$0\nPdu\n \n=$0\nPdd\n \n=$19.00\nIII\nIII 115a + 1.05b = 0\n90a + 1.05b = 10\na = -0.40\nb = 43.80\nPd\n \n=100a + b = $3.80,\nbetter than exercise it for $0\nPu\n \n=$0\nPd\n \n=$10\nAnswer: The option is now worth \n$3.80… Because if it gets to Sd\n \nwe \nwould exercise it for $10\nK=$100"
+    },
+    {
+      "page": 58,
+      "text": "Q10 Q10 – –\n Options Options\nc) Given the price of the put option that you calculated in \na), specify the ranges of KYC share price at the option's \nmaturity date for which you will be making a net profit\n59\nAdvice:\ny Remember to mention the time value of money\nAnswer:\ny At t=2, the option will be in the money for any price \nof S between $0 and $100 (European Put, K=$100)\ny However, in t=0 we paid $2.76. Therefore, we \nwould be making profits between $0 and $97.24 \n(100-2.76)\ny … But the initial $2.76 after two years are worth: \n2.76*(1.05)\n2\n=$3.04\ny Answer: We will make a net profit in [$0  "
+    },
+    {
+      "page": 59,
+      "text": "Q10 Q10 – –\n Options Options\nd) Suppose you expect the price of KYC stock to have \nlittle variance in the future. How would you design a \nstrategy (using options) to take advantage of this?\n60\nAnswer:\ny You think that the price of the asset will not change \nsignificantly from the expected value…\ny … Therefore, use a “butterfly” spread:\nK1\n \nK2 K3"
+    },
+    {
+      "page": 60,
+      "text": "THANK YOU & GOOD LUCK!!!\n61"
+    },
+    {
+      "page": 61,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I\nFall 2008 \n \n \n \nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

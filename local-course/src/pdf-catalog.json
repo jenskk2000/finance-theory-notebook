@@ -1,0 +1,345 @@
+[
+  {
+    "title": "01 · Introduction and Course Overview — lecture slides",
+    "filename": "6445d784e4bacb5a5b0fee96716bc084_MIT15_401F08_lec01.pdf",
+    "pages": 21,
+    "bytes": 94837,
+    "order": 100
+  },
+  {
+    "title": "Lecture 01 · Introduction and Course Overview — transcript",
+    "filename": "1f3e2eda73b05e41fafc9e601a4eded2_HdHlfiOAJyE.pdf",
+    "pages": 24,
+    "bytes": 96301,
+    "order": 120
+  },
+  {
+    "title": "02 · Present Value Relations — lecture slides",
+    "filename": "73c95059e657c8a7acb042ea33a21940_MIT15_401F08_lec02.pdf",
+    "pages": 37,
+    "bytes": 274300,
+    "order": 200
+  },
+  {
+    "title": "Lecture 02 · Part I of Present Value Relations — transcript",
+    "filename": "87d93050e530729b2547e49ba0b447ec_U03Md5enU-0.pdf",
+    "pages": 28,
+    "bytes": 107245,
+    "order": 220
+  },
+  {
+    "title": "Lecture 03 · Part II of Present Value Relations — transcript",
+    "filename": "de7f1d1d2270f2ee711cdf835efc8f30_4F1J5Q3DiaI.pdf",
+    "pages": 29,
+    "bytes": 106192,
+    "order": 221
+  },
+  {
+    "title": "02 · Present Value Relations — recitation",
+    "filename": "7fd4ce059d9bd0086fc9b50e3cd99540_MIT15_401F08_rec01.pdf",
+    "pages": 18,
+    "bytes": 134635,
+    "order": 260
+  },
+  {
+    "title": "03 · Fixed-Income Securities — lecture slides",
+    "filename": "df418b972d36cd53ae5c375b8af61e53_MIT15_401F08_lec04.pdf",
+    "pages": 66,
+    "bytes": 1758978,
+    "order": 300
+  },
+  {
+    "title": "Lecture 04 · Part I of Fixed-Income Securities — transcript",
+    "filename": "35d8ec3b356147262ea791018250d376_hyc8h5T76BE.pdf",
+    "pages": 26,
+    "bytes": 99943,
+    "order": 320
+  },
+  {
+    "title": "Lecture 05 · Part II of Fixed-Income Securities — transcript",
+    "filename": "e17ef3bb5e4013a999c4d9a13779b91c_yrmqYNvvIzs.pdf",
+    "pages": 30,
+    "bytes": 109891,
+    "order": 321
+  },
+  {
+    "title": "Lecture 06 · Part III of Fixed-Income Securities — transcript",
+    "filename": "dc128a5420bd20c0a7fef5679e048025_AtT59jxU9es.pdf",
+    "pages": 31,
+    "bytes": 113550,
+    "order": 322
+  },
+  {
+    "title": "Lecture 07 · Part IV of Fixed-Income Securities — transcript",
+    "filename": "d0b94fa66ab404e96edf2eca03b9d94e_ZWKnK9LIETA.pdf",
+    "pages": 25,
+    "bytes": 103341,
+    "order": 323
+  },
+  {
+    "title": "03 · Fixed-Income Securities — recitation",
+    "filename": "7437599950b0d45bfa3a4c4a3af00a3f_MIT15_401F08_rec02.pdf",
+    "pages": 29,
+    "bytes": 215749,
+    "order": 360
+  },
+  {
+    "title": "04 · Equities — lecture slides",
+    "filename": "1aea40b063cad5a335e980ecf30d84b7_MIT15_401F08_lec07.pdf",
+    "pages": 24,
+    "bytes": 255815,
+    "order": 400
+  },
+  {
+    "title": "Lecture 08 · Equities — transcript",
+    "filename": "1a73fa3aa648112abeaf33cbfadc0bff_cny-1yDbQno.pdf",
+    "pages": 28,
+    "bytes": 106669,
+    "order": 420
+  },
+  {
+    "title": "04 · Equities — recitation",
+    "filename": "1c18f475f4a9236d92521c0e6606f27b_MIT15_401F08_rec03.pdf",
+    "pages": 15,
+    "bytes": 130477,
+    "order": 460
+  },
+  {
+    "title": "05 · Forward and Futures Contracts — lecture slides",
+    "filename": "a66f697aaeb23b8cfd2bda020172feb5_MIT15_401F08_lec08.pdf",
+    "pages": 33,
+    "bytes": 183937,
+    "order": 500
+  },
+  {
+    "title": "Lecture 09 · Part I of Forward and Futures Contracts — transcript",
+    "filename": "bfb2918cabc110ae7dd1eaff2e744d0f_i_pLF9J3QPE.pdf",
+    "pages": 31,
+    "bytes": 113935,
+    "order": 520
+  },
+  {
+    "title": "05 · Forward and Futures Contracts — recitation",
+    "filename": "a82f353a447437317e3762d51d572558_MIT15_401F08_rec04.pdf",
+    "pages": 17,
+    "bytes": 148966,
+    "order": 560
+  },
+  {
+    "title": "06 · Options — lecture slides",
+    "filename": "c40ecc0cc0dce0fbf2d229bc4027c43b_MIT15_401F08_lec10.pdf",
+    "pages": 31,
+    "bytes": 209144,
+    "order": 600
+  },
+  {
+    "title": "Lecture 10 · Part I of Options — transcript",
+    "filename": "2739ca9dd59a204746774363b95a52c9_IwA7nVEwqto.pdf",
+    "pages": 25,
+    "bytes": 98517,
+    "order": 620
+  },
+  {
+    "title": "Lecture 11 · Part II of Options — transcript",
+    "filename": "ba43434c51ed1fa26f43bc8231360abe_rMsu4v-UlkA.pdf",
+    "pages": 23,
+    "bytes": 90224,
+    "order": 621
+  },
+  {
+    "title": "06 · Options — recitation",
+    "filename": "d0734e7fec7b333f1255a6dc3dff389c_MIT15_401F08_rec05.pdf",
+    "pages": 16,
+    "bytes": 628766,
+    "order": 660
+  },
+  {
+    "title": "07 · Risk and Return — lecture slides",
+    "filename": "637f2121ff813c0385c42c8f7d376761_MIT15_401F08_lec12.pdf",
+    "pages": 36,
+    "bytes": 440087,
+    "order": 700
+  },
+  {
+    "title": "Lecture 12 · Part I of Risk and Return — transcript",
+    "filename": "06195cdf1d59387308c2f44ac2f5e1d6_Q2qjnLO3I_M.pdf",
+    "pages": 25,
+    "bytes": 92040,
+    "order": 720
+  },
+  {
+    "title": "08 · Portfolio Theory — lecture slides",
+    "filename": "dd628e151309a7f23962b1a31b9356e5_MIT15_401F08_lec13.pdf",
+    "pages": 47,
+    "bytes": 339896,
+    "order": 800
+  },
+  {
+    "title": "Lecture 13 · Part I of Portfolio Theory — transcript",
+    "filename": "6252f95389f4b0483e848073d77ca9a5_tL7Lcl90Sc0.pdf",
+    "pages": 28,
+    "bytes": 106200,
+    "order": 820
+  },
+  {
+    "title": "Lecture 14 · Part II of Portfolio Theory — transcript",
+    "filename": "f95019026e63fb4820f7de9f49a35d8f_J7d3vcaS9-o.pdf",
+    "pages": 28,
+    "bytes": 107642,
+    "order": 821
+  },
+  {
+    "title": "08 · Portfolio Theory — recitation",
+    "filename": "afd942e9eab1c6e9e2da35d37a978523_MIT15_401F08_rec06.pdf",
+    "pages": 33,
+    "bytes": 2146485,
+    "order": 860
+  },
+  {
+    "title": "09 · The CAPM and APT — lecture slides",
+    "filename": "411d7d9df37d4d0440b18e17e8cea3a9_MIT15_401F08_lec15.pdf",
+    "pages": 29,
+    "bytes": 339652,
+    "order": 900
+  },
+  {
+    "title": "Lecture 15 · Part I of The CAPM and APT — transcript",
+    "filename": "c0078b265599aa8d07cecaf6767637a1_z2oQe6B1Qa4.pdf",
+    "pages": 30,
+    "bytes": 112215,
+    "order": 920
+  },
+  {
+    "title": "Lecture 16 · Part II of The CAPM and APT — transcript",
+    "filename": "f97d96e433c1aaf054a31981536a084d_N8gtnbJuMoo.pdf",
+    "pages": 30,
+    "bytes": 106866,
+    "order": 921
+  },
+  {
+    "title": "09 · The CAPM and APT — recitation",
+    "filename": "ecfe2e9d4bba810207c1fefcb216a852_MIT15_401F08_rec07.pdf",
+    "pages": 18,
+    "bytes": 123010,
+    "order": 960
+  },
+  {
+    "title": "10 · Capital Budgeting — lecture slides",
+    "filename": "06b2ce70ad26ae3d3be8d94145495be6_MIT15_401F08_lec18.pdf",
+    "pages": 37,
+    "bytes": 391569,
+    "order": 1000
+  },
+  {
+    "title": "Lecture 17 · Part I of Capital Budgeting — transcript",
+    "filename": "27d78b80970cff3939a71f7db09de86a_JE80wLNIhjE.pdf",
+    "pages": 28,
+    "bytes": 110554,
+    "order": 1020
+  },
+  {
+    "title": "10 · Capital Budgeting — recitation",
+    "filename": "9762eeb6e5ddad7fb5cf78b235ccba35_MIT15_401F08_rec08.pdf",
+    "pages": 17,
+    "bytes": 130878,
+    "order": 1060
+  },
+  {
+    "title": "11 · Efficient Markets — lecture slides",
+    "filename": "ce45c66100cf852cb9ac8ce41f931341_MIT15_401F08_lec21.pdf",
+    "pages": 27,
+    "bytes": 597874,
+    "order": 1100
+  },
+  {
+    "title": "Lecture 18 · Part I of Efficient Markets — transcript",
+    "filename": "1b98090a3000e627f1befbe2082ea9da_sMKQywwkIjQ.pdf",
+    "pages": 30,
+    "bytes": 113834,
+    "order": 1120
+  },
+  {
+    "title": "Lecture 19 · Part II of Efficient Markets — transcript",
+    "filename": "4f85df89827bfb83ff41b1b4ecaecbc4_a5PF2PcElV0.pdf",
+    "pages": 30,
+    "bytes": 116753,
+    "order": 1121
+  },
+  {
+    "title": "12 · Course Summary — lecture slides",
+    "filename": "55322b0a932baa9a97c5603eeab0d766_MIT15_401F08_summary.pdf",
+    "pages": 16,
+    "bytes": 302086,
+    "order": 1200
+  },
+  {
+    "title": "Lecture 20 · Course Summary — transcript",
+    "filename": "7acfe89fecc8934c8f77ec097fa19a62_P03PfYgNjmw.pdf",
+    "pages": 20,
+    "bytes": 81401,
+    "order": 1220
+  },
+  {
+    "title": "Instructor interview · Andrew W. Lo on Finance, AI, and Human Behavior — transcript",
+    "filename": "8kFFg5jAoQc_transcript.pdf",
+    "pages": 12,
+    "bytes": 74699,
+    "order": 1300
+  },
+  {
+    "title": "Course Outline by Topic",
+    "filename": "fc2d55329f1bf7e5af23b4724ee594c2_MIT15_401F08_courseOutline.pdf",
+    "pages": 3,
+    "bytes": 81984,
+    "order": 9000
+  },
+  {
+    "title": "Final Exam",
+    "filename": "f8870d5f537f04e75e7ecc243416e02a_MIT15_401F08_final.pdf",
+    "pages": 29,
+    "bytes": 140492,
+    "order": 9000
+  },
+  {
+    "title": "Final Exam: Review Slides",
+    "filename": "d28223e0ac8822df9538f33b1542881e_MIT15_401F08_review_fin.pdf",
+    "pages": 61,
+    "bytes": 985591,
+    "order": 9000
+  },
+  {
+    "title": "Final Exam: Sample Solutions",
+    "filename": "984300de6e683683f0924ff450cc51ee_MIT15_401F08_final_sol.pdf",
+    "pages": 2,
+    "bytes": 72507,
+    "order": 9000
+  },
+  {
+    "title": "Midterm Exam",
+    "filename": "d06836b650ba4d4b3e8e1d6e2ed0b43f_MIT15_401F08_midterm.pdf",
+    "pages": 19,
+    "bytes": 90468,
+    "order": 9000
+  },
+  {
+    "title": "Midterm Exam: Review Slides",
+    "filename": "ebd2475a5012fed087965c776cef84d0_MIT15_401F08_review_mid.pdf",
+    "pages": 38,
+    "bytes": 578234,
+    "order": 9000
+  },
+  {
+    "title": "Midterm Exam: Solutions",
+    "filename": "0c0d8c56431c697295bea540e555336b_MIT15_401F08_midterm_sol.pdf",
+    "pages": 3,
+    "bytes": 98617,
+    "order": 9000
+  },
+  {
+    "title": "Problem Sets 1–3",
+    "filename": "36b761fc18615eeee3419cd2407dadc4_MIT15_401F08_Problem_Sets.pdf",
+    "pages": 73,
+    "bytes": 365953,
+    "order": 9000
+  }
+]

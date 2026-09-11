@@ -1,0 +1,45 @@
+{
+  "name": "session-10",
+  "session": 10,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses10_300k.mp4",
+  "path": "/media/session-10.mp4",
+  "youtube_id": "IwA7nVEwqto",
+  "segments": [
+    {
+      "title": "Part I of Options",
+      "start": "3768",
+      "end": "4789",
+      "transcript": "static_resources/76b0b882c6854e2cfbb392bf2e94dead_IwA7nVEwqto.pdf",
+      "captions": "static_resources/1fdd7c8168a55f109dfff4bf3c0cd474_IwA7nVEwqto.vtt"
+    },
+    {
+      "title": "Part II of Forward and Futures Contracts",
+      "start": "0",
+      "end": "3768",
+      "transcript": "static_resources/2739ca9dd59a204746774363b95a52c9_IwA7nVEwqto.pdf",
+      "captions": "static_resources/82398350800f5870b51f9d109c4da8f5_IwA7nVEwqto.vtt"
+    }
+  ],
+  "bytes": 185334314,
+  "sha256": "b828689a84c69a054a3b6cb35bd4c71070083d13d49cb2e817fd1525efac33ee",
+  "duration_seconds": 4790.62,
+  "caption_end_seconds": 4790.62,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2395.31,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4785.62,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

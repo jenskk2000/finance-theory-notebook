@@ -1,0 +1,45 @@
+{
+  "name": "session-15",
+  "session": 15,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses15_300k.mp4",
+  "path": "/media/session-15.mp4",
+  "youtube_id": "z2oQe6B1Qa4",
+  "segments": [
+    {
+      "title": "Part I of The CAPM and APT",
+      "start": "3124",
+      "end": "4713",
+      "transcript": "static_resources/c0078b265599aa8d07cecaf6767637a1_z2oQe6B1Qa4.pdf",
+      "captions": "static_resources/838951f4b5b953e28ce0380288fdab02_z2oQe6B1Qa4.vtt"
+    },
+    {
+      "title": "Part III of Portfolio Theory",
+      "start": "0",
+      "end": "3124",
+      "transcript": "static_resources/df517299aa983b5f2ec0a1e3a47007e8_z2oQe6B1Qa4.pdf",
+      "captions": "static_resources/19e37a00451e57359edc8b4e3ec8894c_z2oQe6B1Qa4.vtt"
+    }
+  ],
+  "bytes": 180052658,
+  "sha256": "c1c0c76ca3ba61dccc0294292fabfab9150cb27aebcef2181e9db8fc31b8cbe3",
+  "duration_seconds": 4714.01,
+  "caption_end_seconds": 4714.01,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2357.01,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4709.01,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

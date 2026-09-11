@@ -1,0 +1,38 @@
+{
+  "name": "session-06",
+  "session": 6,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses06_300k.mp4",
+  "path": "/media/session-06.mp4",
+  "youtube_id": "AtT59jxU9es",
+  "segments": [
+    {
+      "title": "Part III of Fixed-Income Securities",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/dc128a5420bd20c0a7fef5679e048025_AtT59jxU9es.pdf",
+      "captions": "static_resources/61d92f4dd32d59dd99786632cee4d06c_AtT59jxU9es.vtt"
+    }
+  ],
+  "bytes": 185409696,
+  "sha256": "0d1234c7e39ad9ec5d7c1d93e4fc400c79d3075f59570ac34e18189e10973e0c",
+  "duration_seconds": 4793.92,
+  "caption_end_seconds": 4789.98,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 2396.96,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 4788.92,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

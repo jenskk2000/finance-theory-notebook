@@ -1,0 +1,45 @@
+{
+  "name": "session-20",
+  "session": 20,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses20_300k.mp4",
+  "path": "/media/session-20.mp4",
+  "youtube_id": "P03PfYgNjmw",
+  "segments": [
+    {
+      "title": "Course Summary",
+      "start": "2502",
+      "end": "3264",
+      "transcript": "static_resources/96e6c52361da43630f9f2e7c52e4a7c1_P03PfYgNjmw.pdf",
+      "captions": "static_resources/5d866e49156c5922b1df5dccbcd99188_P03PfYgNjmw.vtt"
+    },
+    {
+      "title": "Part III of Efficient Markets",
+      "start": "0",
+      "end": "2499",
+      "transcript": "static_resources/7acfe89fecc8934c8f77ec097fa19a62_P03PfYgNjmw.pdf",
+      "captions": "static_resources/f408c5aba7a155048a6ff1e26161d7c5_P03PfYgNjmw.vtt"
+    }
+  ],
+  "bytes": 126017158,
+  "sha256": "fb0fce8e2c3152f2bd4749b023e9e68d3f46b578a37f86f8188fdda701c36f88",
+  "duration_seconds": 3264.51,
+  "caption_end_seconds": 3260.27,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 1632.26,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 3259.51,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

@@ -1,0 +1,14 @@
+{
+  "content": "<p>The following is a list of topics covered in the course. Each topic links to a page containing the relevant video lectures and accompanying slides.</p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/introduction-and-course-overview/\">Introduction and Course Overview</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/present-value-relations/\">Present Value (PV) Relations</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/fixed-income-securities/\">Fixed-Income Securities</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/equities/\">Equities</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/forward-and-futures-contracts/\">Forward and Futures Contracts</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/options/\">Options</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/risk-and-return/\">Risk and Return</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/portfolio-theory/\">Portfolio Theory</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/the-capm-and-apt/\">The CAPM and APT</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/capital-budgeting/\">Capital Budgeting</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/efficient-markets/\">Efficient Markets</a></p>\n<p><a href=\"/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/course-summary/\">Course Summary</a></p>\n",
+  "content_type": "page",
+  "description": "This section provides a list of topics covered in the course. Each topic links to a page containing the relevant video lectures and accompanying slides.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Video Lectures and Slides",
+  "uid": "cc3f05d9-f4e4-4ed3-db60-b79712de51f4"
+}

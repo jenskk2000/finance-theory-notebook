@@ -1,0 +1,102 @@
+{
+  "source": "static_resources/1aea40b063cad5a335e980ecf30d84b7_MIT15_401F08_lec07.pdf",
+  "sha256": "9eb7e4c30ff8a42220d947554d0021fad446fea9c270fd2cca00f82039bba106",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLecture 7: EquitiesLecture 7: Equities\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Industry Overview\n The Dividend Discount Model\n DDM with Multiple-Stage Growth\n EPS and P/E\n Growth Opportunities and Growth Stocks\nReading\n Brealey, Myers and Allen, Chapter 4"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 3\nIndustry OverviewIndustry Overview\nWhat Is Common Stock?\n Equity, an ownership position, in a corporation\n Payouts to common stock are dividends, in two forms:\n– Cash dividends\n– Stock dividends\n Unlike bonds, payouts are uncertain in both magnitude and timing\n Equity can be sold (private vs. public equity)\nKey Characteristics of Common Stock:\n Residual claimant to corporate assets (after bondholders)\n Limited liability\n Voting rights\n Access to public markets and ease of shortsales"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 4\nIndustry OverviewIndustry Overview\nThe Primary Market (Underwriting)\n Venture capital: A company issues shares to special investment \npartnerships, investment institutions, and wealthy individuals\n Initial public offering (IPO): A company issues shares to the general \npublic for the first time (i.e., going public)\n Secondary or seasoned equity offerings (SEO): A public company \nissues additional shares\n Stock issuance to the general public is usually organized by an \ninvestment bank who acts as an underwriter: it buys part or all of the \nissue and resells it to the public\nSecondary Market (Resale Market)\n Organized exchanges: NYSE, AMEX, NASDAQ, etc.\n Specialists, broker/dealers, and electronic market-making (ECNs)\n OTC: NASDAQ"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 5\nIndustry OverviewIndustry Overview\n$ Billions\n90\n75\n60\n45\n30\n15\n5\n16\n24\n41\n28 30\n50\n43\n37\n64\n76\n36\n26\n16\n48\n0\n'90 '91 '92 '93 '94 '95 '96 '97 '98 '99 '00 '01 '02 '03 '04\nInitial Public Offerings* Rebound In 2004\nSource: Thomson Financial\n*Excludes Closed-End Funds\n312\n587\n856\n1063\n716 722\n979\n1317\n1868 1960 1851\n2535 2581\n2890 2859\n3500\n3000\n2500\n2000\n1500\n1000\n500\n0\n'90 '91 '92 '93 '94 '95 '96 '97 '98 '99 '00 '01 '02 '03 '04\n$ Billions\nIndustry Underwrites Nearly $3 Trillion in United\n               States for Second-Straight Year\nSource: Thomson Financial\n1800\n1500\n1200\n900\n600\n300\n0\n'92 '93 '94 '95 '96 '97 '98 '99 '00 '01 '02 '03 '04\n$ Billions\nSource: Thomson Financial\n162\n112 167\n269\n383\n592\n718\n1314 1314\n1768\n1160\n558\n451\n749\n279\n376\n613\n731\n1031\n1735\n1563\n1741\n771\n440\n528\n834\nU.S. M&A Cycle Turns Up\nAnnounced\nCompleted\nImages by MIT OpenCourseWare."
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 6\nIndustry OverviewIndustry Overview\nImages by MIT OpenCourseWare.\n157 179 202\n265 291\n346 412\n527\n674\n809\n1042\n6,236\n5,000\n1,908\n2,426 2,540\n2,739\n2,653\n3,384\n4,148\n5,405\n6,300\n6,9466,876 6,440\n1457\n7,250\n1398\n1240\n1441\n'90 '91 '92 '93 '94 '95 '96 '97 '98 '99 '00 '01 '02 '03 '04\n1600\n1400\n1200\n1000\n800\n600\n400\n200\n0\n8,000\n7,000\n6,000\n5,000\n4,000\n3,000\n2,000\n1,000\n0\nAverage Daily V olume in Millions\n                   of Shares\nNYSE Composite\nNYSE V olume NYSE Composite\nNYSE Daily Share V olume vs.\n     NYSE Composite Index\n132 163 191 268 295\n401\n544\n648\n802\n1082\n1757\n1900\n1753 1801\n1686\n374 586 677 777 752\n1,052\n1,291\n1,570\n2,193\n4,069\n2,471\n1,950\n1,336\n2,175\n2,003\n4,500\n4,000\n3,500\n3,000\n2,500\n2,000\n1,500\n1,000\n500\n0\n2000\n1800\n1600\n1400\n1200\n1000\n800\n600\n400\n200\n0\n'90 '91 '92 '93 '94 '95 '96 '97 '98 '99 '00 '01 '02 '03 '04\nAverage Daily Volume in Millions \nof Shares\nNASDAQ Composite\nNASDAQ Daily Share Volume vs.\n NASDAQ Composite Index \nNASDAQ Volume NASDAQ Composite"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 7\nThe Dividend Discount ModelThe Dividend Discount Model\nMost Basic Valuation Model for Common Stock\n Applies PV formulas to common-stock payouts\n Two inputs: expected future dividends, discount rate\n Notation:\n– Pt: Price of stock at t (ex-dividend)\n– Dt: Cash dividend at t\n–E t [  ]: Expectation operator (forecast) at t\n– rt: Risk-adjusted discount rate for cashflow at t\n"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 8\nThe Dividend Discount ModelThe Dividend Discount Model\nMost Basic Valuation Model for Common Stock\nTwo additional simplifying assumptions:\nIn this case, we have the first version of the dividend discount model \nor the discounted cashflow (DCF) model\nSuppose dividends grow at rate g over time (Gordon growth model):\n"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 9\nThe Dividend Discount ModelThe Dividend Discount Model\nMost Basic Valuation Model for Common Stock\nThis provides a convenient expression for the discount rate:\n"
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 10\nThe Dividend Discount ModelThe Dividend Discount Model\nExample:\nDividends are expected to grow at 6% per year and the current dividend \nis $1 per share. The expected rate of return is 20%. What should the \ncurrent stock price be?\n Note: DDM with constant growth gives a relation between current \nstock price, current dividend, dividend growth rate and the expected \nreturn. Knowing three of the variables determines the fourth.\n"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 11\nThe Dividend Discount ModelThe Dividend Discount Model\nExample:\nDetermine the cost of capital of Duke Power. In 09/92, the dividend yield \nfor Duke Power was D0/P0 = 0.052. Estimates of long-run growth:\n The cost of capital is given by\nThus,\n"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 12\nDDM with MultipleDDM with Multiple--Stage GrowthStage Growth\nFirms May Have Multiple Stages of Growth\n Growth Stage: rapidly expanding sales, high profit margins, and \nabnormally high growth in earnings per share, many new investment \nopportunities, low dividend payout ratio\n Transition Stage: growth rate and profit margin reduced by \ncompetition, fewer new investment opportunities, high payout ratio\n Mature Stage: earnings growth, payout ratio and average return on \nequity stabilizes for the remaining life of the firm\nExample:\nA company with D0 = $1 and r = 20% grows at 6% for the first 7 years \nand then drops to zero thereafter.  What should its current price be?\n"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 13\nEPS and P/EEPS and P/E\nDividend Forecasts Involve Many Practical Challenges\n Terminology:\n– Earnings: total profit net of depreciation and taxes\n– Payout Ratio p: dividend/earnings = DPS/EPS\n– Retained Earnings: (earnings - dividends)\n– Plowback Ratio b: retained earnings/total earnings\n– Book Value BV: cumulative retained earnings\n– Return on Book Equity ROE: earnings/BV\n Using these concepts, different valuation formulas may be derived\n Note: these are mostly based on accounting data, not market values"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 14\nEPS and P/EEPS and P/E\nExample:\n(Myers) Texas Western (TW) is expected to earn $1.00 next year. Book \nvalue per share is $10.00 now. TW plans an investment program \nwhich will increase net book assets by 8% per year. Earnings are\nexpected to grow proportionally. The investment is financed by \nretained earnings. The discount rate is 10%, which is assumed to be \nthe same as the rate of return on new investments. Price TW's share \nprice if\n– TW expands at 8% forever\n– TW's expansion slows down to 4% after year 5\n Observe that\n– Plowback Ratio b = (10)(0.08)/(1) = 0.8\n– Payout Ratio p = (1-0.8)/(1) = 0.2\n– ROE = 10%"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 15\nEPS and P/EEPS and P/E\nExample (cont):\n Continuing Expansion Case:\n"
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 16\nEPS and P/EEPS and P/E\nExample (cont):\n 2-Stage Expansion Case. Forecast EPS, D, BVPS by year:\nQuestion: Why are the values the same under both scenarios?\n"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 17\nGrowth Opportunities and Growth StocksGrowth Opportunities and Growth Stocks\nWhat Are Growth Stocks?\n Stocks of companies that have access to growth opportunities are\nconsidered growth stocks\n Growth opportunities are investment opportunities that earn \nexpected returns higher than the required rate of return on capital\n Example:  IBM in the 60's and 70's.\n Note:  The following may not be growth stocks\n– A stock with growing EPS\n– A stock with growing dividends\n– A stock with growing assets\n Note: The following may be growth stocks\n– A stock with EPS growing slower than required rate of return\n– A stock with DPS growing slower than required rate of return"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 18\nGrowth Opportunities and Growth StocksGrowth Opportunities and Growth Stocks\nExample:\nABC Software has: Expected EPS next year of $8.33;  Payout ratio of \n0.6;  ROE of 25%; and, cost of capital of r=15%\n Following a no-growth strategy (g=0,p=1), its value is\n Following a growth strategy, its price is\n Difference of $100 - $55.56 = $44.44 comes from growth \nopportunities, which offers a return of 25%, higher than the required \nrate of return 15%\n"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 19\nGrowth Opportunities and Growth StocksGrowth Opportunities and Growth Stocks\nExample (cont):\n At t = 1: ABC can invest (0.4)(8.33)=$3.33 at a permanent 25% rate of \nreturn. This investment generates a cash flow of (0.25)(3.33) = $0.83 \nper year starting at the t=2.  Its NPV at t=1 is\n At  t = 2: Everything is the same except that ABC will invest $3.67, \n10% more than at t = 1 (the growth is 10%). The investment is made \nwith NPV being\n The total present value of growth opportunities (PVGO) is\n This makes up the difference in value between growth and no-growth\n"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 20\nGrowth Opportunities and Growth StocksGrowth Opportunities and Growth Stocks\nStock Price Can Be Decomposed Into Two Components\n1. Present value of earnings under a no-growth policy\n2. Present value of growth opportunities\n Terminology*:\n– Earnings yield: E/P = EPS1/P0\n– P/E ratio: P/E = P0/EPS1\n*Note: In newspapers, P/E ratios are often computed with the most recent earnings, but investors \nare more concerned with price relative to future earnings.\n"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 21\nGrowth Opportunities and Growth StocksGrowth Opportunities and Growth Stocks\n If PVGO = 0, P/E ratio equals inverse of cost of capital\n If PVGO > 0, P/E ratio becomes higher:\n PVGO is positive only if the firm earns more than its cost of capital\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 22\nKey PointsKey Points\nThe Dividend Discount Model\nThe Gordon Growth Model\nDiscount rate, cost of capital, required rate of return\nEstimating discount rates with D/P and g\nEPS, P/E, and PVGO\nDefinitions of growth stocks and growth opportunities"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 7: Equities\n15.401\nSlide 23\nAdditional ReferencesAdditional References\nHarris, L., 2002, Trading and Exchanges: Market Microstructure for Practitioners.  New York: Oxford \nUniversity Press.\nLefevre, E., 2006, Reminiscences of a Stock Operator.  New York: John Wiley & Sons.\nMalkiel, B., 1996, A Random Walk Down Wall Street: Including a Life-Cycle Guide to Personal \nInvesting.  New York: W.W. Norton."
+    },
+    {
+      "page": 24,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

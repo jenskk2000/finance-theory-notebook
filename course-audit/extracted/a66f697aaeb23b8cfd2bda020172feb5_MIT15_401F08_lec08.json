@@ -1,0 +1,138 @@
+{
+  "source": "static_resources/a66f697aaeb23b8cfd2bda020172feb5_MIT15_401F08_lec08.pdf",
+  "sha256": "af516e9151c77b9b6dbb1f437736d100591e58220b8847846436e66e3b821d0b",
+  "pages": [
+    {
+      "page": 1,
+      "text": "15.401\n15.401 Finance Theory15.401 Finance Theory\nMIT Sloan MBA Program\nAndrew W. LoAndrew W. Lo\nHarris & Harris Group Professor, MIT Sloan SchoolHarris & Harris Group Professor, MIT Sloan School\nLectures 8Lectures 8––99: Forward and Futures Contracts: Forward and Futures Contracts\n© 2007–2008 by Andrew W. Lo"
+    },
+    {
+      "page": 2,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 2\nCritical ConceptsCritical Concepts\n Motivation\n Forward Contracts\n Futures Contract\n Valuation of Forwards and Futures\n Applications\n Extensions and Qualifications\nReadings:\n Brealey, Myers, and Allen Chapters 27"
+    },
+    {
+      "page": 3,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 3\nMotivationMotivation\n Your company, based in the U.S., supplies machine tools to \ncustomers in Germany and Brazil.  Prices are quoted in each country’s \ncurrency, so fluctuations in the € / $ and R / $ exchange rates have a \nbig impact on the firm’s revenues.  How can the firm reduce (or \n‘hedge’) these risks?\n Your firm is thinking about issuing 10-year convertible bonds.  In the \npast, the firm has issued straight debt with a yield-to-maturity of 8.2%.  \nIf the new bonds are convertible into 20 shares of stocks, per $1,000 \nface value, what interest rate will the firm have to pay on the bonds?\n You have the opportunity to buy a mine with 1 million kgs of copper for \n$400,000.  Copper has a price of $2.2 / kg, mining costs are $2 / kg, \nand you can delay extraction one year.  How valuable is the option to \ndelay?  Is the mine a good deal?"
+    },
+    {
+      "page": 4,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 4\nMotivationMotivation\nExchange Rates, 1995 – 2003 \n0.0\n0.2\n0.4\n0.6\n0.8\n1.0\n1.2\n1.4\n1.6\nJan-95 Jan-96 Jan-97 Jan-98 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03\n0.0\n0.5\n1.0\n1.5\n2.0\n2.5\n3.0\n3.5\n4.0\nEuro / $ (left scale)\nReal / $ (right scale)"
+    },
+    {
+      "page": 5,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 5\nMotivationMotivation\nCaterpillar, 1980 – 1989\n2.0\n3.0\n4.0\n5.0\n6.0\n7.0\n8.0\n9.0\n10.0\n11.0\n12.0\n1980 1981 1982 1983 1984 1985 1986 1987 1988 1989\n40\n50\n60\n70\n80\n90\n100\n110\n120\n130\n140\nSales US $"
+    },
+    {
+      "page": 6,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 6\nMotivationMotivation\nHedging or Speculation?\nAlternative Tools?\n Futures, forwards, options, and swaps\n Insurance\n Diversification\n Match duration of assets and liabilities\n Match sales and expenses across countries (currency risk)\nShould Firms Hedge With Financial Derivatives?\n “Derivatives are extremely efficient tools for risk management”\n “Derivatives are financial weapons of mass destruction”"
+    },
+    {
+      "page": 7,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 7\nMotivationMotivation\nView 1: Hedging is irrelevant (M&M)\n Financial transaction, zero NPV\n Diversified shareholders don’t care about firm-specific risks\nView 2: Hedging creates value\n Ensures cash is available for positive NPV investments\n Reduces need for external finance\n Reduces chance of financial distress\n Improves performance evaluation and compensation\nExamples:\n Homestake Mining\nDoes not hedge because “shareholders will achieve maximum benefit from such a policy.”\n American Barrick\nHedges aggressively to provide “extraordinary financial stability… offering investors a predictable, \nrising earnings profile in the future.”\n Battle Mountain Gold\nHedges up to 25% because “a recent study indicates that there may be a premium for hedging.”"
+    },
+    {
+      "page": 8,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 8\nMotivationMotivation\nEvidence*\n Random sample of 413 large firms\n Average cashflow from operations = $735 million\n Average PP&E = $454 million\n Average net income = $318 million\n57% of Firms Use Derivatives In 1997\n Small derivative programs\n Even with a big move (3σ event), the derivative portfolio pays only \n$15 million and its value goes up by $31 million\n* Guay and Kothari, Journal of Financial Economics, 2003"
+    },
+    {
+      "page": 9,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 9\nMotivationMotivation\nBasic Types of Derivatives\n Forwards and Futures\nA contract to exchange an asset in the future at a specified price and \ntime.\n Options (Lecture 10)\nGives the holder the right to buy (call option) or sell (put option) an \nasset at a specified price.\n Swaps\nAn agreement to exchange a series of cashflows at specified prices \nand times."
+    },
+    {
+      "page": 10,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 10\nForward ContractsForward Contracts\nDefinition:  A forward contract is a commitment to purchase at a future \ndate a given amount of a commodity or an asset at a price agreed on \ntoday.\n The price fixed now for future exchange is the forward price\n The buyer of the underlying is said to be “long” the forward\nFeatures of Forward Contracts\n Customized\n Non-standard and traded over the counter (not on exchanges)\n No money changes hands until maturity\n Non-trivial counterparty risk\n"
+    },
+    {
+      "page": 11,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 11\nForward ContractsForward Contracts\nExample:\n Current price of soybeans is $160/ton\n Tofu manufacturer needs 1,000 tons in 3 months\n Wants to make sure that 1,000 tons will be available\n 3-month forward contract for 1,000 tons of soybeans at $165/ton\n Long side will buy 1,000 tons from short side at $165/ton in 3 months"
+    },
+    {
+      "page": 12,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 12\nFutures ContractsFutures Contracts\nForward Contracts Have Two Limitations:\n Illiquidity\n Counterparty risk\nDefinition:  A futures contract is an exchange-traded, standardized, \nforward-like contract that is marked to market daily. This contract can \nbe used to establish a long (or short) position in the underlying asset.\nFeatures of Futures Contracts\n Standardized contracts:\n– Underlying commodity or asset\n– Quantity\n– Maturity\n Exchange traded\n Guaranteed by the clearing house—no counter-party risk\n Gains/losses settled daily (marked to market)\n Margin required as collateral to cover losses"
+    },
+    {
+      "page": 13,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 13\nFutures ContractFutures Contractss\nExample:\nNYMEX crude oil (light) futures with delivery in Dec. 2007 at a price of \n$75.06 / bbl. on July 27, 2007 with 51,475 contracts traded\n Each contract is for 1,000 barrels\n Tick size: $0.01 per barrel, $10 per contract\n Initial margin: $4,050\n Maintenance margin: $3,000\n No cash changes hands today (contract price is $0) \n Buyer has a “long” position (wins if prices go up)\n Seller has a “short” position (wins if prices go down)"
+    },
+    {
+      "page": 14,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 14\nFutures ContractsFutures Contracts\nPayoff Diagram\n$\n-6\n-4\n-2\n0\n2\n4\n6\n$70 $71 $72 $73 $74 $75 $76 $77 $78 $79 $80\nOil price, Dec07\nLong pos ition (buy) Short pos ition (sell)"
+    },
+    {
+      "page": 15,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 15\nFutures ContractsFutures Contracts\nExample. Yesterday, you bought 10 December live-cattle contracts on the \nCME, at a price of $0.7455/lb\n Contract size 40,000 lb\n Agreed to buy 40,000 pounds of live cattle in December\n Value of position yesterday:\n(0.7455)(10)(40,000)  =  $298,200\n No money changed hands\n Initial margin required (5%−20% of contract value)\nToday, the futures price closes at $0.7435/lb, 0.20 cents lower. The value \nof your position is\n(0.7435)(10)(40,000)  =  $297,400\nwhich yields a loss of $800."
+    },
+    {
+      "page": 16,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 16\nFutures ContractsFutures Contracts\nWhy Is This Contract Superior to a Forward Contract?\n Standardization makes futures liquid\n Margin and marking to market reduce default risk\n Clearing-house guarantee reduces counter-party risk\nHedgers\nFutures \nClearing \nCorp\nSpeculators"
+    },
+    {
+      "page": 17,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 17\nValuation of Forwards and FuturesValuation of Forwards and Futures\nWhat Determines Forward and Futures Prices?\nForward/futures prices ultimately linked to future spot prices\nNotation:\nIgnore differences between forward and futures price for now\nTwo ways to buy the underlying asset for date-T delivery\n1. Buy a forward or futures contract with maturity date T\n2. Buy the underlying asset and store it until T\n"
+    },
+    {
+      "page": 18,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 18\nValuation of Forwards and FuturesValuation of Forwards and Futures\nDate Forward Contract Outright Asset Purchase\n0\nT\nTotal \nCost at T\nPay $0 for contract with \nforward price $F0,T\nBorrow $S0\nPay $S0 for Asset\nPay $F0,T\nOwn asset\nPay back $S0(1+r)T\nPay cumulative storage costs (if any)\nDeduce cumulative “convenience \nyield” (if any)\nOwn asset\n$F0,T $S0(1+r)T  +  net storage costs\n"
+    },
+    {
+      "page": 19,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 19\nValuation of Forwards and FuturesValuation of Forwards and Futures\nDate Forward Contract Outright Asset Purchase\nt\nT\nTotal \nCost at T\nPay $0 for contract with \nforward price $Ft,T\nBorrow $St\nPay $St for Asset\nPay $Ft,T\nOwn asset\nPay back $St(1+r)T-t\nPay cumulative storage costs (if any)\nDeduce cumulative “convenience \nyield” (if any)\nOwn asset\n$Ft,T $S0(1+r)T-t +  net storage costs\n"
+    },
+    {
+      "page": 20,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 20\nValuation of Forwards and FuturesValuation of Forwards and Futures\nWhat Determines Forward/Futures Prices?\nDifference between the two methods:\n– Costs (storage for commodities, not financials)\n– Benefits (convenience for commodities, dividends for financials)\nBy no arbitrage (Principal P1), these two methods must cost the same\nGold\nEasy to store (negligible costs of storage)\nNo dividends or benefits\nTwo ways to buy gold for T\n– Buy now for St and hold until T\n– Buy forward at t, pay Ft,T at T and take delivery at T\nNo-arbitrage requires that\n"
+    },
+    {
+      "page": 21,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 21\nValuation of Forwards and FuturesValuation of Forwards and Futures\nGasoline\nCostly to store (let c be percentage cost per period)\nConvenience yield does exist (let y be percentage yield per period)\nNot for long-term investment (like gold), but for future use\nTwo ways to buy gasoline for T\n– Buy now for St and hold until T\n– Buy forward at t, pay Ft,T at T and take delivery at T\nNo-arbitrage requires that\n"
+    },
+    {
+      "page": 22,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 22\nValuation of Forwards and FuturesValuation of Forwards and Futures\nFinancials\n Let underlying be a financial asset\n– No cost to store (the underlying asset)\n– Dividend or interest on the underlying\n Example: Stock index futures\n– Underlying are bundles of stocks, e.g., S&P, Nikkei, etc.\n– Futures settled in cash (no delivery)\n– Let the annualized dividend yield be d; then:\n"
+    },
+    {
+      "page": 23,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 23\nValuation of Forwards and FuturesValuation of Forwards and Futures\nExample:\nGold quotes on 2001.08.02 are\nSpot price (London fixing) $267.00/oz\nOctober futures (CMX) $269.00/oz\nWhat is the implied interest rate?\nF = S0(1 + rf )2/12\nrf =( F/S0)6 − 1=4 .58%"
+    },
+    {
+      "page": 24,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 24\nValuation of Forwards and FuturesValuation of Forwards and Futures\nExample:\nGasoline quotes on 2001.08.02: \nSpot price is 0.7760\nFeb 02 futures price is 0.7330\n6-month interest rate is 3.40%\nWhat is the annualized net convenience yield (net of storage costs)?\n0.7330 = (0.7760)(1 + 0.0340 − y)6/12\ny =1 .0340 −\nµ0.7330\n0.7760\n¶2\n=1 4.18%"
+    },
+    {
+      "page": 25,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 25\nValuation of Forwards and FuturesValuation of Forwards and Futures\nExample:\nThe S&P 500 closed at 1,220.75 on 2001.08.02\n The S&P futures maturing in December closed at 1,233.50\n Suppose the T-bill rate is 3.50%\n What is the implied annual dividend yield?\n"
+    },
+    {
+      "page": 26,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 26\nApplicationsApplications\nIndex Futures Have Many Advantages\nSince underlying asset is a portfolio, trading in the futures market is \neasier than trading in cash market\nFutures prices may react quicker to macroeconomic news than the \nindex itself\nIndex futures are very useful for:\n– Hedging market risk in block purchases and underwriting\n– Creating synthetic index fund\n– Portfolio insurance"
+    },
+    {
+      "page": 27,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 27\nApplicationsApplications\nExample:\nYou have $1 million to invest in the stock market and you have decided to \ninvest in the S&P 500. How should you do this?\nOne way is to buy the S&P 500 in the cash market:\n– Buy the 500 stocks, weights proportional to their market caps\nAnother way is to buy S&P futures:\n– Put the money in your margin account\n– Assuming the S&P 500 is at 1,000 now, number of contract to buy:\n(value of a futures contract is $250 times the S&P 500 index)\n"
+    },
+    {
+      "page": 28,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 28\nApplicationsApplications\nExample (cont):\nAs the S&P index fluctuates, the future value of your portfolio (in $MM) \nis given by the following table (ignoring interest payments and \ndividends):\nSuppose you a diversified portfolio of large-cap stocks worth $5MM \nand are now worried about equity markets and would like to reduce \nyour exposure by 25%—how could you use S&P 500 futures to \nimplement this hedge?\n– (Short)sell 5 S&P 500 futures contracts (why 5?)\n"
+    },
+    {
+      "page": 29,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 29\nApplicationsApplications\nExample (cont):\nCompare hedged and unhedged portfolio (in $MM):\nFluctuations have been reduced\nAs if 25% of the portfolio has been shifted to cash\n"
+    },
+    {
+      "page": 30,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 30\nExtensions and QualificationsExtensions and Qualifications\n Interest-rate, bond, and currency futures are extremely popular\n Single-stock futures are gaining liquidity\n Volatility futures recently launched (VIX)"
+    },
+    {
+      "page": 31,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 31\nKey PointsKey Points\n Forward and futures contracts are zero-NPV contracts when initiated\n After initiation, both contracts may have positive/negative NPV\n Futures contracts are “marked to market” every day\n Futures and forwards are extremely liquid\n Hedging and speculating are important applications of futures/forwards"
+    },
+    {
+      "page": 32,
+      "text": "© 2007–2008 by Andrew W. LoLecture 8–9:  Forwards and Futures\n15.401\nSlide 32\nAdditional ReferencesAdditional References\nBrealey, R., Myers, S., and F. Allen, 2006, Principles of Corporate Finance.  New York: McGraw-Hill \nIrwin.\nGuay, W. and S. Kothari, 2003, “How Much Do Firms Hedge with Derivatives?,” Journal of Financial \nEconomics 70, 423–461.\nSiegel, D. and D. Siegel, 1990, The Futures Market: Arbitrage, Risk Management, and Portfolio \nStrategies.  Hinsdale, IL: Dryden Press."
+    },
+    {
+      "page": 33,
+      "text": "MIT OpenCourseWare\nhttp://ocw.mit.edu \n15.401 Finance Theory I \n Fall 2008\nFor information about citing these materials or our Terms of Use, visit: http://ocw.mit.edu/terms. "
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "session-11",
+  "session": 11,
+  "url": "https://archive.org/download/MIT15.401F08/MIT15_401F08_ses11_300k.mp4",
+  "path": "/media/session-11.mp4",
+  "youtube_id": "rMsu4v-UlkA",
+  "segments": [
+    {
+      "title": "Part II of Options",
+      "start": "",
+      "end": "",
+      "transcript": "static_resources/ba43434c51ed1fa26f43bc8231360abe_rMsu4v-UlkA.pdf",
+      "captions": "static_resources/926d30e69da55011bc7d512fb6de65e9_rMsu4v-UlkA.vtt"
+    }
+  ],
+  "bytes": 135966048,
+  "sha256": "9f059729c46cc6621ca160012cad136cdaa64222fc4fc153e268427f69bf912b",
+  "duration_seconds": 3532.59,
+  "caption_end_seconds": 3526.97,
+  "sample_decode_checks": [
+    {
+      "at_seconds": 0,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 1766.3,
+      "ok": true,
+      "error": ""
+    },
+    {
+      "at_seconds": 3527.59,
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "status": "ready"
+}

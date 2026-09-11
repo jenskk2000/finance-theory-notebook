@@ -1,0 +1,895 @@
+[
+  {
+    "path": "data.json",
+    "status": "different",
+    "different_fields": [
+      "instructors"
+    ]
+  },
+  {
+    "path": "pages/calendar/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/exams/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/instructor-insights/data.json",
+    "status": "different",
+    "different_fields": [
+      "content"
+    ]
+  },
+  {
+    "path": "pages/problem-sets/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/readings/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/recitations/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/syllabus/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/capital-budgeting/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/course-summary/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/efficient-markets/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/equities/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/fixed-income-securities/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/forward-and-futures-contracts/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/introduction-and-course-overview/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/options/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/portfolio-theory/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/present-value-relations/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/risk-and-return/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "pages/video-lectures-and-slides/the-capm-and-apt/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/15-401f08-th/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/15-401f08/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/4f1j5q3diai-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/4f1j5q3diai-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/4f1j5q3diai/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/8kffg5jaoqc/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files",
+      "video_metadata"
+    ]
+  },
+  {
+    "path": "resources/8kffg5jaoqc_captions/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/8kffg5jaoqc_transcript/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/a5pf2pcelv0-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/a5pf2pcelv0-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/a5pf2pcelv0/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/att59jxu9es-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/att59jxu9es-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/att59jxu9es/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/capital-asset-pricing-model/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/capital-budgeting/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/cny-1ydbqno-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/cny-1ydbqno-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/cny-1ydbqno/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/course-summary/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/equities-common-stocks/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/equities/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/final-exam-review-slides/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/forward-and-futures-contracts/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hdhlfioajye-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hdhlfioajye-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hdhlfioajye/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/hyc8h5t76be/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/i_plf9j3qpe-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/i_plf9j3qpe-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/i_plf9j3qpe/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/introduction-and-course-overview/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/iwa7nvewqto-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/iwa7nvewqto-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/iwa7nvewqto-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/iwa7nvewqto-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/iwa7nvewqto-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/iwa7nvewqto/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/j7d3vcas9-o-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/j7d3vcas9-o-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/j7d3vcas9-o/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/je80wlnihje/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/midterm-exam-review-slides/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_courseoutline/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_final/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_final_sol/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec01/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec02/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec04/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec07/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec08/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec10/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec12/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec13/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec15/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec18/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_lec21/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_midterm/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_midterm_sol/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_problem_sets/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_rec02/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/mit15_401f08_summary/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/n8gtnbjumoo-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/n8gtnbjumoo-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/n8gtnbjumoo/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/options/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/p03pfygnjmw/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/part-i-of-efficient-markets/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-i-of-fixed-income-securities/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-i-of-forward-and-futures-contracts/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-i-of-present-value-relations/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-i-of-risk-and-return/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-capital-budgeting/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-efficient-markets/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-fixed-income-securities/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-forward-and-futures-contracts-1/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-forward-and-futures-contracts/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-options/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-portfolio-theory/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-present-value-relations/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-risk-and-return-1/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-risk-and-return/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-ii-of-the-capm-and-apt/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-efficient-markets/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-fixed-income-securities/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-options/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-portfolio-theory-1/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-portfolio-theory/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-present-value-relations/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-the-capm-and-apt-1/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iii-of-the-capm-and-apt/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/part-iv-of-fixed-income-securities/data.json",
+    "status": "different",
+    "different_fields": [
+      "video_files"
+    ]
+  },
+  {
+    "path": "resources/portfolio-theory/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/present-value-relations/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/q2qjnlo3i_m/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/rmsu4v-ulka-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/rmsu4v-ulka-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/rmsu4v-ulka/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/smkqywwkijq/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/tl7lcl90sc0/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/u03md5enu-0-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/u03md5enu-0-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/u03md5enu-0/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/yrmqynvvizs-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/yrmqynvvizs-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/yrmqynvvizs/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4-3/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4-4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4-5/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/z2oqe6b1qa4/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/zwknk9lieta-1/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/zwknk9lieta-2/data.json",
+    "status": "match",
+    "different_fields": []
+  },
+  {
+    "path": "resources/zwknk9lieta/data.json",
+    "status": "match",
+    "different_fields": []
+  }
+]
