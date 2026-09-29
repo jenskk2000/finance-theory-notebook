@@ -1,6 +1,6 @@
 # Finance Theory I · local course
 
-This is the first working milestone of a local-first learning interface for MIT OpenCourseWare 15.401 Finance Theory I (Fall 2008). It provides the full 12-module source map, a complete authored Introduction lesson, and an authored Present Value learning pilot. The remaining modules are explicitly marked **Source map** and are not claimed as authored lessons.
+This local-first learning interface for MIT OpenCourseWare 15.401 Finance Theory I (Fall 2008) provides the full 12-module source map, a complete authored Introduction lesson, an authored Present Value learning pilot, and concise guided overviews for modules 03–12. The overviews are not claimed as complete authored lessons.
 
 The Present Value pilot currently includes one substantive authored lesson with six navigable sections: an interactive cash-flow timeline, derivations, the MIT lighting-system exercise with progressive hints, annuity/perpetuity and real/nominal explanations, saved browser progress, notes, search, a source drawer, local lecture/recitation/transcript PDFs, captions, and exact access to all 35 original problems and solutions in their PDF spans. It is a quality milestone, not an exhaustive conversion of the module.
 
@@ -23,6 +23,7 @@ pnpm run dev
 - 12 of 12 modules: source-mapped in navigation
 - Introduction: complete authored notebook lesson with six sections, interaction, comprehension feedback, original recording, and source anchors
 - Present Value: first authored pilot lesson and interactive model complete; six sections are navigable within the lesson
+- Modules 03–12: guided overviews with core explanations, worked examples, self-check prompts and original source links; full lesson and exercise conversion remains open
 - Original Present Value problems 1–35: accessible at exact question pages 7–14 and solution pages 42–48; not all converted into native exercises yet
 - Videos: all 20 lectures plus the instructor interview are present locally (21 ready recordings, approximately 3.55 GB). Transfer, duration, hashes and decode sampling are recorded in `public/media/manifest.json`; official online fallbacks remain linked.
 - Offline tutor/API: intentionally absent from this milestone; authored content is stored locally
